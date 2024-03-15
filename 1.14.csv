@@ -1,0 +1,50 @@
+﻿Sn,Age,Gender,PR3,PR4,PR5,Risk_score,Control_Score
+101,29,Female,Master,Businessman,Accountant or ther,2.25,2.25
+102,37,Male,Bachelor,Other,Officer,3,2.5
+103,32,Male,Master,Other,Branch manager,1.75,2
+104,40,Female,Master,Other,Officer,2,1.75
+105,38,Male,Master,Other,Branch manager,1.25,2
+106,21,Female,Master,Other,Accountant or ther,2,1.5
+107,32,Male,Master,Other,Officer,3.75,1
+108,37,Male,Master,Other,Branch manager,2,1.25
+109,30,Male,Intermdiate 10+2,Other,Accountant or ther,2.75,1.25
+110,39,Male,Master,Other, ,1.5,1.5
+111,30,Male,Bachelor,Other,Branch manager,3.25,4
+112,23,Male,Intermdiate 10+2,Other,Accountant or ther,3,2.25
+113,31,Male,Master,Other,Branch manager,2.5,2
+114,25,Male,Master,Other,Branch manager,2,1.5
+115,40,Male,Master,Other,Accountant or ther,1.25,1
+116,30,Male,Master,Other,Accountant or ther,2.25,1
+117,40,Male,Bachelor,Other,Officer,2,2.25
+118,39,Male,Master,Other,Officer,1.75,2
+119,21,Male,Bachelor,Other,Accountant or ther,1.25,1.5
+120,38,Female,Bachelor,Other,Officer,1.25,1
+121,23,Male,Bachelor,Other,Officer,2.5,2
+122,30,Male,Master,Other,Officer,1.75,1.75
+123,39,Male,Master,Other,Branch manager,1.75,2
+124,23,Female,Master,Other,Accountant or ther,3.5,3.25
+125,24,Male,Master,Other,Officer,2,2.75
+126,35,Male,Master,Other,Branch manager,2.25,2
+127,34,Female,Master,Other,Accountant or ther,2.25,2.25
+128,37,Male,Bachelor,Other,Accountant or ther,2.25,2
+129,29,Male,Master,Other, ,2.25,2
+130,33,Male,Master,Other,Officer,3.25,4.25
+131,25,Male,Bachelor,Other,Accountant or ther,1.75,1
+132,22,Female,Master,Other,Accountant or ther,2.75,2.5
+133,39,Male,Master,Other,Accountant or ther,2.5,1.75
+134,34,Male,Master,Other,Branch manager,1.75,2
+135,29,Male,Master,Other,Officer,3,2.5
+136,38,Male,Master,Other,Accountant or ther,3.25,3
+137,32,Male,Master,Other,Officer,2,1.75
+139,36,Male,Master,Other,Accountant or ther,3,2.25
+140,30,Male,Master,Other,Officer,2.5,2.5
+141,50,Male,Master,Other, ,2.25,2.75
+142,45,Male,Master,Other,Accountant or ther,2.5,3
+143,39,Male,Master,Other, ,2.75,2.75
+144,39,Male,Bachelor,Other,Branch manager,1.25,1
+145,30,Male,Master,Other,Branch manager,1.5,1
+146,32,Male,Master,Other,Accountant or ther,4,1.25
+147,28,Female,Master,Businessman,Officer,1.75,1.25
+148,30,Male,Master,Other,Officer,2,3
+149,40,Male,Master,Other,Branch manager,1.75,3
+150,43,Male,Master,Other,Branch manager, , 

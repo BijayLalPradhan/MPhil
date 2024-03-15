@@ -1,0 +1,1891 @@
+﻿FormNO,District,Age,Gender,Income,Education,Sevice_evaluation
+1,Chitwan,48,Female,11400,SLC/SEE,Good
+2,Chitwan,55,Female,14700,Below SLC/SEE,Ok
+3,Chitwan,14,Female,14600,SLC/SEE,Very Good
+4,Chitwan,30,Female,11500,SLC/SEE,Ok
+5,Chitwan,29,Female,10400,Below SLC/SEE,Ok
+6,Chitwan,40,Female,12300,SLC/SEE,Good
+7,Chitwan,47,Male,10100,SLC/SEE,Ok
+8,Chitwan,60,Female,3200,Below SLC/SEE,Ok
+9,Chitwan,81,Male,3100,SLC/SEE,Ok
+10,Chitwan,30,Female,14900,SLC/SEE,Very Good
+11,Chitwan,49,Female,14800,SLC/SEE,Good
+12,Chitwan,36,Male,11600,SLC/SEE,Good
+13,Chitwan,26,Female,11400,SLC/SEE,Ok
+14,Chitwan,20,Female,11100,Bachelor,Ok
+15,Chitwan,23,Male,11800,Bachelor,Ok
+16,Chitwan,33,Female,14700,Bachelor,Good
+17,Chitwan,25,Female,10100,SLC/SEE,Ok
+18,Chitwan,30,Female,13000,SLC/SEE,Good
+19,Chitwan,51,Male,12400,SLC/SEE,Ok
+20,Chitwan,36,Female,10800,SLC/SEE,Ok
+21,Chitwan,32,Male,14100,SLC/SEE,Ok
+22,Chitwan,34,Female,13600,Bachelor,Ok
+23,Chitwan,27,Male,11900,Bachelor,Ok
+24,Chitwan,35,Female,13200,SLC/SEE,Ok
+25,Chitwan,65,Male,5700,Bachelor,Good
+26,Chitwan,38,Female,11100,Bachelor,Ok
+27,Chitwan,35,Male,13100,Bachelor,Good
+28,Chitwan,25,Female,11400,SLC/SEE,Ok
+29,Chitwan,31,Female,11800,SLC/SEE,Ok
+30,Chitwan,40,Female,12300,Bachelor,Bad
+31,Chitwan,30,Female,11700,SLC/SEE,Bad
+32,Chitwan,27,Female,16000,Masters and above,Ok
+33,Chitwan,36,Male,14000,SLC/SEE,Ok
+34,Chitwan,38,Female,13200,SLC/SEE,Good
+35,Chitwan,35,Male,10800,SLC/SEE,Ok
+36,Chitwan,35,Female,12700,SLC/SEE,Good
+37,Chitwan,40,Female,10800,Masters and above,Good
+38,Chitwan,45,Female,11000,SLC/SEE,Good
+39,Chitwan,38,Female,12900,SLC/SEE,Ok
+40,Chitwan,41,Male,13800,SLC/SEE,Ok
+41,Chitwan,56,Male,13500,SLC/SEE,Good
+42,Chitwan,40,Female,13800,SLC/SEE,Ok
+43,Chitwan,29,Female,13800,Bachelor,Ok
+44,Chitwan,37,Male,14600,SLC/SEE,Ok
+45,Chitwan,29,Male,11900,Bachelor,Good
+46,Chitwan,35,Female,10200,SLC/SEE,Ok
+47,Chitwan,30,Female,10900,Bachelor,Ok
+48,Chitwan,33,Male,11500,Bachelor,Ok
+49,Chitwan,51,Male,13400,SLC/SEE,Ok
+50,Chitwan,29,Male,11500,Bachelor,Good
+51,Chitwan,32,Female,11000,SLC/SEE,Ok
+52,Chitwan,32,Female,13100,SLC/SEE,Good
+53,Chitwan,60,Female,6700,SLC/SEE,Good
+54,Chitwan,65,Male,4000,SLC/SEE,Good
+55,Chitwan,50,Female,13900,Below SLC/SEE,Ok
+56,Chitwan,24,Female,13200,Bachelor,Good
+57,Chitwan,33,Male,11400,Below SLC/SEE,Ok
+58,Chitwan,42,Male,14700,SLC/SEE,Good
+59,Chitwan,40,Female,12200,SLC/SEE,Bad
+60,Chitwan,30,Female,14000,SLC/SEE,Ok
+61,Chitwan,58,Male,11800,SLC/SEE,Good
+62,Chitwan,35,Female,15000,SLC/SEE,Ok
+63,Chitwan,48,Male,13300,SLC/SEE,Good
+64,Chitwan,80,Male,3600,SLC/SEE,Good
+65,Chitwan,63,Male,6400,SLC/SEE,Good
+66,Chitwan,75,Male,3000,Below SLC/SEE,Good
+67,Chitwan,56,Female,10500,SLC/SEE,Good
+68,Chitwan,34,Female,13200,SLC/SEE,Good
+69,Chitwan,40,Female,14000,SLC/SEE,Good
+70,Chitwan,25,Female,11300,SLC/SEE,Good
+71,Chitwan,20,Male,10300,SLC/SEE,Good
+72,Chitwan,66,Female,2600,Below SLC/SEE,Good
+73,Chitwan,55,Female,11200,SLC/SEE,Good
+74,Chitwan,35,Female,13000,SLC/SEE,Good
+75,Chitwan,40,Male,11200,Inter/+2,Ok
+76,Chitwan,35,Male,11100,Masters and above,Good
+77,Chitwan,51,Male,14300,Inter/+2,Good
+78,Chitwan,30,Female,13900,SLC/SEE,Good
+79,Chitwan,36,Female,11800,SLC/SEE,Good
+80,Chitwan,50,Male,14400,SLC/SEE,Good
+81,Chitwan,55,Female,14900,Below SLC/SEE,Ok
+82,Chitwan,26,Male,12200,SLC/SEE,Ok
+83,Chitwan,37,Female,14900,SLC/SEE,Good
+84,Chitwan,34,Female,13200,SLC/SEE,Good
+85,Chitwan,44,Male,12100,SLC/SEE,Good
+86,Chitwan,45,Male,14700,SLC/SEE,Ok
+87,Chitwan,26,Male,10200,Inter/+2,Very Good
+88,Chitwan,18,Female,14100,Inter/+2,Very Good
+89,Chitwan,55,Male,14400,SLC/SEE,Very Good
+90,Chitwan,55,Male,11300,SLC/SEE,Very Good
+91,Chitwan,35,Male,11300,SLC/SEE,Good
+92,Chitwan,30,Female,13300,SLC/SEE,Very Good
+93,Chitwan,54,Female,10700,SLC/SEE,Ok
+94,Chitwan,34,Female,12900,SLC/SEE,Ok
+95,Chitwan,42,Male,11700,SLC/SEE,Good
+96,Chitwan,55,Male,14400,SLC/SEE,Good
+97,Chitwan,42,Male,10300,SLC/SEE,Good
+98,Chitwan,30,Female,14500,SLC/SEE,Ok
+99,Chitwan,51,Male,13800,Below SLC/SEE,Ok
+100,Chitwan,30,Male,11200,Inter/+2,Good
+101,Chitwan,36,Female,13100,SLC/SEE,Ok
+102,Chitwan,42,Male,10500,Inter/+2,Good
+103,Chitwan,53,Male,12100,SLC/SEE,Ok
+104,Chitwan,57,Male,14400,SLC/SEE,Good
+105,Chitwan,63,Male,6400,SLC/SEE,Good
+106,Chitwan,38,Male,12300,SLC/SEE,Good
+107,Chitwan,33,Male,11800,Below SLC/SEE,Good
+108,Chitwan,28,Male,10700,SLC/SEE,Good
+109,Chitwan,30,Male,14100,SLC/SEE,Good
+110,Chitwan,33,Female,11200,SLC/SEE,Good
+111,Chitwan,35,Female,14000,Below SLC/SEE,Good
+112,Chitwan,33,Male,10700,SLC/SEE,Good
+113,Chitwan,45,Male,11700,SLC/SEE,Good
+114,Chitwan,40,Female,11900,SLC/SEE,Good
+115,Chitwan,50,Male,13300,SLC/SEE,Good
+116,Chitwan,19,Female,10700,SLC/SEE,Good
+117,Chitwan,23,Female,14900,SLC/SEE,Ok
+118,Chitwan,65,Male,7000,SLC/SEE,Good
+119,Chitwan,28,Female,10500,SLC/SEE,Good
+120,Chitwan,45,Male,13600,SLC/SEE,Good
+121,Chitwan,43,Male,13800,SLC/SEE,Ok
+122,Chitwan,45,Male,12100,SLC/SEE,Ok
+123,Chitwan,40,Male,14600,Below SLC/SEE,Ok
+124,Chitwan,15,Female,14700,Inter/+2,Ok
+125,Chitwan,28,Female,13200,Masters and above,Ok
+126,Chitwan,15,Male,15000,Inter/+2,Ok
+127,Chitwan,40,Female,13500,Below SLC/SEE,Ok
+128,Chitwan,19,Female,14200,Bachelor,Ok
+129,Chitwan,35,Male,12500,Below SLC/SEE,Ok
+130,Chitwan,19,Female,14800,Bachelor,Ok
+131,Chitwan,26,Male,10200,SLC/SEE,Bad
+132,Chitwan,24,Female,14800,Bachelor,Ok
+133,Chitwan,50,Female,10500,Below SLC/SEE,Ok
+134,Chitwan,15,Male,13400,Inter/+2,Ok
+135,Chitwan,45,Male,10200,Below SLC/SEE,Ok
+136,Chitwan,60,Male,6200,Below SLC/SEE,Ok
+137,Chitwan,46,Male,10900,SLC/SEE,Ok
+138,Chitwan,34,Female,13800,Below SLC/SEE,Ok
+139,Chitwan,22,Female,14300,Masters and above,Ok
+140,Chitwan,45,Female,12000,SLC/SEE,Ok
+141,Chitwan,15,Female,10300,SLC/SEE,Ok
+142,Chitwan,36,Male,10700,Masters and above,Ok
+143,Chitwan,19,Female,12300,Inter/+2,Bad
+144,Chitwan,73,Male,6200,SLC/SEE,Ok
+145,Chitwan,54,Male,12200,SLC/SEE,Ok
+146,Chitwan,77,Male,4900,SLC/SEE,Ok
+147,Chitwan,44,Female,11700,Below SLC/SEE,Ok
+148,Chitwan,16,Female,13600,Inter/+2,Ok
+149,Chitwan,35,Male,14700,Inter/+2,Ok
+150,Chitwan,75,Male,4000,SLC/SEE,Ok
+151,Chitwan,19,Female,14400,Bachelor,Ok
+152,Chitwan,19,Female,13800,Inter/+2,Ok
+153,Chitwan,40,Male,13200,Below SLC/SEE,Ok
+154,Chitwan,66,Male,4000,Below SLC/SEE,Bad
+155,Chitwan,65,Male,6700,Below SLC/SEE,Ok
+156,Chitwan,57,Male,11300,SLC/SEE,Ok
+157,Chitwan,17,Male,10500,Masters and above,Ok
+158,Chitwan,20,Female,12600,SLC/SEE,Ok
+159,Chitwan,39,Male,11800,SLC/SEE,Ok
+160,Chitwan,67,Male,3600,SLC/SEE,Ok
+161,Chitwan,43,Male,10000,Below SLC/SEE,Ok
+162,Chitwan,54,Male,10300,SLC/SEE,Bad
+163,Chitwan,37,Male,12900,Masters and above,Ok
+164,Chitwan,46,Male,13000,SLC/SEE,Ok
+165,Chitwan,17,Female,13300,Masters and above,Ok
+166,Chitwan,46,Female,11500,Below SLC/SEE,Ok
+167,Chitwan,36,Female,11500,Masters and above,Ok
+168,Chitwan,27,Female,10400,Masters and above,Ok
+169,Chitwan,17,Male,14200,Inter/+2,Ok
+170,Chitwan,32,Male,11700,SLC/SEE,Ok
+171,Chitwan,35,Female,14600,Below SLC/SEE,Ok
+172,Chitwan,42,Male,10300,SLC/SEE,Ok
+173,Chitwan,37,Female,11300,Below SLC/SEE,Bad
+174,Chitwan,40,Male,11700,Below SLC/SEE,Ok
+175,Chitwan,56,Male,10100,SLC/SEE,Ok
+176,Chitwan,35,Female,14600,SLC/SEE,Ok
+177,Chitwan,39,Male,12600,SLC/SEE,Ok
+178,Chitwan,16,Female,13200,Inter/+2,Ok
+179,Chitwan,46,Male,14200,SLC/SEE,Bad
+180,Chitwan,45,Male,13700,Inter/+2,Ok
+181,Chitwan,25,Male,13600,SLC/SEE,Ok
+182,Chitwan,60,Male,4000,Below SLC/SEE,Ok
+183,Chitwan,60,Female,3600,Below SLC/SEE,Ok
+184,Chitwan,25,Male,14500,Inter/+2,Ok
+185,Chitwan,50,Male,14600,Below SLC/SEE,Ok
+186,Chitwan,19,Female,13300,SLC/SEE,Bad
+187,Chitwan,50,Male,12200,SLC/SEE,Ok
+188,Chitwan,45,Female,11500,SLC/SEE,Ok
+189,Chitwan,59,Male,10700,SLC/SEE,Ok
+190,Chitwan,47,Male,11700,Bachelor,Ok
+191,Chitwan,17,Female,14800,SLC/SEE,Ok
+192,Chitwan,21,Female,12300,SLC/SEE,Ok
+193,Chitwan,36,Male,10100,SLC/SEE,Ok
+194,Chitwan,36,Female,14600,SLC/SEE,Ok
+195,Chitwan,51,Male,13300,SLC/SEE,Ok
+196,Chitwan,49,Female,13100,SLC/SEE,Ok
+197,Chitwan,51,Male,10900,SLC/SEE,Ok
+198,Chitwan,36,Female,12000,SLC/SEE,Ok
+199,Chitwan,65,Male,3300,Below SLC/SEE,Ok
+200,Chitwan,66,Male,5800,Below SLC/SEE,Ok
+201,Chitwan,60,Male,6800,SLC/SEE,Ok
+202,Chitwan,45,Male,13200,Below SLC/SEE,Ok
+203,Chitwan,60,Female,4200,Below SLC/SEE,Ok
+204,Chitwan,46,Male,13800,SLC/SEE,Ok
+205,Chitwan,24,Female,11200,SLC/SEE,Ok
+206,Chitwan,42,Male,14500,Inter/+2,Ok
+207,Chitwan,50,Male,10300,Below SLC/SEE,Ok
+208,Chitwan,57,Male,10600,Below SLC/SEE,Ok
+209,Chitwan,40,Male,14800,SLC/SEE,Ok
+210,Chitwan,25,Female,12900,Inter/+2,Ok
+211,Chitwan,52,Male,12600,Below SLC/SEE,Ok
+212,Chitwan,56,Male,14900,SLC/SEE,Ok
+213,Chitwan,59,Male,14500,SLC/SEE,Bad
+214,Chitwan,33,Female,10200,Below SLC/SEE,Ok
+215,Chitwan,30,Female,11100,SLC/SEE,Ok
+216,Chitwan,51,Female,13700,SLC/SEE,Ok
+217,Chitwan,63,Male,4000,SLC/SEE,Bad
+218,Chitwan,45,Female,10900,Below SLC/SEE,Ok
+219,Chitwan,53,Male,13300,SLC/SEE,Ok
+220,Chitwan,47,Male,12300,SLC/SEE,Ok
+221,Chitwan,36,Female,14100,SLC/SEE,Ok
+222,Chitwan,32,Female,12800,SLC/SEE,Ok
+223,Chitwan,29,Female,13800,SLC/SEE,Ok
+224,Chitwan,23,Female,12800,Bachelor,Ok
+225,Chitwan,61,Male,6300,SLC/SEE,Bad
+226,Chitwan,45,Female,14100,SLC/SEE,Ok
+227,Chitwan,27,Female,14800,Inter/+2,Ok
+228,Chitwan,25,Female,14900,Inter/+2,Ok
+229,Chitwan,28,Male,11500,Inter/+2,Ok
+230,Chitwan,55,Male,13100,SLC/SEE,Ok
+231,Chitwan,45,Male,12100,SLC/SEE,Ok
+232,Chitwan,57,Male,11300,Below SLC/SEE,Ok
+233,Chitwan,26,Male,10800,Inter/+2,Ok
+234,Chitwan,45,Male,14800,Below SLC/SEE,Ok
+235,Chitwan,51,Male,14600,Below SLC/SEE,Ok
+236,Chitwan,25,Female,12600,Masters and above,Bad
+237,Chitwan,43,Female,11000,Below SLC/SEE,Ok
+238,Chitwan,46,Male,12400,SLC/SEE,Ok
+239,Chitwan,33,Female,12500,SLC/SEE,Ok
+240,Chitwan,27,Male,12100,Masters and above,Ok
+241,Chitwan,30,Female,14500,SLC/SEE,Ok
+242,Chitwan,45,Male,11800,SLC/SEE,Ok
+243,Chitwan,48,Male,10000,SLC/SEE,Good
+244,Chitwan,25,Male,10400,SLC/SEE,Good
+245,Chitwan,26,Female,11300,Inter/+2,Very Bad
+246,Chitwan,25,Female,11700,SLC/SEE,Ok
+247,Chitwan,80,Male,6200,SLC/SEE,Ok
+248,Chitwan,45,Male,12500,SLC/SEE,Ok
+249,Chitwan,42,Male,12000,Masters and above,Good
+250,Chitwan,45,Male,14300,Inter/+2,Ok
+251,Chitwan,35,Male,12100,SLC/SEE,Ok
+252,Chitwan,27,Female,13800,Bachelor,Bad
+253,Chitwan,55,Male,10800,SLC/SEE,Ok
+254,Chitwan,31,Female,15000,SLC/SEE,Good
+255,Chitwan,48,Female,13900,SLC/SEE,Ok
+256,Chitwan,48,Male,13000,SLC/SEE,Ok
+257,Chitwan,43,Male,12100,SLC/SEE,Good
+258,Chitwan,46,Male,11300,SLC/SEE,Ok
+259,Chitwan,42,Male,10900,Inter/+2,Good
+260,Chitwan,50,Male,14400,SLC/SEE,Ok
+261,Chitwan,68,Male,3800,SLC/SEE,Good
+262,Chitwan,26,Male,14900,Inter/+2,Bad
+263,Chitwan,54,Male,13700,SLC/SEE,Good
+264,Chitwan,54,Male,13400,SLC/SEE,Bad
+265,Chitwan,28,Male,13500,Bachelor,Good
+266,Chitwan,53,Male,11200,SLC/SEE,Ok
+267,Chitwan,44,Male,10800,SLC/SEE,Good
+268,Chitwan,63,Male,6500,SLC/SEE,Good
+269,Chitwan,45,Male,14000,Inter/+2,Ok
+270,Chitwan,38,Male,12500,SLC/SEE,Ok
+271,Chitwan,49,Male,14600,Bachelor,Ok
+272,Chitwan,50,Male,14800,Below SLC/SEE,Good
+273,Chitwan,48,Male,10400,Bachelor,Ok
+274,Chitwan,60,Male,6200,SLC/SEE,Ok
+275,Chitwan,20,Female,13000,Bachelor,Ok
+276,Chitwan,27,Female,14700,SLC/SEE,Bad
+277,Chitwan,36,Male,14400,Bachelor,Ok
+278,Chitwan,36,Male,11700,SLC/SEE,Ok
+279,Chitwan,62,Male,5700,SLC/SEE,Ok
+280,Chitwan,48,Male,10500,SLC/SEE,Bad
+281,Chitwan,42,Male,10700,SLC/SEE,Ok
+282,Chitwan,47,Male,12500,SLC/SEE,Ok
+283,Chitwan,25,Female,11500,Bachelor,Ok
+284,Chitwan,18,Female,13100,SLC/SEE,Ok
+285,Chitwan, ,Male,14800,SLC/SEE,Ok
+286,Chitwan,28,Male,12100,Inter/+2,Ok
+287,Chitwan,48,Male,12700,SLC/SEE,Bad
+288,Chitwan,52,Male,10600,SLC/SEE,Ok
+289,Chitwan,38,Female,13600,SLC/SEE,Good
+290,Chitwan,50,Male,10900,Below SLC/SEE,Ok
+291,Chitwan,46,Female,14300,SLC/SEE,Ok
+292,Chitwan,35,Male,13700,Inter/+2,Ok
+293,Chitwan,58,Male,11600,Below SLC/SEE,Ok
+294,Chitwan,72,Male,6200,SLC/SEE,Ok
+295,Chitwan,32,Female,13000,Inter/+2,Ok
+296,Chitwan,35,Male,14900,Inter/+2,Good
+297,Chitwan,45,Female,10500,SLC/SEE,Bad
+298,Chitwan,37,Female,11100,SLC/SEE,Ok
+299,Chitwan,53,Male,13000,SLC/SEE,Ok
+300,Chitwan,38,Male,11200,Bachelor,Ok
+301,Chitwan,39,Male,13400,SLC/SEE,Ok
+302,Chitwan,60,Male,5400,SLC/SEE,Bad
+303,Chitwan,35,Male,11400,SLC/SEE,Ok
+304,Chitwan,25,Female,12300,SLC/SEE,Ok
+305,Chitwan,61,Female,5900,Below SLC/SEE,Good
+306,Chitwan,56,Male,13400,SLC/SEE,Ok
+307,Chitwan,30,Female,11900,SLC/SEE,Good
+308,Chitwan,28,Female,12100,SLC/SEE,Good
+309,Chitwan,23,Male,10800,Masters and above,Good
+310,Chitwan,24,Female,14600,SLC/SEE,Good
+311,Chitwan,63,Male,5100,SLC/SEE,Ok
+312,Chitwan,63,Female,4000,Below SLC/SEE,Good
+313,Chitwan,30,Male,12800,SLC/SEE,Good
+314,Chitwan,59,Female,13900,SLC/SEE,Ok
+315,Chitwan,30,Female,11000,SLC/SEE,Good
+316,Chitwan,40,Female,11400,SLC/SEE,Very Bad
+317,Chitwan,58,Male,13900,SLC/SEE,Good
+318,Chitwan,50,Male,10300,SLC/SEE,Good
+319,Chitwan,40,Female,10100,SLC/SEE,Good
+320,Chitwan,24,Female,12500,SLC/SEE,Very Good
+321,Chitwan,31,Male,14400,SLC/SEE,Ok
+322,Chitwan,44,Male,14600,SLC/SEE,Good
+323,Chitwan,45,Male,12300,SLC/SEE,Bad
+324,Chitwan,47,Male,10300,Inter/+2,Good
+325,Chitwan,50,Male,10000,SLC/SEE,Good
+326,Chitwan,38,Male,12300,SLC/SEE,Good
+327,Chitwan,45,Male,10400,Masters and above,Good
+328,Chitwan,27,Female,12600,Inter/+2,Ok
+329,Chitwan,27,Male,13900,Masters and above,Ok
+330,Chitwan,66,Male,3900,Below SLC/SEE,Good
+331,Chitwan,27,Female,13600,SLC/SEE,Bad
+332,Chitwan,63,Male,6600,SLC/SEE,Bad
+333,Chitwan,26,Male,12900,Inter/+2,Ok
+334,Chitwan,25,Female,15000,SLC/SEE,Good
+335,Chitwan,57,Male,11700,Masters and above,Good
+336,Chitwan,43,Female,10100,SLC/SEE,Good
+337,Chitwan,42,Female,11300,Inter/+2,Ok
+338,Chitwan,29,Male,11100,SLC/SEE,Very Good
+339,Chitwan,56,Male,13600,SLC/SEE,Ok
+340,Chitwan,46,Male,14900,SLC/SEE,Good
+341,Chitwan,51,Male,11300,SLC/SEE,Ok
+342,Chitwan,50,Male,13800,SLC/SEE,Ok
+343,Chitwan,21,Male,11600,SLC/SEE,Ok
+344,Chitwan,54,Male,10300,SLC/SEE,Bad
+345,Chitwan,41,Male,10300,Inter/+2,Good
+346,Chitwan,49,Female,12700,SLC/SEE,Bad
+347,Chitwan,32,Male,11200,SLC/SEE,Good
+348,Chitwan,22,Male,11400,SLC/SEE,Ok
+349,Chitwan,54,Male,14600,SLC/SEE,Good
+350,Chitwan,60,Male,3100,SLC/SEE,Good
+351,Chitwan,40,Male,10400,SLC/SEE,Ok
+352,Chitwan,45,Male,13800,SLC/SEE,Ok
+353,Chitwan,48,Male,14200,SLC/SEE,Ok
+354,Chitwan,39,Male,11600,SLC/SEE,Good
+355,Chitwan,42,Male,13200,SLC/SEE,Ok
+356,Chitwan,29,Male,11300,Bachelor,Ok
+357,Chitwan,28,Male,14100,Bachelor,Very Good
+358,Chitwan,36,Male,10800,SLC/SEE,Ok
+359,Chitwan,47,Male,13300,SLC/SEE,Bad
+360,Chitwan,28,Male,11400,SLC/SEE,Ok
+361,Chitwan,32,Male,12800,SLC/SEE,Good
+362,Chitwan,56,Female,11700,SLC/SEE,Ok
+363,Chitwan,59,Male,12900,SLC/SEE,Good
+364,Chitwan,67,Male,3200,SLC/SEE,Good
+365,Chitwan,54,Male,12300,SLC/SEE,Good
+366,Chitwan,60,Male,2500,SLC/SEE,Ok
+367,Chitwan,53,Male,13700,Below SLC/SEE,Good
+368,Chitwan,34,Female,13500,SLC/SEE,Ok
+369,Chitwan,45,Male,10500,SLC/SEE,Good
+370,Chitwan,40,Female,11400,SLC/SEE,Ok
+371,Chitwan,42,Male,12000,SLC/SEE,Ok
+372,Chitwan,25,Male,15000,SLC/SEE,Good
+373,Chitwan,27,Female,12300,SLC/SEE,Ok
+374,Chitwan,37,Male,14100,Bachelor,Ok
+375,Chitwan,55,Male,11000,SLC/SEE,Ok
+376,Chitwan,56,Male,10400,SLC/SEE,Ok
+377,Chitwan,28,Female,14700,SLC/SEE,Good
+378,Chitwan,43,Male,11700,SLC/SEE,Good
+379,Chitwan,46,Male,14100,SLC/SEE,Ok
+380,Chitwan,42,Male,14400,Inter/+2,Good
+381,Chitwan,44,Male,10300,SLC/SEE,Good
+382,Chitwan,56,Male,13600,SLC/SEE,Good
+383,Chitwan,42,Female,14000,SLC/SEE,Ok
+384,Chitwan,53,Male,11500,Below SLC/SEE,Ok
+385,Chitwan,36,Female,13900,Below SLC/SEE,Ok
+386,Chitwan,32,Male,14300,SLC/SEE,Ok
+387,Chitwan,32,Male,14900,SLC/SEE,Ok
+388,Chitwan,42,Male,13400,SLC/SEE,Ok
+389,Chitwan,51,Female,13400,Below SLC/SEE,Bad
+390,Chitwan,42,Male,11700,SLC/SEE,Ok
+391,Chitwan,61,Female,3700,Below SLC/SEE,Ok
+392,Chitwan,37,Male,13200,SLC/SEE,Ok
+393,Chitwan,46,Female,11400,Below SLC/SEE,Ok
+394,Chitwan,56,Female,14100,Below SLC/SEE,Ok
+395,Chitwan,45,Male,10200,SLC/SEE,Ok
+396,Chitwan,37,Male,14200,SLC/SEE,Ok
+397,Chitwan,52,Male,13700,Below SLC/SEE,Ok
+398,Chitwan,62,Male,3100,Below SLC/SEE,Ok
+399,Chitwan,60,Male,4500,Below SLC/SEE,Ok
+400,Chitwan,55,Female,13500,Below SLC/SEE,Ok
+401,Chitwan,65,Male,5100,Below SLC/SEE,Ok
+402,Chitwan,66,Male,2700,SLC/SEE,Ok
+403,Chitwan,43,Male,10000,SLC/SEE,Ok
+404,Chitwan, ,Male,13400,SLC/SEE,Ok
+405,Chitwan,31,Female,12500,SLC/SEE,Ok
+406,Chitwan,35,Male,10500,SLC/SEE,Ok
+407,Chitwan,46,Male,13900,SLC/SEE,Ok
+408,Chitwan,39,Male,13100,SLC/SEE,Ok
+409,Chitwan,43,Male,10700,Below SLC/SEE,Ok
+410,Chitwan,34,Male,11400,SLC/SEE,Ok
+411,Chitwan,50,Male,14000,SLC/SEE,Ok
+412,Chitwan,48,Male,13600,SLC/SEE,Ok
+413,Chitwan,54,Male,10600,SLC/SEE,Ok
+414,Chitwan,37,Male,13500,Below SLC/SEE,Ok
+415,Chitwan,39,Male,12400,SLC/SEE,Ok
+416,Chitwan,40,Male,11300,Below SLC/SEE,Good
+417,Chitwan,32,Female,11700,SLC/SEE,Ok
+418,Chitwan, ,Female,14600,SLC/SEE,Bad
+419,Chitwan,41,Male,14900,SLC/SEE,Ok
+420,Chitwan,43,Male,14800,SLC/SEE,Ok
+421,Chitwan,41,Male,11800,Inter/+2,Good
+422,Chitwan,45,Male,11000,Inter/+2,Very Good
+423,Chitwan,31,Male,14300,Inter/+2,Ok
+424,Chitwan,51,Female,14100,Below SLC/SEE,Ok
+425,Chitwan,33,Female,14700,Inter/+2,Ok
+426,Chitwan,43,Male,14400,SLC/SEE,Good
+427,Chitwan,34,Male,11900,Masters and above,Ok
+428,Chitwan,42,Male,12200,SLC/SEE,Very Good
+429,Chitwan,24,Female,14200,SLC/SEE,Good
+430,Chitwan,29,Male,14400,SLC/SEE,Good
+431,Chitwan, ,Male,10600,SLC/SEE,Very Good
+432,Chitwan,34,Female,11800,Masters and above,Very Good
+433,Chitwan,39,Male,12100,SLC/SEE,Good
+434,Chitwan, ,Male,13300,SLC/SEE,Good
+435,Chitwan,63,Male,3400,SLC/SEE,Good
+436,Chitwan,68,Male,5300,Below SLC/SEE,Ok
+437,Chitwan,54,Male,11500,SLC/SEE,Ok
+438,Chitwan,22,Male,10700,Inter/+2,Good
+439,Chitwan,47,Male,11600,Below SLC/SEE,Good
+440,Chitwan,29,Male,12300,Inter/+2,Good
+441,Chitwan,53,Female,14800,SLC/SEE,Ok
+442,Chitwan,27,Male,10700,Inter/+2,Good
+443,Chitwan,35,Male,13700,Bachelor,Bad
+444,Chitwan,49,Male,14800,SLC/SEE,Good
+445,Chitwan,24,Male,14000,Bachelor,Ok
+446,Chitwan,43,Male,11200,SLC/SEE,Ok
+447,Chitwan,63,Male,3800,SLC/SEE,Good
+448,Chitwan,33,Male,13200,SLC/SEE,Good
+449,Chitwan,34,Male,14000,Inter/+2,Ok
+450,Chitwan,50,Male,12400,Bachelor,Ok
+451,Chitwan,56,Male,14800,Inter/+2,Ok
+452,Chitwan,44,Male,11700,Inter/+2,Good
+453,Chitwan,72,Male,4200,SLC/SEE,Good
+454,Chitwan,19,Female,12300,Bachelor,Ok
+455,Chitwan,57,Female,12800,Below SLC/SEE,Good
+456,Chitwan,44,Male,10100,SLC/SEE,Bad
+457,Chitwan,44,Female,13500,SLC/SEE,Good
+458,Chitwan,37,Male,13100,Masters and above,Good
+459,Chitwan,49,Female,12800,Below SLC/SEE,Ok
+460,Chitwan,36,Male,13100,SLC/SEE,Ok
+461,Chitwan,56,Male,11700,Below SLC/SEE,Ok
+462,Chitwan,53,Male,12100,SLC/SEE,Ok
+463,Chitwan,30,Male,13800,Inter/+2,Ok
+464,Chitwan,53,Male,13400,SLC/SEE,Ok
+465,Chitwan,27,Female,12100,Below SLC/SEE,Ok
+466,Chitwan,26,Male,12400,Bachelor,Good
+467,Chitwan,47,Male,13300,SLC/SEE,Ok
+468,Chitwan,63,Male,4800,SLC/SEE,Good
+469,Chitwan,46,Male,11100,Inter/+2,Ok
+470,Chitwan,67,Male,4000,SLC/SEE,Ok
+471,Chitwan,44,Male,11900,Inter/+2,Ok
+472,Chitwan,60,Female,5000,SLC/SEE,Ok
+473,Chitwan,42,Male,10700,SLC/SEE,Ok
+474,Chitwan,35,Male,11500,SLC/SEE,Very Good
+475,Chitwan,69,Male,6700,Below SLC/SEE,Ok
+476,Chitwan,37,Male,10400,Below SLC/SEE,Good
+477,Chitwan,57,Male,13200,Below SLC/SEE,Ok
+478,Chitwan,49,Male,14400,SLC/SEE,Ok
+479,Chitwan,27,Male,14300,SLC/SEE,Ok
+480,Chitwan,36,Male,13500,Inter/+2,Ok
+481,Chitwan,39,Female,14400,SLC/SEE,Ok
+482,Chitwan,45,Male,11400,SLC/SEE,Ok
+483,Chitwan,32,Female,14900,Bachelor,Good
+484,Chitwan,39,Male,11300,Inter/+2,Ok
+485,Chitwan,33,Male,14900,Bachelor,Ok
+486,Chitwan,26,Female,10000,SLC/SEE,Bad
+487,Chitwan,22,Female,12800,Inter/+2,Good
+488,Chitwan,21,Female,14200,SLC/SEE,Bad
+489,Chitwan,40,Female,12600,SLC/SEE,Good
+490,Chitwan,31,Male,14500,SLC/SEE,Ok
+491,Chitwan,70,Female,5100,Below SLC/SEE,Ok
+492,Chitwan,50,Male,11700,SLC/SEE,Good
+493,Chitwan,58,Male,14700,Below SLC/SEE,Good
+494,Chitwan,30,Female,11900,SLC/SEE,Ok
+495,Chitwan,21,Female,10600,SLC/SEE,Ok
+496,Chitwan,37,Female,13300,Below SLC/SEE,Ok
+497,Chitwan,30,Female,11600,Bachelor,Good
+498,Chitwan,52,Male,13600,Masters and above,Ok
+499,Chitwan,20,Female,14400,Below SLC/SEE,Ok
+500,Chitwan,33,Male,11300,SLC/SEE,Ok
+501,Chitwan,20,Female,11100,SLC/SEE,Good
+502,Chitwan,72,Female,5800,Below SLC/SEE,Good
+503,Chitwan,50,Female,10700,Below SLC/SEE,Ok
+504,Chitwan,48,Male,11900,SLC/SEE,Good
+505,Chitwan,45,Female,11300,SLC/SEE,Good
+506,Chitwan,30,Male,11700,SLC/SEE,Good
+507,Chitwan,58,Male,10100,Below SLC/SEE,Ok
+508,Chitwan,59,Male,13500,SLC/SEE,Ok
+509,Chitwan,26,Male,11300,SLC/SEE,Good
+510,Chitwan,30,Male,12500,SLC/SEE,Ok
+511,Chitwan,60,Female,2900,Below SLC/SEE,Good
+512,Chitwan,68,Female,6500,Below SLC/SEE,Good
+513,Chitwan,65,Male,3400,SLC/SEE,Good
+514,Chitwan,20,Female,13600,SLC/SEE,Good
+515,Chitwan,34,Female,14600,SLC/SEE,Ok
+516,Chitwan,38,Female,13100,SLC/SEE,Ok
+517,Chitwan,59,Female,14800,Below SLC/SEE,Ok
+518,Chitwan,50,Female,10600,Below SLC/SEE,Good
+519,Chitwan,64,Male,2900,Below SLC/SEE,Good
+520,Chitwan,50,Female,11500,Below SLC/SEE,Good
+531,Chitwan,55,Male,13400,Masters and above,Ok
+541,Chitwan,34,Male,10100,Inter/+2,Ok
+542,Chitwan,60,Male,6200,Bachelor,Ok
+543,Chitwan,32,Male,12700,Inter/+2,Very Good
+544,Chitwan,48,Male,15000,SLC/SEE,Ok
+545,Chitwan,49,Male,11200,SLC/SEE,Ok
+546,Chitwan,52,Male,14500,SLC/SEE,Good
+547,Chitwan,50,Male,12200,Inter/+2,Good
+548,Chitwan,27,Male,13600,Inter/+2,Good
+549,Chitwan,30,Male,13300,Bachelor,Good
+550,Chitwan,40,Male,14800,Inter/+2,Ok
+551,Chitwan,50,Male,10600,Inter/+2,Ok
+552,Chitwan,26,Male,12700,SLC/SEE,Good
+553,Chitwan,35,Male,11300,SLC/SEE,Ok
+554,Chitwan,40,Male,14200,SLC/SEE,Ok
+555,Chitwan,22,Male,10300,SLC/SEE,Good
+556,Chitwan,48,Male,10100,SLC/SEE,Ok
+557,Chitwan,42,Male,14800,Masters and above,Good
+558,Chitwan,38,Male,12500,Masters and above,Very Bad
+559,Chitwan,28,Male,11100,SLC/SEE,Bad
+560,Chitwan,40,Male,10200,SLC/SEE,Good
+561,Chitwan,34,Male,12300,Inter/+2,Ok
+562,Chitwan,46,Male,13500,Inter/+2,Good
+563,Chitwan,42,Male,14700,Bachelor,Ok
+564,Chitwan,51,Male,12500,Bachelor,Good
+565,Chitwan,29,Male,14700,Inter/+2,Good
+566,Chitwan,27,Male,12800,SLC/SEE,Good
+567,Chitwan,60,Female,2800,SLC/SEE,Good
+568,Chitwan,44,Male,10400,Bachelor,Good
+569,Chitwan,62,Male,4500,SLC/SEE,Good
+570,Chitwan,35,Male,14200,SLC/SEE,Ok
+571,Chitwan,37,Male,12100,Bachelor,Ok
+572,Chitwan,35,Male,12100,Below SLC/SEE,Good
+573,Chitwan,35,Male,10700,SLC/SEE,Ok
+574,Chitwan,68,Female,4700,SLC/SEE,Good
+575,Chitwan,30,Male,11500,Bachelor,Ok
+576,Chitwan,35,Male,14600,SLC/SEE,Good
+577,Chitwan,35,Male,13700,SLC/SEE,Ok
+578,Chitwan,26,Male,14900,SLC/SEE,Ok
+579,Chitwan,20,Male,11300,Bachelor,Good
+580,Chitwan,45,Male,10200,SLC/SEE,Good
+581,Chitwan,54,Male,10900,Masters and above,Good
+582,Chitwan,43,Male,14200,Masters and above,Good
+583,Chitwan,38,Male,12100,Bachelor,Ok
+584,Chitwan,37,Female,14200,SLC/SEE,Ok
+585,Chitwan,32,Male,12800,Inter/+2,Ok
+586,Chitwan,43,Male,10000,SLC/SEE,Ok
+587,Chitwan,53,Male,11200,SLC/SEE,Ok
+588,Chitwan,56,Male,10400,Inter/+2,Ok
+589,Chitwan,25,Male,12000,SLC/SEE,Ok
+590,Chitwan,30,Male,11800,SLC/SEE,Good
+591,Chitwan,29,Female,11200,Inter/+2,Good
+592,Chitwan,35,Male,11500,SLC/SEE,Ok
+593,Chitwan,39,Male,10800,Inter/+2,Good
+594,Chitwan,57,Female,13600,SLC/SEE,Ok
+595,Chitwan,33,Female,14500,SLC/SEE,Ok
+596,Chitwan,30,Female,13000,SLC/SEE,Ok
+597,Chitwan,70,Male,6600,Below SLC/SEE,Ok
+598,Chitwan,42,Female,14200,Below SLC/SEE,Ok
+599,Chitwan,25,Female,14300,Inter/+2,Ok
+600,Chitwan,47,Female,10300,SLC/SEE,Ok
+601,Chitwan,25,Male,11500,Bachelor,Good
+602,Chitwan,40,Male,10100,Inter/+2,Good
+603,Chitwan,51,Male,11800,Inter/+2,Ok
+604,Chitwan,55,Male,12000,Inter/+2,Ok
+605,Chitwan,39,Male,10900,Bachelor,Good
+606,Chitwan,42,Male,11900,SLC/SEE,Good
+607,Chitwan,50,Male,13900,SLC/SEE,Ok
+608,Chitwan,46,Female,12800,Inter/+2,Ok
+609,Chitwan,70,Male,6200,SLC/SEE,Ok
+610,Chitwan,38,Female,12200,Bachelor,Good
+611,Chitwan,33,Female,10200,Inter/+2,Ok
+612,Chitwan,34,Female,10000,SLC/SEE,Bad
+613,Chitwan,37,Male,11500,Bachelor,Good
+614,Chitwan,51,Male,10300,Bachelor,Ok
+615,Chitwan,50,Male,10900,SLC/SEE,Ok
+616,Chitwan,54,Male,13600,SLC/SEE,Good
+617,Chitwan,34,Female,11700,Inter/+2,Good
+618,Chitwan,42,Male,11700,SLC/SEE,Ok
+619,Chitwan,53,Male,10700,Masters and above,Good
+620,Chitwan,52,Male,12000,Inter/+2,Very Good
+621,Chitwan,68,Male,6200,Inter/+2,Good
+622,Chitwan,54,Female,11300,SLC/SEE,Ok
+623,Chitwan,70,Male,4000,Inter/+2,Good
+624,Chitwan,50,Male,11800,SLC/SEE,Good
+625,Chitwan,48,Male,13700,Inter/+2,Good
+626,Chitwan,52,Female,10800,SLC/SEE,Ok
+627,Chitwan,38,Female,11400,Inter/+2,Good
+628,Chitwan,55,Male,13400,SLC/SEE,Ok
+629,Chitwan,30,Female,14000,SLC/SEE,Good
+630,Chitwan,26,Female,12200,Masters and above,Good
+631,Chitwan,35,Female,11700,SLC/SEE,Good
+632,Chitwan,45,Female,14300,SLC/SEE,Ok
+633,Chitwan,30,Female,10100,SLC/SEE,Ok
+634,Chitwan,60,Male,3900,SLC/SEE,Ok
+635,Chitwan,71,Male,5300,SLC/SEE,Ok
+636,Chitwan,55,Male,10600,SLC/SEE,Good
+637,Chitwan,62,Male,5500,SLC/SEE,Good
+638,Chitwan,24,Male,10500,SLC/SEE,Good
+639,Chitwan,40,Male,13800,Below SLC/SEE,Good
+640,Chitwan,27,Female,12800,SLC/SEE,Good
+641,Chitwan,30,Male,13300,Inter/+2,Good
+642,Chitwan,49,Male,11400,SLC/SEE,Ok
+643,Chitwan,43,Male,11500,SLC/SEE,Good
+644,Chitwan,33,Female,12500,SLC/SEE,Good
+645,Chitwan,43,Male,13200,SLC/SEE,Good
+646,Chitwan,49,Male,10400,SLC/SEE,Ok
+647,Chitwan,45,Male,10600,Below SLC/SEE,Ok
+648,Chitwan,51,Male,13100,SLC/SEE,Ok
+649,Chitwan,32,Female,13100,Inter/+2,Good
+650,Chitwan,60,Male,2500,SLC/SEE,Good
+651,Chitwan,35,Male,14800,SLC/SEE,Ok
+652,Chitwan,52,Male,10100,SLC/SEE,Good
+653,Chitwan,73,Male,2800,SLC/SEE,Good
+654,Chitwan,40,Male,12600,Inter/+2,Very Good
+655,Chitwan,50,Male,13300,SLC/SEE,Ok
+656,Chitwan,48,Male,14300,SLC/SEE,Good
+657,Chitwan,42,Male,12400,SLC/SEE,Ok
+658,Chitwan,30,Male,10900,SLC/SEE,Ok
+659,Chitwan,68,Male,3400,Inter/+2,Ok
+660,Chitwan,52,Male,15000,Inter/+2,Good
+661,Chitwan,47,Male,13800,Masters and above,Ok
+662,Chitwan,54,Male,12800,Inter/+2,Good
+663,Chitwan,56,Female,14800,SLC/SEE,Good
+664,Chitwan,29,Male,12600,Inter/+2,Ok
+665,Chitwan,54,Male,10500,Inter/+2,Good
+666,Chitwan,68,Male,3200,SLC/SEE,Ok
+667,Chitwan,36,Female,14800,SLC/SEE,Good
+668,Chitwan,65,Male,4200,Inter/+2,Ok
+669,Chitwan,37,Male,11000,Masters and above,Very Good
+670,Chitwan,52,Male,14700,Bachelor,Good
+671,Chitwan,32,Male,14800,SLC/SEE,Ok
+672,Chitwan,51,Male,13300,SLC/SEE,Ok
+673,Chitwan,66,Male,5200,Below SLC/SEE,Ok
+674,Chitwan,51,Male,13500,SLC/SEE,Ok
+675,Chitwan,55,Male,14100,Inter/+2,Ok
+676,Chitwan,45,Male,10600,SLC/SEE,Good
+677,Chitwan,40,Female,12400,Inter/+2,Good
+678,Chitwan,46,Male,10800,Masters and above,Good
+679,Chitwan,59,Male,10600,Masters and above,Good
+680,Chitwan,71,Male,3300,Inter/+2,Ok
+681,Chitwan,50,Female,14500,SLC/SEE,Ok
+682,Chitwan,37,Female,10100,Inter/+2,Ok
+683,Chitwan,24,Female,14400,Inter/+2,Ok
+684,Chitwan,30,Female,11800,Bachelor,Good
+685,Chitwan,43,Female,12100,SLC/SEE,Good
+686,Chitwan,25,Female,10300,SLC/SEE,Good
+687,Chitwan,43,Male,14900,SLC/SEE,Ok
+688,Chitwan,49,Male,11700,Inter/+2,Ok
+689,Chitwan,43,Male,13800,Inter/+2,Ok
+690,Chitwan,30,Female,12600,Inter/+2,Good
+691,Chitwan,45,Male,11200,Inter/+2,Good
+692,Chitwan,50,Male,13000,Inter/+2,Good
+693,Chitwan,37,Female,11500,SLC/SEE,Ok
+694,Chitwan,51,Male,11100,Inter/+2,Ok
+695,Chitwan,43,Male,11300,SLC/SEE,Ok
+696,Chitwan,40,Male,10900,Inter/+2,Ok
+697,Chitwan,27,Male,13400,Inter/+2,Ok
+698,Chitwan,39,Male,15000,Bachelor,Ok
+699,Chitwan,42,Male,13500,Inter/+2,Ok
+700,Chitwan,47,Male,12000,Inter/+2,Ok
+701,Chitwan,26,Female,10100,SLC/SEE,Ok
+702,Chitwan,45,Male,13600,Masters and above,Good
+703,Chitwan,47,Male,11500,Bachelor,Ok
+704,Chitwan,52,Male,11500,SLC/SEE,Ok
+705,Chitwan,39,Male,12400,Inter/+2,Ok
+706,Chitwan,42,Male,11800,SLC/SEE,Ok
+707,Chitwan,53,Female,13200,Below SLC/SEE,Ok
+708,Chitwan,27,Female,11700,Inter/+2,Ok
+709,Chitwan,37,Female,10200,SLC/SEE,Ok
+710,Chitwan,30,Male,12000,Bachelor,Ok
+711,Chitwan,33,Female,13900,SLC/SEE,Ok
+712,Chitwan,55,Male,10900,SLC/SEE,Ok
+713,Chitwan,38,Male,11300,SLC/SEE,Ok
+714,Chitwan,29,Female,13300,Inter/+2,Ok
+715,Chitwan,31,Male,10300,SLC/SEE,Ok
+716,Chitwan,30,Female,12100,SLC/SEE,Ok
+717,Chitwan,34,Female,13600,SLC/SEE,Ok
+718,Chitwan,24,Male,13500,Inter/+2,Ok
+719,Chitwan, ,Female,10500,SLC/SEE,Very Bad
+720,Chitwan,44,Male,12600,SLC/SEE,Bad
+241,Chitwan,30,Female,14700,SLC/SEE,Ok
+242,Chitwan,45,Male,12300,SLC/SEE,Ok
+243,Chitwan,48,Male,11800,SLC/SEE,Ok
+244,Chitwan, ,Male,11700,SLC/SEE,Good
+245,Chitwan,26,Female,10600,Inter/+2,Very Bad
+246,Chitwan,25,Female,11700,SLC/SEE,Ok
+247,Chitwan,80,Male,4900,SLC/SEE,Ok
+248,Chitwan,45,Male,10800,SLC/SEE,Ok
+249,Chitwan,42,Male,14000,Masters and above,Ok
+250,Chitwan,45,Male,14700,Inter/+2,Ok
+251,Chitwan,35,Male,10200,SLC/SEE,Ok
+252,Chitwan,27,Female,10400,Bachelor,Bad
+253,Chitwan,55,Male,14000,SLC/SEE,Ok
+254,Chitwan,31,Female,11200,SLC/SEE,Ok
+255,Chitwan,48,Female,13300,SLC/SEE,Ok
+256,Chitwan,48,Male,10100,SLC/SEE,Ok
+257,Chitwan,43,Male,12700,SLC/SEE,Ok
+258,Chitwan,46,Male,11200,SLC/SEE,Ok
+259,Chitwan,42,Male,14600,Inter/+2,Good
+260,Chitwan,50,Male,10800,SLC/SEE,Ok
+261,Chitwan,68,Male,5100,SLC/SEE,Good
+262,Chitwan,26,Male,11100,Inter/+2,Bad
+263,Chitwan,54,Male,13700,SLC/SEE,Good
+264,Chitwan,54,Male,13400,SLC/SEE,Bad
+265,Chitwan,28,Male,11400,Bachelor,Good
+266,Chitwan,53,Male,12500,SLC/SEE,Ok
+267,Chitwan,44,Male,12400,SLC/SEE,Good
+268,Chitwan,63,Male,4900,SLC/SEE,Good
+269,Chitwan,45,Male,14900,Inter/+2,Ok
+270,Chitwan,38,Male,14500,SLC/SEE,Ok
+271,Chitwan,49,Male,11100,Bachelor,Ok
+272,Chitwan,50,Male,12500,Below SLC/SEE,Ok
+273,Chitwan,48,Male,12900,Bachelor,Ok
+274,Chitwan,60,Male,4300,SLC/SEE,Ok
+275,Chitwan,20,Female,11000,Bachelor,Ok
+276,Chitwan,27,Female,11800,SLC/SEE,Bad
+277,Chitwan,36,Male,10500,Bachelor,Ok
+278,Chitwan,36,Male,15000,SLC/SEE,Ok
+279,Chitwan,62,Male,2700,SLC/SEE,Ok
+280,Chitwan,48,Male,10800,SLC/SEE,Bad
+281,Chitwan,42,Male,14000,SLC/SEE,Ok
+282,Chitwan,47,Male,13700,SLC/SEE,Ok
+283,Chitwan,25,Female,11200,Bachelor,Ok
+284,Chitwan,18,Female,13700,SLC/SEE,Ok
+285,Chitwan, ,Male,14900,SLC/SEE,Ok
+286,Chitwan,28,Male,10600,Inter/+2,Ok
+287,Chitwan,48,Male,13300,SLC/SEE,Bad
+288,Chitwan,52,Male,14200,SLC/SEE,Ok
+289,Chitwan,38,Female,13200,SLC/SEE,Ok
+290,Chitwan,50,Male,14400,Below SLC/SEE,Ok
+291,Chitwan,46,Female,12200,SLC/SEE,Ok
+292,Chitwan,35,Male,14100,Inter/+2,Ok
+293,Chitwan,58,Male,14700,Below SLC/SEE,Ok
+294,Chitwan,72,Male,4700,SLC/SEE,Ok
+295,Chitwan,32,Female,11200,Inter/+2,Ok
+296,Chitwan,35,Male,10500,Inter/+2,Ok
+297,Chitwan,45,Female,10100,SLC/SEE,Bad
+298,Chitwan,37,Female,13900,SLC/SEE,Ok
+299,Chitwan,53,Male,11700,SLC/SEE,Ok
+300,Chitwan,38,Male,11500,Bachelor,Ok
+301,Chitwan,39,Male,14700,SLC/SEE,Ok
+302,Chitwan,60,Male,3700,SLC/SEE,Bad
+303,Chitwan,35,Male,11900,SLC/SEE,Ok
+304,Chitwan,25,Female,14000,SLC/SEE,Ok
+305,Chitwan,61,Female,4200,Below SLC/SEE,Good
+306,Chitwan,56,Male,11200,SLC/SEE,Ok
+307,Chitwan,30,Female,11800,SLC/SEE,Good
+308,Chitwan,28,Female,11300,SLC/SEE,Good
+309,Chitwan,23,Male,12700,Masters and above,Good
+310,Chitwan,24,Female,12300,SLC/SEE,Good
+311,Chitwan,63,Male,2700,SLC/SEE,Ok
+312,Chitwan,63,Female,2700,Below SLC/SEE,Good
+313,Chitwan,30,Male,11300,SLC/SEE,Good
+314,Chitwan,59,Female,11900,SLC/SEE,Ok
+315,Chitwan,30,Female,12100,SLC/SEE,Good
+316,Chitwan,40,Female,11100,SLC/SEE,Very Bad
+317,Chitwan,58,Male,13900,SLC/SEE,Good
+318,Chitwan,50,Male,14200,SLC/SEE,Good
+319,Chitwan,40,Female,14000,SLC/SEE,Good
+320,Chitwan,24,Female,12500,SLC/SEE,Very Good
+321,Chitwan,31,Male,11200,SLC/SEE,Ok
+322,Chitwan,44,Male,12300,SLC/SEE,Good
+323,Chitwan,45,Male,12500,SLC/SEE,Bad
+324,Chitwan,47,Male,14900,Inter/+2,Good
+325,Chitwan,50,Male,10600,SLC/SEE,Good
+326,Chitwan,38,Male,14200,SLC/SEE,Good
+327,Chitwan,45,Male,13300,Masters and above,Good
+328,Chitwan,27,Female,12400,Inter/+2,Ok
+329,Chitwan,27,Male,12700,Masters and above,Ok
+330,Chitwan,66,Male,6300,Below SLC/SEE,Good
+331,Chitwan,27,Female,10200,SLC/SEE,Bad
+332,Chitwan,63,Male,4600,SLC/SEE,Bad
+333,Chitwan,26,Male,14700,Inter/+2,Ok
+334,Chitwan,25,Female,11300,SLC/SEE,Good
+335,Chitwan,57,Male,11000,Masters and above,Good
+336,Chitwan,43,Female,10400,SLC/SEE,Good
+337,Chitwan,42,Female,14500,Inter/+2,Ok
+338,Chitwan,29,Male,13300,SLC/SEE,Very Good
+339,Chitwan,56,Male,10500,SLC/SEE,Ok
+340,Chitwan,46,Male,13400,SLC/SEE,Good
+341,Chitwan,51,Male,13600,SLC/SEE,Ok
+342,Chitwan,50,Male,10900,SLC/SEE,Ok
+343,Chitwan,21,Male,13700,SLC/SEE,Ok
+344,Chitwan,54,Male,11700,SLC/SEE,Bad
+345,Chitwan,41,Male,11500,Inter/+2,Good
+346,Chitwan,49,Female,14200,SLC/SEE,Bad
+347,Chitwan,32,Male,12400,SLC/SEE,Good
+348,Chitwan,22,Male,11000,SLC/SEE,Ok
+349,Chitwan,54,Male,14900,SLC/SEE,Good
+350,Chitwan,60,Male,3800,SLC/SEE,Good
+351,Chitwan,40,Male,11800,SLC/SEE,Ok
+352,Chitwan,45,Male,12600,SLC/SEE,Ok
+353,Chitwan,48,Male,14500,SLC/SEE,Ok
+354,Chitwan,39,Male,10800,SLC/SEE,Good
+355,Chitwan,42,Male,14600,SLC/SEE,Ok
+356,Chitwan,29,Male,11400,Bachelor,Ok
+357,Chitwan,28,Male,14100,Bachelor,Very Good
+358,Chitwan,36,Male,14100,SLC/SEE,Ok
+359,Chitwan,47,Male,14400,SLC/SEE,Bad
+360,Chitwan,28,Male,13100,SLC/SEE,Ok
+361,Chitwan,32,Male,11700,SLC/SEE,Good
+362,Chitwan,56,Female,13500,SLC/SEE,Ok
+363,Chitwan,59,Male,11000,SLC/SEE,Good
+364,Chitwan,67,Male,5100,SLC/SEE,Good
+365,Chitwan,54,Male,10800,SLC/SEE,Good
+366,Chitwan,60,Male,5100,SLC/SEE,Ok
+367,Chitwan,53,Male,12400,Below SLC/SEE,Ok
+368,Chitwan,34,Female,11800,SLC/SEE,Ok
+369,Chitwan,45,Male,10000,SLC/SEE,Good
+370,Chitwan,40,Female,12600,SLC/SEE,Ok
+372,Chitwan,25,Male,10500,SLC/SEE,Good
+373,Chitwan, ,Female,14500,SLC/SEE,Ok
+374,Chitwan,37,Male,11900,Bachelor,Ok
+375,Chitwan,55,Male,10000,SLC/SEE,Ok
+376,Chitwan,56,Male,10500,SLC/SEE,Ok
+377,Chitwan,28,Female,13000,SLC/SEE,Good
+378,Chitwan,43,Male,14900,SLC/SEE,Good
+379,Chitwan,46,Male,11200,SLC/SEE,Ok
+380,Chitwan,42,Male,13100,Inter/+2,Good
+381,Chitwan,44,Male,11200,SLC/SEE,Good
+382,Chitwan,56,Male,14800,SLC/SEE,Good
+383,Chitwan,42,Female,10300,SLC/SEE,Ok
+384,Chitwan,53,Male,13000,Below SLC/SEE,Ok
+385,Chitwan,36,Female,10600,Below SLC/SEE,Ok
+386,Chitwan,32,Male,10900,SLC/SEE,Ok
+387,Chitwan,32,Male,10100,SLC/SEE,Ok
+388,Chitwan,42,Male,12900,SLC/SEE,Ok
+389,Chitwan,51,Female,11200,Below SLC/SEE,Bad
+390,Chitwan,42,Male,11100,SLC/SEE,Ok
+391,Chitwan,61,Female,6700,Below SLC/SEE,Ok
+392,Chitwan,37,Male,14500,SLC/SEE,Ok
+393,Chitwan,46,Female,10100,Below SLC/SEE,Ok
+394,Chitwan,56,Female,12400,Below SLC/SEE,Ok
+395,Chitwan,45,Male,10300,SLC/SEE,Ok
+396,Chitwan,37,Male,11800,SLC/SEE,Ok
+397,Chitwan,52,Male,11700,Below SLC/SEE,Ok
+398,Chitwan,62,Male,6700,Below SLC/SEE,Ok
+399,Chitwan,60,Male,5200,Below SLC/SEE,Ok
+400,Chitwan,55,Female,12100,Below SLC/SEE,Ok
+401,Chitwan,65,Male,3600,Below SLC/SEE,Ok
+402,Chitwan,66,Male,3900,SLC/SEE,Ok
+403,Chitwan,43,Male,13000,SLC/SEE,Ok
+404,Chitwan, ,Male,12400,SLC/SEE,Ok
+405,Chitwan,31,Female,10200,SLC/SEE,Ok
+406,Chitwan,35,Male,10500,SLC/SEE,Ok
+407,Chitwan,46,Male,14000,SLC/SEE,Ok
+408,Chitwan,39,Male,12500,SLC/SEE,Ok
+409,Chitwan,43,Male,13400,Below SLC/SEE,Ok
+410,Chitwan,34,Male,11900,SLC/SEE,Ok
+411,Chitwan,50,Male,12600,SLC/SEE,Ok
+412,Chitwan,48,Male,12800,SLC/SEE,Ok
+413,Chitwan,54,Male,11300,SLC/SEE,Ok
+414,Chitwan,37,Male,10700,Below SLC/SEE,Ok
+415,Chitwan,39,Male,12400,SLC/SEE,Ok
+416,Chitwan,40,Male,12200,Below SLC/SEE,Ok
+417,Chitwan,32,Female,10100,SLC/SEE,Ok
+418,Chitwan, ,Female,10900,SLC/SEE,Bad
+419,Chitwan,41,Male,11100,SLC/SEE,Ok
+420,Chitwan,43,Male,10500,SLC/SEE,Ok
+421,Chitwan,41,Male,11500,Inter/+2,Good
+422,Chitwan,45,Male,11400,Inter/+2,Very Good
+423,Chitwan,31,Male,14300,Inter/+2,Ok
+424,Chitwan,51,Female,12200,Below SLC/SEE,Ok
+425,Chitwan,33,Female,13000,Inter/+2,Ok
+426,Chitwan,43,Male,12900,SLC/SEE,Good
+427,Chitwan,34,Male,11800,Masters and above,Ok
+428,Chitwan,42,Male,12800,SLC/SEE,Very Good
+429,Chitwan,24,Female,10500,SLC/SEE,Good
+430,Chitwan,29,Male,14000,SLC/SEE,Good
+431,Chitwan, ,Male,10300,SLC/SEE,Very Good
+432,Chitwan,34,Female,12600,Masters and above,Very Good
+433,Chitwan,39,Male,12600,SLC/SEE,Good
+434,Chitwan, ,Male,10600,SLC/SEE,Good
+435,Chitwan,63,Male,4800,SLC/SEE,Good
+436,Chitwan,68,Male,5500,Below SLC/SEE,Ok
+437,Chitwan,54,Male,13600,SLC/SEE,Ok
+438,Chitwan,22,Male,11000,Inter/+2,Good
+439,Chitwan,47,Male,14200,Below SLC/SEE,Good
+440,Chitwan,29,Male,10900,Inter/+2,Good
+441,Chitwan,53,Female,10200,SLC/SEE,Ok
+442,Chitwan,27,Male,12500,Inter/+2,Good
+443,Chitwan, ,Male,15000,Inter/+2,Bad
+444,Chitwan,49,Male,14000,SLC/SEE,Good
+445,Chitwan,24,Male,10400,Bachelor,Ok
+446,Chitwan,43,Male,11400,SLC/SEE,Ok
+447,Chitwan,63,Male,3500,SLC/SEE,Good
+448,Chitwan,33,Male,10700,SLC/SEE,Good
+449,Chitwan,34,Male,11000,Inter/+2,Ok
+450,Chitwan,50,Male,12800,Bachelor,Ok
+451,Chitwan,56,Male,12300,Inter/+2,Ok
+452,Chitwan,44,Male,12200,Inter/+2,Good
+453,Chitwan,72,Male,3600,SLC/SEE,Good
+454,Chitwan,19,Female,10000,Bachelor,Ok
+455,Chitwan,57,Female,11200,Below SLC/SEE,Good
+456,Chitwan,44,Male,12600,SLC/SEE,Bad
+457,Chitwan,44,Female,10100,SLC/SEE,Good
+458,Chitwan,37,Male,13900,Masters and above,Good
+459,Chitwan,49,Female,14900,Below SLC/SEE,Ok
+460,Chitwan,36,Male,12800,SLC/SEE,Ok
+461,Chitwan,56,Male,11700,Below SLC/SEE,Ok
+462,Chitwan,53,Male,11500,SLC/SEE,Ok
+463,Chitwan,30,Male,11100,Inter/+2,Ok
+464,Chitwan,53,Male,14400,SLC/SEE,Ok
+465,Chitwan,27,Female,14900,Below SLC/SEE,Ok
+466,Chitwan,26,Male,12200,Bachelor,Good
+467,Chitwan,47,Male,10400,SLC/SEE,Ok
+468,Chitwan,63,Male,3600,SLC/SEE,Good
+469,Chitwan,46,Male,12200,Inter/+2,Ok
+470,Chitwan,67,Male,5200,SLC/SEE,Ok
+471,Chitwan,44,Male,11100,Inter/+2,Ok
+472,Chitwan,60,Female,4400,SLC/SEE,Ok
+473,Chitwan,42,Male,11700,SLC/SEE,Ok
+474,Chitwan,35,Male,11000,SLC/SEE,Very Good
+475,Chitwan,69,Male,6100,Below SLC/SEE,Ok
+476,Chitwan,37,Male,10300,Below SLC/SEE,Good
+477,Chitwan,57,Male,10600,Below SLC/SEE,Ok
+478,Chitwan,49,Male,13000,SLC/SEE,Ok
+479,Chitwan,27,Male,12000,SLC/SEE,Ok
+480,Chitwan,36,Male,14000,Inter/+2,Ok
+481,Chitwan,39,Female,11400,SLC/SEE,Ok
+482,Chitwan,45,Male,11900,SLC/SEE,Ok
+483,Chitwan,32,Female,13400,Bachelor,Good
+484,Chitwan,39,Male,12300,Inter/+2,Ok
+485,Chitwan,33,Male,13700,Bachelor,Ok
+486,Chitwan,26,Female,14800,SLC/SEE,Bad
+487,Chitwan,22,Female,11300,Inter/+2,Good
+488,Chitwan,21,Female,14000,SLC/SEE,Bad
+489,Chitwan,40,Female,11400,SLC/SEE,Good
+490,Chitwan,31,Male,12300,SLC/SEE,Ok
+491,Chitwan,70,Female,2500,Below SLC/SEE,Ok
+492,Chitwan,50,Male,11500,SLC/SEE,Good
+493,Chitwan,58,Male,10000,Below SLC/SEE,Good
+494,Chitwan,30,Female,10700,SLC/SEE,Ok
+495,Chitwan,21,Female,13700,SLC/SEE,Ok
+496,Chitwan,37,Female,13200,Below SLC/SEE,Ok
+497,Chitwan,30,Female,12900,Bachelor,Good
+498,Chitwan,52,Male,10600,Masters and above,Ok
+499,Chitwan,20,Female,13000,Below SLC/SEE,Ok
+500,Chitwan,33,Male,10800,SLC/SEE,Ok
+501,Chitwan,20,Female,11900,SLC/SEE,Good
+502,Chitwan,72,Female,3300,Below SLC/SEE,Good
+503,Chitwan,50,Female,13200,Below SLC/SEE,Ok
+504,Chitwan,48,Male,11700,SLC/SEE,Good
+505,Chitwan,45,Female,12400,SLC/SEE,Good
+506,Chitwan,30,Male,13200,SLC/SEE,Good
+507,Chitwan,58,Male,12300,Below SLC/SEE,Ok
+508,Chitwan,59,Male,10800,SLC/SEE,Ok
+509,Chitwan,26,Male,10600,SLC/SEE,Good
+510,Chitwan,30,Male,11500,SLC/SEE,Ok
+511,Chitwan,60,Female,3000,Below SLC/SEE,Good
+512,Chitwan,68,Female,6100,Below SLC/SEE,Good
+513,Chitwan,65,Male,3700,SLC/SEE,Good
+514,Chitwan,20,Female,13600,SLC/SEE,Good
+515,Chitwan,34,Female,12000,SLC/SEE,Ok
+516,Chitwan,38,Female,11400,SLC/SEE,Ok
+517,Chitwan,59,Female,10600,Below SLC/SEE,Ok
+518,Chitwan,50,Female,11800,Below SLC/SEE,Good
+519,Chitwan,64,Male,5600,Below SLC/SEE,Good
+520,Chitwan,50,Female,11400,Below SLC/SEE,Good
+531,Chitwan,55,Male,10400,Masters and above,Ok
+541,Chitwan,34,Male,14000,Inter/+2,Ok
+542,Chitwan,60,Male,5400,Bachelor,Ok
+543,Chitwan,32,Male,14600,Inter/+2,Very Good
+544,Chitwan,48,Male,14400,SLC/SEE,Ok
+545,Chitwan,49,Male,11500,SLC/SEE,Ok
+546,Chitwan,52,Male,11700,SLC/SEE,Good
+547,Chitwan,50,Male,10300,Inter/+2,Good
+548,Chitwan,27,Male,14300,Inter/+2,Good
+549,Chitwan,30,Male,11100,Bachelor,Good
+550,Chitwan,40,Male,11600,Inter/+2,Ok
+551,Chitwan,50,Male,11600,Inter/+2,Ok
+552,Chitwan,26,Male,14000,SLC/SEE,Good
+553,Chitwan,35,Male,12600,SLC/SEE,Ok
+554,Chitwan,40,Female,11600,SLC/SEE,Ok
+555,Chitwan,22,Male,11500,SLC/SEE,Good
+556,Chitwan,48,Male,10600,SLC/SEE,Ok
+557,Chitwan,42,Male,14000,Masters and above,Good
+558,Chitwan,38,Male,10800,Masters and above,Very Bad
+559,Chitwan,28,Male,11600,SLC/SEE,Bad
+560,Chitwan,40,Male,12200,SLC/SEE,Good
+561,Chitwan,34,Male,13300,Inter/+2,Ok
+562,Chitwan,46,Male,13600,Inter/+2,Good
+563,Chitwan,42,Male,11800,Inter/+2,Ok
+564,Chitwan,51,Male,12900,Bachelor,Good
+565,Chitwan,29,Male,12200,Inter/+2,Good
+566,Chitwan,27,Male,13600,SLC/SEE,Good
+567,Chitwan,60,Female,3700,SLC/SEE,Good
+568,Chitwan,44,Male,10700,Bachelor,Good
+569,Chitwan,62,Male,5200,SLC/SEE,Good
+570,Chitwan,35,Male,12800,SLC/SEE,Ok
+571,Chitwan,37,Male,15000,Bachelor,Ok
+572,Chitwan, ,Male,14800,Below SLC/SEE,Good
+573,Chitwan,35,Male,12900,SLC/SEE,Ok
+574,Chitwan,68,Female,6200,SLC/SEE,Good
+575,Chitwan,30,Male,14600,Bachelor,Ok
+576,Chitwan,35,Male,12200,SLC/SEE,Good
+577,Chitwan, ,Male,13300,SLC/SEE,Ok
+578,Chitwan,26,Male,11400,SLC/SEE,Ok
+579,Chitwan,20,Male,14600,Bachelor,Good
+580,Chitwan,45,Male,10400,SLC/SEE,Good
+581,Chitwan,54,Male,12600,Masters and above,Good
+582,Chitwan,43,Male,10200,Masters and above,Good
+583,Chitwan,38,Male,12500,Bachelor,Ok
+584,Chitwan,37,Female,14500,SLC/SEE,Ok
+585,Chitwan,32,Male,14800,Inter/+2,Ok
+586,Chitwan,43,Male,13800,SLC/SEE,Ok
+587,Chitwan,53,Male,13400,SLC/SEE,Ok
+588,Chitwan,56,Male,12000,Inter/+2,Ok
+589,Chitwan,25,Male,11900,SLC/SEE,Ok
+590,Chitwan,30,Male,11300,SLC/SEE,Good
+591,Chitwan,29,Female,10700,Inter/+2,Good
+592,Chitwan,35,Male,13400,SLC/SEE,Ok
+593,Chitwan,39,Male,11900,Inter/+2,Good
+594,Chitwan,57,Female,10500,SLC/SEE,Ok
+595,Chitwan,33,Female,13500,SLC/SEE,Ok
+596,Chitwan,30,Female,12400,SLC/SEE,Ok
+597,Chitwan,70,Male,5600,Below SLC/SEE,Ok
+598,Chitwan,42,Female,12500,Below SLC/SEE,Ok
+599,Chitwan,25,Female,14200,Inter/+2,Ok
+600,Chitwan,47,Female,12300,SLC/SEE,Ok
+601,Chitwan,25,Male,12500,Bachelor,Good
+602,Chitwan,40,Male,13700,Inter/+2,Good
+603,Chitwan,51,Male,14000,Inter/+2,Ok
+604,Chitwan,55,Male,10600,Inter/+2,Ok
+605,Chitwan,39,Male,14300,Bachelor,Good
+606,Chitwan,42,Male,10300,SLC/SEE,Good
+607,Chitwan,50,Male,10300,SLC/SEE,Ok
+608,Chitwan,46,Female,12300,Inter/+2,Ok
+609,Chitwan,70,Male,3300,SLC/SEE,Ok
+610,Chitwan,38,Female,11800,Bachelor,Good
+611,Chitwan,33,Female,11500,Inter/+2,Ok
+612,Chitwan,34,Female,12200,SLC/SEE,Bad
+613,Chitwan,37,Male,14000,Bachelor,Good
+614,Chitwan,51,Male,14700,Bachelor,Ok
+615,Chitwan,50,Male,11500,SLC/SEE,Ok
+616,Chitwan,54,Male,12500,SLC/SEE,Good
+617,Chitwan,34,Female,10600,Inter/+2,Good
+618,Chitwan,42,Male,13400,SLC/SEE,Ok
+619,Chitwan,53,Male,10200,Masters and above,Good
+620,Chitwan,52,Male,10800,Inter/+2,Very Good
+621,Chitwan,68,Male,3900,Inter/+2,Good
+622,Chitwan,54,Female,13500,SLC/SEE,Ok
+623,Chitwan,70,Male,4100,Inter/+2,Good
+624,Chitwan,50,Male,12300,SLC/SEE,Good
+625,Chitwan,48,Male,13700,Inter/+2,Good
+626,Chitwan,52,Female,11800,SLC/SEE,Ok
+627,Chitwan,38,Female,10700,Inter/+2,Good
+628,Chitwan,55,Male,12000,SLC/SEE,Ok
+629,Chitwan,30,Female,10700,SLC/SEE,Good
+630,Chitwan,26,Female,10000,Masters and above,Good
+631,Chitwan,35,Female,10400,SLC/SEE,Good
+632,Chitwan,45,Female,10500,SLC/SEE,Ok
+633,Chitwan,30,Female,12100,SLC/SEE,Ok
+634,Chitwan,60,Male,3300,SLC/SEE,Ok
+635,Chitwan,71,Male,4300,SLC/SEE,Ok
+636,Chitwan,55,Male,13200,SLC/SEE,Good
+637,Chitwan,62,Male,5500,SLC/SEE,Good
+638,Chitwan,24,Male,13700,SLC/SEE,Good
+639,Chitwan,40,Male,10900,Below SLC/SEE,Good
+640,Chitwan,27,Female,10300,SLC/SEE,Good
+641,Chitwan,30,Male,14500,Inter/+2,Good
+642,Chitwan,49,Male,13200,SLC/SEE,Ok
+643,Chitwan,43,Male,14000,SLC/SEE,Good
+644,Chitwan,33,Female,12400,SLC/SEE,Good
+645,Chitwan,43,Male,12000,SLC/SEE,Good
+646,Chitwan,49,Male,14400,SLC/SEE,Ok
+647,Chitwan,45,Male,14400,Below SLC/SEE,Ok
+648,Chitwan,51,Male,11500,SLC/SEE,Ok
+649,Chitwan,32,Female,13000,Inter/+2,Good
+650,Chitwan,60,Male,4100,SLC/SEE,Good
+651,Chitwan,35,Male,14700,SLC/SEE,Ok
+652,Chitwan,52,Male,14700,SLC/SEE,Good
+653,Chitwan,73,Male,4400,SLC/SEE,Good
+654,Chitwan,40,Male,12000,Inter/+2,Very Good
+655,Chitwan,50,Male,12400,SLC/SEE,Ok
+656,Chitwan,48,Male,11700,SLC/SEE,Good
+657,Chitwan,42,Male,13500,SLC/SEE,Ok
+658,Chitwan,30,Male,14200,SLC/SEE,Ok
+659,Chitwan,68,Male,4400,Inter/+2,Ok
+660,Chitwan,52,Male,13500,Inter/+2,Good
+661,Chitwan,47,Male,12400,Masters and above,Ok
+662,Chitwan,54,Male,13600,Inter/+2,Good
+663,Chitwan,56,Female,13400,SLC/SEE,Good
+664,Chitwan,29,Male,12600,Inter/+2,Ok
+665,Chitwan,54,Male,11900,Inter/+2,Good
+666,Chitwan,68,Male,4000,SLC/SEE,Ok
+667,Chitwan,36,Female,10700,SLC/SEE,Good
+668,Chitwan,65,Male,5500,Inter/+2,Ok
+669,Chitwan,37,Male,10500,Masters and above,Very Good
+670,Chitwan,52,Male,12700,Bachelor,Good
+671,Chitwan,32,Male,10900,SLC/SEE,Ok
+672,Chitwan,51,Male,10700,SLC/SEE,Ok
+673,Chitwan,66,Male,5000,Below SLC/SEE,Ok
+674,Chitwan,51,Male,10200,SLC/SEE,Ok
+675,Chitwan,55,Male,11400,Inter/+2,Ok
+676,Chitwan,45,Male,13200,SLC/SEE,Good
+677,Chitwan,40,Female,10900,Inter/+2,Good
+678,Chitwan,46,Male,11000,Masters and above,Good
+679,Chitwan,59,Male,11600,Masters and above,Good
+680,Chitwan,71,Male,6600,Inter/+2,Ok
+681,Chitwan,50,Female,13300,SLC/SEE,Ok
+682,Chitwan,37,Female,13100,Inter/+2,Ok
+683,Chitwan,24,Female,10400,Inter/+2,Ok
+684,Chitwan,30,Female,10300,Bachelor,Good
+685,Chitwan,43,Female,10500,SLC/SEE,Good
+686,Chitwan,25,Female,12600,SLC/SEE,Good
+687,Chitwan,43,Male,13100,SLC/SEE,Ok
+688,Chitwan,49,Male,10300,Inter/+2,Ok
+689,Chitwan,43,Male,13500,Inter/+2,Ok
+690,Chitwan,30,Female,14800,Inter/+2,Good
+691,Chitwan,45,Male,11500,Inter/+2,Good
+692,Chitwan,50,Male,13500,Inter/+2,Good
+693,Chitwan,37,Female,10700,SLC/SEE,Ok
+694,Chitwan,51,Male,11100,Inter/+2,Ok
+695,Chitwan,43,Male,11800,SLC/SEE,Ok
+696,Chitwan,40,Male,13600,Inter/+2,Ok
+697,Chitwan,27,Male,14500,Inter/+2,Ok
+698,Chitwan,39,Male,14600,Bachelor,Ok
+699,Chitwan,42,Male,12400,Inter/+2,Ok
+700,Chitwan,47,Male,10400,Inter/+2,Ok
+701,Chitwan,26,Female,10200,SLC/SEE,Ok
+702,Chitwan,45,Male,12100,Masters and above,Good
+703,Chitwan,47,Male,12100,Bachelor,Ok
+704,Chitwan,52,Male,10000,SLC/SEE,Ok
+705,Chitwan,39,Male,11600,Inter/+2,Ok
+706,Chitwan,42,Male,12900,SLC/SEE,Ok
+707,Chitwan,53,Female,12200,Below SLC/SEE,Ok
+708,Chitwan,27,Female,12700,Inter/+2,Ok
+709,Chitwan,37,Female,11200,SLC/SEE,Ok
+710,Chitwan,30,Male,13500,Bachelor,Ok
+711,Chitwan,33,Female,11200,SLC/SEE,Ok
+712,Chitwan,55,Male,14400,SLC/SEE,Ok
+713,Chitwan,38,Male,12600,SLC/SEE,Ok
+714,Chitwan,29,Female,14400,Inter/+2,Ok
+715,Chitwan,31,Male,12300,SLC/SEE,Ok
+716,Chitwan,30,Female,12200,SLC/SEE,Ok
+717,Chitwan,34,Female,11200,SLC/SEE,Ok
+718,Chitwan,24,Male,12600,Inter/+2,Ok
+719,Chitwan, ,Female,14900,SLC/SEE,Very Bad
+720,Chitwan,44,Male,13300,SLC/SEE,Bad
+841,Nawalparasi,36,Female,10200,SLC/SEE,Ok
+842,Nawalparasi,16,Female,10900,Inter/+2,Ok
+843,Nawalparasi,20,Male,14700,Inter/+2,Ok
+844,Nawalparasi,25,Male,10800,SLC/SEE,Good
+845,Nawalparasi, ,Male,12500,SLC/SEE,Good
+846,Nawalparasi,62,Male,6700,Below SLC/SEE,Good
+847,Nawalparasi,17,Male,12300,SLC/SEE,Ok
+848,Nawalparasi,18,Male,11500,SLC/SEE,Ok
+849,Nawalparasi,16,Male,11100,SLC/SEE,Ok
+850,Nawalparasi,40,Female,12400,SLC/SEE,Bad
+851,Nawalparasi,20,Male,14500,Inter/+2,Ok
+852,Nawalparasi,25,Female,12500,Bachelor,Ok
+853,Nawalparasi,20,Female,11500,Bachelor,Good
+854,Nawalparasi,25,Male,12000,SLC/SEE,Bad
+855,Nawalparasi,17,Male,11700,Inter/+2,Bad
+856,Nawalparasi,18,Male,13500,Bachelor,Ok
+857,Nawalparasi,19,Female,11700,Inter/+2,Ok
+858,Nawalparasi,45,Male,12600,SLC/SEE,Ok
+859,Nawalparasi,18,Female,12000,Bachelor,Bad
+860,Nawalparasi,45,Male,11600,SLC/SEE,Ok
+861,Nawalparasi,21,Male,11700,Inter/+2,Bad
+862,Nawalparasi,45,Male,14000,Inter/+2,Good
+863,Nawalparasi,40,Male,11000,SLC/SEE,Good
+864,Nawalparasi,40,Female,14500,SLC/SEE,Bad
+865,Nawalparasi,40,Male,12600,Inter/+2,Ok
+866,Nawalparasi,40,Male,11300,SLC/SEE,Bad
+867,Nawalparasi,41,Male,12600,Masters and above,Bad
+868,Nawalparasi,18,Female,11300,Bachelor,Bad
+869,Nawalparasi,32,Male,11300,Masters and above,Ok
+870,Nawalparasi,30,Male,13600,Inter/+2,Good
+871,Nawalparasi,25,Female,13100,SLC/SEE,Very Bad
+872,Nawalparasi,35,Male,11600,SLC/SEE,Ok
+873,Nawalparasi, ,Male,11500,Inter/+2,Ok
+874,Nawalparasi,45,Female,11000,Below SLC/SEE,Bad
+875,Nawalparasi,43,Male,14000,Masters and above,Good
+876,Nawalparasi,26,Female,11200,SLC/SEE,Good
+877,Nawalparasi,45,Male,14500,SLC/SEE,Good
+878,Nawalparasi,23,Female,11300,Bachelor,Very Bad
+879,Nawalparasi,40,Female,11100,Inter/+2,Ok
+880,Nawalparasi,20,Male,10700,Inter/+2,Good
+881,Nawalparasi,42,Male,11900,SLC/SEE,Ok
+882,Nawalparasi,25,Male,14700,SLC/SEE,Ok
+883,Nawalparasi,55,Male,12400,SLC/SEE,Good
+884,Nawalparasi,27,Male,12900,Inter/+2,Ok
+885,Nawalparasi,35,Male,14800,SLC/SEE,Ok
+886,Nawalparasi,35,Male,14800,SLC/SEE,Ok
+887,Nawalparasi,32,Male,13000,SLC/SEE,Ok
+888,Nawalparasi,35,Male,12200,Inter/+2,Ok
+889,Nawalparasi,45,Male,10600,Inter/+2,Ok
+890,Nawalparasi,21,Female,12200,Bachelor,Ok
+891,Nawalparasi,19,Male,12200,Inter/+2,Ok
+892,Nawalparasi,55,Female,12600,SLC/SEE,Ok
+893,Nawalparasi,35,Female,11700,Below SLC/SEE,Bad
+894,Nawalparasi,33,Male,11000,Below SLC/SEE,Ok
+895,Nawalparasi,35,Male,11100,Inter/+2,Ok
+896,Nawalparasi,28,Female,11900,SLC/SEE,Bad
+897,Nawalparasi,28,Male,14100,Inter/+2,Good
+898,Nawalparasi,39,Male,13600,SLC/SEE,Ok
+899,Nawalparasi,35,Male,10700,Below SLC/SEE,Ok
+900,Nawalparasi,30,Male,11400,Inter/+2,Ok
+901,Nawalparasi,50,Male,11600,SLC/SEE,Ok
+902,Nawalparasi,38,Male,10600,SLC/SEE,Ok
+903,Nawalparasi,59,Male,12400,SLC/SEE,Ok
+904,Nawalparasi,45,Male,10200,SLC/SEE,Ok
+905,Nawalparasi,50,Male,12900,SLC/SEE,Bad
+906,Nawalparasi,45,Female,13900,SLC/SEE,Good
+907,Nawalparasi,40,Female,13000,SLC/SEE,Ok
+908,Nawalparasi,23,Male,11500,Bachelor,Good
+909,Nawalparasi, ,Female,14600,Inter/+2,Ok
+910,Nawalparasi,42,Female,10600,Masters and above,Good
+911,Nawalparasi, ,Male,13300,SLC/SEE,Bad
+912,Nawalparasi,25,Male,14200,Bachelor,Bad
+913,Nawalparasi,35,Male,10200,SLC/SEE,Bad
+914,Nawalparasi,38,Male,12000,Inter/+2,Good
+915,Nawalparasi,25,Male,10100,SLC/SEE,Good
+916,Nawalparasi,34,Female,10200,SLC/SEE,Ok
+917,Nawalparasi,30,Female,13000,SLC/SEE,Good
+918,Nawalparasi,35,Male,14200,Inter/+2,Good
+919,Nawalparasi,35,Female,13800,SLC/SEE,Good
+920,Nawalparasi,40,Male,14800,Inter/+2,Ok
+921,Nawalparasi,37,Male,12200,SLC/SEE,Good
+922,Nawalparasi,14,Male,14900,SLC/SEE,Good
+923,Nawalparasi,35,Female,13200,SLC/SEE,Bad
+924,Nawalparasi,25,Female,10700,Inter/+2,Good
+925,Nawalparasi,28,Male,11000,Masters and above,Very Bad
+926,Nawalparasi,45,Male,12500,Inter/+2,Good
+927,Nawalparasi,38,Female,11200,SLC/SEE,Ok
+928,Nawalparasi,47,Male,10600,Inter/+2,Good
+929,Nawalparasi,30,Female,11900,SLC/SEE,Ok
+930,Nawalparasi,43,Male,12700,SLC/SEE,Good
+931,Nawalparasi,47,Male,11300,SLC/SEE,Ok
+932,Nawalparasi,45,Male,13900,SLC/SEE,Good
+933,Nawalparasi,43,Male,13300,SLC/SEE,Good
+934,Nawalparasi,35,Male,11000,SLC/SEE,Ok
+935,Nawalparasi,30,Female,12600,Inter/+2,Good
+936,Nawalparasi,36,Male,10600,SLC/SEE,Good
+937,Nawalparasi,40,Female,12100,Inter/+2,Bad
+938,Nawalparasi,44,Female,13000,Inter/+2,Good
+939,Nawalparasi,34,Male,11000,SLC/SEE,Good
+940,Nawalparasi,27,Male,10700,Bachelor,Good
+941,Nawalparasi,67,Male,4500,SLC/SEE,Good
+942,Nawalparasi,65,Male,2800,SLC/SEE,Ok
+943,Nawalparasi,21,Male,14500,SLC/SEE,Good
+944,Nawalparasi,45,Male,11200,SLC/SEE,Ok
+945,Nawalparasi,53,Male,13600,SLC/SEE,Ok
+946,Nawalparasi,23,Female,13200,Bachelor,Good
+947,Nawalparasi,40,Male,13000,SLC/SEE,Good
+948,Nawalparasi,47,Male,10300,SLC/SEE,Good
+949,Nawalparasi,31,Male,13700,Bachelor,Ok
+950,Nawalparasi,38,Male,12400,SLC/SEE,Good
+951,Nawalparasi,42,Male,14600,SLC/SEE,Ok
+952,Nawalparasi,52,Male,10600,SLC/SEE,Ok
+953,Nawalparasi,35,Male,10900,SLC/SEE,Ok
+954,Nawalparasi,40,Male,11700,Bachelor,Good
+955,Nawalparasi,32,Male,14000,Inter/+2,Bad
+956,Nawalparasi,53,Male,13500,SLC/SEE,Ok
+957,Nawalparasi,23,Male,14600,Bachelor,Ok
+958,Nawalparasi,31,Male,10200,SLC/SEE,Ok
+959,Nawalparasi,48,Male,10300,SLC/SEE,Good
+960,Nawalparasi,52,Male,13000,Inter/+2,Good
+961,Nawalparasi,45,Male,10200,SLC/SEE,Ok
+962,Nawalparasi,60,Male,2800,SLC/SEE,Ok
+963,Nawalparasi,29,Male,12700,SLC/SEE,Ok
+964,Nawalparasi,22,Female,12800,SLC/SEE,Ok
+965,Nawalparasi,62,Female,6000,Below SLC/SEE,Bad
+966,Nawalparasi,55,Male,10000,SLC/SEE,Good
+967,Nawalparasi,38,Female,10200,SLC/SEE,Ok
+968,Nawalparasi,30,Female,13500,SLC/SEE,Ok
+969,Nawalparasi,28,Female,10300,SLC/SEE,Ok
+970,Nawalparasi,16,Male,14900,SLC/SEE,Ok
+971,Nawalparasi,21,Female,13200,SLC/SEE,Ok
+972,Nawalparasi,35,Male,12200,SLC/SEE,Ok
+973,Nawalparasi,32,Male,11900,Masters and above,Ok
+974,Nawalparasi,72,Male,4000,SLC/SEE,Ok
+975,Nawalparasi,55,Male,11100,SLC/SEE,Ok
+976,Nawalparasi,60,Male,2600,SLC/SEE,Ok
+977,Nawalparasi,33,Female,14300,Below SLC/SEE,Ok
+978,Nawalparasi,45,Male,13200,SLC/SEE,Good
+979,Nawalparasi,26,Male,14900,SLC/SEE,Ok
+980,Nawalparasi,29,Male,14000,SLC/SEE,Ok
+981,Nawalparasi,43,Female,12500,Below SLC/SEE,Ok
+982,Nawalparasi,29,Male,13900,Bachelor,Ok
+983,Nawalparasi,30,Female,11600,SLC/SEE,Ok
+984,Nawalparasi,30,Male,12900,SLC/SEE,Ok
+985,Nawalparasi,29,Female,11500,SLC/SEE,Bad
+986,Nawalparasi,35,Male,11500,SLC/SEE,Ok
+987,Nawalparasi,24,Male,13500,SLC/SEE,Ok
+988,Nawalparasi,25,Male,14900,Inter/+2,Ok
+989,Nawalparasi,31,Male,12500,SLC/SEE,Ok
+990,Nawalparasi,35,Female,13300,SLC/SEE,Ok
+991,Nawalparasi,57,Male,13700,Inter/+2,Ok
+992,Nawalparasi,27,Male,14100,SLC/SEE,Ok
+993,Nawalparasi,20,Male,14200,SLC/SEE,Ok
+994,Nawalparasi,35,Male,10100,SLC/SEE,Ok
+995,Nawalparasi,30,Male,11900,Inter/+2,Good
+996,Nawalparasi,23,Female,12700,SLC/SEE,Ok
+997,Nawalparasi,38,Male,14900,SLC/SEE,Ok
+998,Nawalparasi,35,Male,13100,SLC/SEE,Ok
+999,Nawalparasi,40,Female,10100,SLC/SEE,Ok
+1000,Nawalparasi,22,Female,14400,SLC/SEE,Ok
+1001,Nawalparasi,42,Male,14200,SLC/SEE,Ok
+1002,Nawalparasi,35,Male,14400,Masters and above,Ok
+1003,Nawalparasi,21,Male,10200,SLC/SEE,Ok
+1004,Nawalparasi,40,Male,13400,SLC/SEE,Ok
+1005,Nawalparasi,22,Male,11400,SLC/SEE,Ok
+1006,Nawalparasi,55,Male,11800,Bachelor,Ok
+1007,Nawalparasi,46,Male,13100,SLC/SEE,Ok
+1008,Nawalparasi,41,Male,13400,Inter/+2,Ok
+1009,Nawalparasi,25,Female,13300,Bachelor,Good
+1010,Nawalparasi,75,Male,6200,SLC/SEE,Ok
+1011,Nawalparasi,28,Male,14000,SLC/SEE,Ok
+1012,Nawalparasi,20,Female,12000,SLC/SEE,Ok
+1013,Nawalparasi,26,Male,13600,SLC/SEE,Ok
+1014,Nawalparasi,24,Male,11400,Inter/+2,Ok
+1015,Nawalparasi,45,Male,14300,SLC/SEE,Ok
+1016,Nawalparasi,35,Female,12600,Below SLC/SEE,Ok
+1017,Nawalparasi,49,Male,13000,Inter/+2,Ok
+1018,Nawalparasi,40,Male,14800,SLC/SEE,Ok
+1019,Nawalparasi,35,Male,14200,SLC/SEE,Ok
+1020,Nawalparasi,35,Male,14800,SLC/SEE,Ok
+1021,Nawalparasi,56,Male,11400,SLC/SEE,Ok
+1022,Nawalparasi,28,Male,15000,Inter/+2,Ok
+1023,Nawalparasi,28,Male,13700,SLC/SEE,Ok
+1024,Nawalparasi,31,Male,11500,SLC/SEE,Ok
+1025,Nawalparasi,37,Male,14300,SLC/SEE,Ok
+1026,Nawalparasi,40,Male,10800,Bachelor,Good
+1027,Nawalparasi,34,Male,10500,SLC/SEE,Ok
+1028,Nawalparasi,46,Male,14100,SLC/SEE,Ok
+1029,Nawalparasi,33,Male,12600,SLC/SEE,Ok
+1030,Nawalparasi,28,Female,12400,Inter/+2,Ok
+1031,Nawalparasi,29,Male,13000,SLC/SEE,Ok
+1032,Nawalparasi,24,Male,11400,SLC/SEE,Ok
+1033,Nawalparasi,27,Male,13400,SLC/SEE,Ok
+1034,Nawalparasi,25,Male,12300,SLC/SEE,Ok
+1035,Nawalparasi,22,Male,12300,SLC/SEE,Good
+1036,Nawalparasi,34,Male,10600,SLC/SEE,Ok
+1037,Nawalparasi,28,Male,15000,SLC/SEE,Ok
+1038,Nawalparasi,40,Male,13400,SLC/SEE,Good
+1039,Nawalparasi,41,Male,14300,Masters and above,Good
+1040,Nawalparasi,41,Male,10200,SLC/SEE,Ok
+1041,Nawalparasi,56,Male,12900,SLC/SEE,Ok
+1042,Nawalparasi,77,Male,3600,Below SLC/SEE,Ok
+1043,Nawalparasi,40,Male,12600,SLC/SEE,Ok
+1044,Nawalparasi,40,Male,14300,SLC/SEE,Ok
+1045,Nawalparasi,34,Female,12200,SLC/SEE,Ok
+1046,Nawalparasi,26,Male,14400,SLC/SEE,Ok
+1047,Nawalparasi,28,Male,10700,SLC/SEE,Ok
+1048,Nawalparasi,35,Female,12900,SLC/SEE,Ok
+1049,Nawalparasi,30,Male,10400,Inter/+2,Ok
+1050,Nawalparasi,45,Male,11100,SLC/SEE,Good
+1051,Nawalparasi,46,Male,10300,SLC/SEE,Ok
+1052,Nawalparasi,48,Male,10900,Below SLC/SEE,Ok
+1053,Nawalparasi,45,Male,10300,Bachelor,Good
+1054,Nawalparasi,21,Male,10300,SLC/SEE,Ok
+1055,Nawalparasi,27,Male,12400,SLC/SEE,Ok
+1056,Nawalparasi,38,Male,11700,SLC/SEE,Ok
+1057,Nawalparasi,30,Male,13000,SLC/SEE,Ok
+1058,Nawalparasi,45,Male,13500,SLC/SEE,Ok
+1059,Nawalparasi,42,Male,14700,SLC/SEE,Ok
+1060,Nawalparasi,36,Male,14800,SLC/SEE,Ok
+1061,Nawalparasi,38,Male,14400,SLC/SEE,Ok
+1062,Nawalparasi,48,Male,13800,Below SLC/SEE,Ok
+1063,Nawalparasi,60,Male,3000,SLC/SEE,Ok
+1064,Nawalparasi,50,Male,11700,SLC/SEE,Ok
+1065,Nawalparasi,45,Male,14900,SLC/SEE,Ok
+1066,Nawalparasi,69,Male,4800,Below SLC/SEE,Ok
+1067,Nawalparasi,63,Male,5400,SLC/SEE,Ok
+1068,Nawalparasi,52,Male,13200,Bachelor,Ok
+1069,Nawalparasi,35,Male,14500,SLC/SEE,Ok
+1070,Nawalparasi,35,Male,14000,SLC/SEE,Ok
+1071,Nawalparasi,30,Male,10100,SLC/SEE,Ok
+1072,Nawalparasi,40,Male,10800,SLC/SEE,Ok
+1073,Nawalparasi,40,Male,12900,SLC/SEE,Ok
+1074,Nawalparasi,60,Male,5600,SLC/SEE,Ok
+1075,Nawalparasi,39,Male,11700,SLC/SEE,Ok
+1076,Nawalparasi,39,Male,13200,SLC/SEE,Ok
+1077,Nawalparasi,35,Male,10000,Bachelor,Ok
+1078,Nawalparasi,45,Male,13300,Inter/+2,Ok
+1079,Nawalparasi,35,Male,14100,SLC/SEE,Ok
+1080,Nawalparasi,35,Male,12900,SLC/SEE,Ok
+1081,Nawalparasi,73,Male,5700,SLC/SEE,Good
+1082,Nawalparasi,18,Male,14700,SLC/SEE,Good
+1083,Nawalparasi,44,Female,11900,Below SLC/SEE,Good
+1084,Nawalparasi,31,Female,14500,SLC/SEE,Very Bad
+1085,Nawalparasi,65,Female,5900,Below SLC/SEE,Good
+1086,Nawalparasi,55,Male,11300,Below SLC/SEE,Good
+1087,Nawalparasi,52,Male,11000,Below SLC/SEE,Good
+1088,Nawalparasi,13,Female,11700,SLC/SEE,Good
+1089,Nawalparasi,17,Male,13900,SLC/SEE,Good
+1090,Nawalparasi,18,Female,11000,SLC/SEE,Ok
+1091,Nawalparasi,24,Female,11900,SLC/SEE,Good
+1092,Nawalparasi,30,Female,14600,SLC/SEE,Good
+1093,Nawalparasi,40,Male,10400,Bachelor,Good
+1094,Nawalparasi,18,Female,11700,Bachelor,Very Good
+1095,Nawalparasi,28,Male,11000,SLC/SEE,Good
+1096,Nawalparasi,70,Male,7000,SLC/SEE,Very Good
+1097,Nawalparasi,34,Male,14000,Masters and above,Very Good
+1098,Nawalparasi,38,Male,14800,SLC/SEE,Good
+1099,Nawalparasi,30,Female,14600,SLC/SEE,Good
+1100,Nawalparasi,20,Male,12300,Bachelor,Good
+1101,Nawalparasi,36,Female,12800,SLC/SEE,Bad
+1102,Nawalparasi,18,Female,13900,Inter/+2,Ok
+1103,Nawalparasi,37,Male,14700,SLC/SEE,Good
+1104,Nawalparasi,24,Female,13400,SLC/SEE,Very Good
+1105,Nawalparasi,33,Male,12800,SLC/SEE,Good
+1106,Nawalparasi,28,Female,10700,Below SLC/SEE,Good
+1107,Nawalparasi,26,Female,12600,SLC/SEE,Good
+1108,Nawalparasi,20,Male,12900,SLC/SEE,Very Good
+1109,Nawalparasi,22,Female,13200,Inter/+2,Good
+1110,Nawalparasi,21,Female,12600,SLC/SEE,Good
+1111,Nawalparasi,27,Male,11900,SLC/SEE,Good
+1112,Nawalparasi,35,Male,13800,Masters and above,Ok
+1113,Nawalparasi,18,Male,12900,Inter/+2,Ok
+1114,Nawalparasi,62,Male,4900,SLC/SEE,Good
+1115,Nawalparasi,18,Male,12600,Inter/+2,Good
+1116,Nawalparasi,19,Male,10100,SLC/SEE,Good
+1117,Nawalparasi,45,Male,13700,SLC/SEE,Good
+1118,Nawalparasi,20,Male,11800,SLC/SEE,Good
+1119,Nawalparasi,40,Male,10100,SLC/SEE,Ok
+1120,Nawalparasi,34,Male,10200,SLC/SEE,Good
+1121,Nawalparasi,45,Female,12000,SLC/SEE,Good
+1122,Nawalparasi,50,Female,13900,Below SLC/SEE,Good
+1123,Nawalparasi,19,Female,12000,Bachelor,Good
+1124,Nawalparasi,50,Female,12400,Below SLC/SEE,Good
+1125,Nawalparasi,21,Female,13500,SLC/SEE,Very Good
+1126,Nawalparasi,42,Female,10500,Below SLC/SEE,Ok
+1127,Nawalparasi,55,Male,10100,SLC/SEE,Good
+1128,Nawalparasi,16,Female,12300,Inter/+2,Good
+1129,Nawalparasi,18,Male,10800,SLC/SEE,Good
+1130,Nawalparasi,20,Male,10900,SLC/SEE,Good
+1131,Nawalparasi,52,Male,10100,Below SLC/SEE,Good
+1132,Nawalparasi,17,Female,14200,Inter/+2,Good
+1133,Nawalparasi,72,Male,6200,SLC/SEE,Good
+1134,Nawalparasi,20,Male,13600,Inter/+2,Good
+1135,Nawalparasi,18,Male,10400,Inter/+2,Good
+1136,Nawalparasi,23,Female,13400,Bachelor,Very Good
+1137,Nawalparasi,17,Female,11300,SLC/SEE,Good
+1138,Nawalparasi,17,Female,10100,SLC/SEE,Good
+1139,Nawalparasi,65,Female,6000,SLC/SEE,Good
+1140,Nawalparasi,60,Male,3800,SLC/SEE,Good
+1141,Nawalparasi,48,Female,13100,SLC/SEE,Good
+1142,Nawalparasi,45,Male,13600,Below SLC/SEE,Ok
+1143,Nawalparasi,34,Female,13200,SLC/SEE,Ok
+1144,Nawalparasi,28,Female,14000,Inter/+2,Bad
+1145,Nawalparasi,46,Male,11000,SLC/SEE,Ok
+1146,Nawalparasi,35,Female,14300,Below SLC/SEE,Good
+1147,Nawalparasi,42,Male,13600,SLC/SEE,Good
+1148,Nawalparasi,22,Male,14900,Bachelor,Ok
+1149,Nawalparasi,48,Female,13700,Below SLC/SEE,Good
+1150,Nawalparasi,42,Male,13700,Masters and above,Good
+1151,Nawalparasi,20,Female,13700,Inter/+2,Good
+1152,Nawalparasi,18,Female,13000,Inter/+2,Good
+1153,Nawalparasi,65,Male,5500,SLC/SEE,Good
+1154,Nawalparasi,46,Male,11800,SLC/SEE,Ok
+1155,Nawalparasi,18,Male,13400,SLC/SEE,Good
+1156,Nawalparasi,30,Female,13600,SLC/SEE,Good
+1157,Nawalparasi,50,Male,11400,Bachelor,Good
+1158,Nawalparasi,41,Male,11200,Inter/+2,Ok
+1159,Nawalparasi,40,Male,10900,Inter/+2,Good
+1160,Nawalparasi,59,Male,11600,Inter/+2,Good
+1161,Nawalparasi,34,Male,11800,Inter/+2,Good
+1162,Nawalparasi,49,Male,14400,SLC/SEE,Good
+1163,Nawalparasi,20,Female,11100,Bachelor,Good
+1164,Nawalparasi,18,Female,12300,Inter/+2,Ok
+1165,Nawalparasi,20,Male,14100,Inter/+2,Good
+1166,Nawalparasi,31,Female,12900,Inter/+2,Ok
+1167,Nawalparasi,48,Male,10200,SLC/SEE,Good
+1168,Nawalparasi,33,Male,13100,Inter/+2,Ok
+1169,Nawalparasi,48,Male,14800,Inter/+2,Good
+1170,Nawalparasi,62,Male,5100,SLC/SEE,Good
+1171,Nawalparasi,18,Female,11500,Inter/+2,Good
+1172,Nawalparasi,58,Male,12600,SLC/SEE,Good
+1173,Nawalparasi,43,Male,13900,Bachelor,Good
+1174,Nawalparasi,50,Female,10900,Below SLC/SEE,Ok
+1175,Nawalparasi,53,Male,12900,Bachelor,Ok
+1176,Nawalparasi,40,Female,11400,Below SLC/SEE,Good
+1177,Nawalparasi,38,Female,10300,Bachelor,Ok
+1178,Nawalparasi,65,Male,2600,SLC/SEE,Ok
+1179,Nawalparasi,72,Male,6700,Below SLC/SEE,Good
+1180,Nawalparasi,55,Female,10200,SLC/SEE,Good
+1181,Nawalparasi,22,Female,13500,SLC/SEE,Good
+1182,Nawalparasi,25,Male,10200,Bachelor,Ok
+1183,Nawalparasi,48,Male,13000,Below SLC/SEE,Very Bad
+1184,Nawalparasi,33,Male,10800,Inter/+2,Ok
+1185,Nawalparasi,70,Female,4100,Below SLC/SEE,Bad
+1186,Nawalparasi,48,Male,12600,Below SLC/SEE,Good
+1187,Nawalparasi,30,Male,14700,SLC/SEE,Good
+1188,Nawalparasi,30,Female,12400,Below SLC/SEE,Good
+1189,Nawalparasi,25,Male,10000,SLC/SEE,Good
+1190,Nawalparasi,19,Male,12300,SLC/SEE,Good
+1191,Nawalparasi,21,Female,12400,Inter/+2,Good
+1192,Nawalparasi,19,Male,13000,Inter/+2,Very Good
+1193,Nawalparasi,25,Male,13600,Bachelor,Good
+1194,Nawalparasi,17,Male,11700,SLC/SEE,Good
+1195,Nawalparasi,20,Male,14000,Bachelor,Good
+1196,Nawalparasi,19,Male,13200,SLC/SEE,Ok
+1197,Nawalparasi,26,Female,13900,Masters and above,Very Good
+1198,Nawalparasi,45,Male,12800,Masters and above,Ok
+1199,Nawalparasi,20,Female,12200,SLC/SEE,Ok
+1200,Nawalparasi,34,Male,11800,SLC/SEE,Good
+1288,Nawalparasi,27,Male,13800,SLC/SEE,Good
+1289,Nawalparasi,35,Male,12600,SLC/SEE,Good
+1290,Nawalparasi,35,Male,13800,Below SLC/SEE,Good
+1291,Nawalparasi,27,Male,11600,SLC/SEE,Ok
+1292,Nawalparasi,63,Male,4200,Below SLC/SEE,Bad
+1293,Nawalparasi,62,Male,6300,Below SLC/SEE,Good
+1294,Nawalparasi,56,Male,12800,Below SLC/SEE,Very Good
+1295,Nawalparasi,44,Male,10400,Below SLC/SEE,Very Good
+1320,Nawalparasi,18,Male,14500,Inter/+2,Ok
+1321,Nawalparasi,28,Female,13100,SLC/SEE,Ok
+1322,Nawalparasi,38,Female,10400,SLC/SEE,Ok
+1323,Nawalparasi,20,Female,12700,Below SLC/SEE,Ok
+1324,Nawalparasi,46,Male,12000,SLC/SEE,Very Good
+1325,Nawalparasi,45,Female,10400,SLC/SEE,Very Good
+1326,Nawalparasi,55,Male,14200,Below SLC/SEE,Very Good
+1327,Nawalparasi,40,Male,13600,SLC/SEE,Good
+1328,Nawalparasi, ,Male,14200,Below SLC/SEE,Ok
+1329,Nawalparasi,60,Male,3600,Below SLC/SEE,Good
+1330,Nawalparasi,45,Male,12600,Inter/+2,Good
+1331,Nawalparasi,36,Male,14600,SLC/SEE,Very Good
+1332,Nawalparasi,65,Male,3400,Below SLC/SEE,Very Good
+1333,Nawalparasi,60,Male,5800,SLC/SEE,Ok
+1334,Nawalparasi,50,Male,11600,Below SLC/SEE,Ok
+1335,Nawalparasi,55,Female,12700,SLC/SEE,Ok
+1336,Nawalparasi,31,Male,14100,Bachelor,Very Good
+1337,Nawalparasi,18,Male,14300,Bachelor,Ok
+1338,Nawalparasi,72,Male,6200,SLC/SEE,Ok
+1339,Nawalparasi,47,Male,10200,Below SLC/SEE,Very Good
+1340,Nawalparasi,43,Male,13600,Bachelor,Ok
+1341,Nawalparasi,18,Male,11800,SLC/SEE,Good
+1342,Nawalparasi,18,Male,10400,Bachelor,Ok
+1343,Nawalparasi,45,Male,13100,Bachelor,Very Good
+1344,Nawalparasi,58,Male,13800,SLC/SEE,Ok
+1345,Nawalparasi,22,Male,11500,Bachelor,Ok
+1346,Nawalparasi,47,Male,14900,SLC/SEE,Ok
+1347,Nawalparasi,60,Male,6100,SLC/SEE,Ok
+1348,Nawalparasi,45,Male,12800,SLC/SEE,Ok
+1349,Nawalparasi,50,Male,14100,SLC/SEE,Very Good
+1350,Nawalparasi,30,Male,11400,Bachelor,Ok
+1351,Nawalparasi,45,Male,12000,SLC/SEE,Ok
+1352,Nawalparasi,65,Male,2900,SLC/SEE,Ok
+1353,Nawalparasi,19,Male,13300,SLC/SEE,Very Good
+1354,Nawalparasi,65,Male,5000,Bachelor,Very Good
+1355,Nawalparasi,53,Male,14800,Bachelor,Very Good
+1356,Nawalparasi,45,Male,11100,Inter/+2,Ok
+1357,Nawalparasi,36,Male,11900,SLC/SEE,Very Good
+1358,Nawalparasi,38,Female,11500,Below SLC/SEE,Bad
+1359,Nawalparasi,17,Male,11600,SLC/SEE,Ok
+1360,Nawalparasi,35,Male,14700,SLC/SEE,Ok
+1361,Nawalparasi,15,Male,12300,SLC/SEE,Very Bad
+1362,Nawalparasi,18,Male,14700,SLC/SEE,Good
+1363,Nawalparasi,23,Male,11800,SLC/SEE,Ok
+1364,Nawalparasi,47,Male,14200,Below SLC/SEE,Ok
+1365,Nawalparasi,62,Male,6400,SLC/SEE,Very Good
+1366,Nawalparasi,45,Male,12700,SLC/SEE,Ok
+1367,Nawalparasi,18,Male,11900,SLC/SEE,Ok
+1368,Nawalparasi,56,Male,14500,Below SLC/SEE,Ok
+1369,Nawalparasi,20,Male,14000,Below SLC/SEE,Bad
+1370,Nawalparasi,13,Male,13000,SLC/SEE,Ok
+1371,Nawalparasi,28,Male,12200,SLC/SEE,Good
+1372,Nawalparasi,62,Male,2500,Inter/+2,Very Good
+1373,Nawalparasi,70,Male,3400,Below SLC/SEE,Ok
+1374,Nawalparasi,25,Male,13300,SLC/SEE,Ok
+1375,Nawalparasi,28,Male,13600,SLC/SEE,Ok
+1376,Nawalparasi,44,Male,13900,SLC/SEE,Good
+1377,Nawalparasi,52,Male,14300,Below SLC/SEE,Ok
+1378,Nawalparasi, ,Male,10600,SLC/SEE,Very Good
+1379,Nawalparasi, ,Male,14000,SLC/SEE,Ok
+1380,Nawalparasi,43,Male,14900,SLC/SEE,Ok
+1381,Nawalparasi,18,Male,13600,Below SLC/SEE,Bad
+1382,Nawalparasi,19,Male,10700,SLC/SEE,Bad
+1383,Nawalparasi,61,Male,2800,SLC/SEE,Very Good
+1384,Nawalparasi,65,Male,3200,SLC/SEE,Very Good
+1385,Nawalparasi,19,Male,14400,SLC/SEE,Good
+1386,Nawalparasi,50,Male,14400,SLC/SEE,Very Good
+1387,Nawalparasi,60,Male,4400,SLC/SEE,Very Good
+1388,Nawalparasi,35,Male,10900,Below SLC/SEE,Bad
+1389,Nawalparasi,55,Male,13400,SLC/SEE,Good
+1390,Nawalparasi,37,Male,12400,Below SLC/SEE,Very Good
+1391,Nawalparasi,42,Male,13300,SLC/SEE,Very Good
+1392,Nawalparasi,38,Male,11800,SLC/SEE,Very Good
+1393,Nawalparasi,45,Male,11800,SLC/SEE,Ok
+1394,Nawalparasi,25,Male,11300,SLC/SEE,Bad
+1395,Nawalparasi,18,Male,11800,Inter/+2,Ok
+1396,Nawalparasi,65,Male,6900,Below SLC/SEE,Ok
+1397,Nawalparasi,20,Male,10900,SLC/SEE,Ok
+1398,Nawalparasi,19,Male,13800,SLC/SEE,Very Good
+1399,Nawalparasi,55,Male,13100,SLC/SEE,Ok
+1400,Nawalparasi,50,Male,14200,Below SLC/SEE,Good
+1401,Nawalparasi,65,Male,4700,SLC/SEE,Good
+1402,Nawalparasi,50,Male,12400,SLC/SEE,Good
+1403,Nawalparasi,40,Male,13300,SLC/SEE,Very Good
+1404,Nawalparasi,21,Male,14400,SLC/SEE,Ok
+1405,Nawalparasi,56,Female,13700,SLC/SEE,Bad
+1406,Nawalparasi,34,Male,12500,SLC/SEE,Good
+1407,Nawalparasi,50,Male,11700,Bachelor,Very Good
+1408,Nawalparasi,46,Male,10600,SLC/SEE,Good
+1409,Nawalparasi,40,Male,13400,SLC/SEE,Ok
+1410,Nawalparasi,69,Male,7000,Below SLC/SEE,Very Good
+1411,Nawalparasi,22,Male,10700,Inter/+2,Very Good
+1412,Nawalparasi,65,Male,6600,SLC/SEE,Good
+1413,Nawalparasi,45,Male,14900,SLC/SEE,Very Good
+1414,Nawalparasi,43,Male,13700,Bachelor,Very Good
+1415,Nawalparasi,18,Male,11300,SLC/SEE,Ok
+1416,Nawalparasi,27,Male,13200,SLC/SEE,Ok
+1417,Nawalparasi,42,Male,13000,Inter/+2,Ok
+1418,Nawalparasi,43,Male,13300,SLC/SEE,Very Bad
+1419,Nawalparasi,55,Male,12200,Below SLC/SEE,Bad
+1420,Nawalparasi,57,Male,14700,SLC/SEE,Ok
+1421,Nawalparasi,30,Male,14100,Bachelor,Bad
+1422,Nawalparasi,49,Male,13700,SLC/SEE,Very Good
+1423,Nawalparasi,68,Male,5100,Below SLC/SEE,Very Good
+1424,Nawalparasi,37,Male,10600,SLC/SEE,Very Good
+1425,Nawalparasi,44,Male,14000,SLC/SEE,Very Good
+1426,Nawalparasi,42,Male,10300,Bachelor,Very Good
+1427,Nawalparasi,28,Male,11200,SLC/SEE,Very Good
+1428,Nawalparasi, ,Male,13500,SLC/SEE,Very Good
+1429,Nawalparasi,55,Male,10900,SLC/SEE,Very Good
+1430,Nawalparasi,36,Male,13300,SLC/SEE,Very Good
+1431,Nawalparasi,46,Male,10400,Inter/+2,Ok
+1432,Nawalparasi,20,Male,11800,SLC/SEE,Very Good
+1433,Nawalparasi,24,Male,14700,SLC/SEE,Good
+1434,Nawalparasi, ,Male,10500,Bachelor,Good
+1435,Nawalparasi,58,Male,12700,SLC/SEE,Ok
+1436,Nawalparasi,34,Male,11300,SLC/SEE,Very Good
+1437,Nawalparasi, ,Male,14700,SLC/SEE,Very Good
+1438,Nawalparasi, ,Male,14200,SLC/SEE,Good
+1439,Nawalparasi,29,Male,12600,SLC/SEE,Very Good
+1440,Nawalparasi, ,Male,13900,Below SLC/SEE,Very Bad
+1441,Nawalparasi,48,Male,11700,Below SLC/SEE,Good
+1442,Nawalparasi,78,Male,3400,Below SLC/SEE,Ok
+1443,Nawalparasi,35,Male,10800,SLC/SEE,Ok
+1444,Nawalparasi,19,Male,10100,Bachelor,Good
+1445,Nawalparasi,30,Female,10900,SLC/SEE,Ok
+1446,Nawalparasi,22,Male,13900,Bachelor,Ok
+1447,Nawalparasi,57,Male,12700,SLC/SEE,Ok
+1448,Nawalparasi,45,Female,10500,Below SLC/SEE,Good
+1449,Nawalparasi,42,Female,10600,Below SLC/SEE,Ok
+1450,Nawalparasi,42,Male,10300,SLC/SEE,Ok
+1451,Nawalparasi,25,Male,14000,SLC/SEE,Ok
+1452,Nawalparasi,20,Male,12800,SLC/SEE,Good
+1453,Nawalparasi,21,Female,14300,SLC/SEE,Ok
+1454,Nawalparasi,26,Male,13500,Inter/+2,Ok
+1455,Nawalparasi,45,Female,10300,Below SLC/SEE,Ok
+1456,Nawalparasi,35,Female,11700,Below SLC/SEE,Ok
+1457,Nawalparasi,21,Male,14400,SLC/SEE,Ok
+1458,Nawalparasi,21,Male,14400,SLC/SEE,Ok
+1459,Nawalparasi,36,Female,11800,Below SLC/SEE,Ok
+1460,Nawalparasi,23,Male,13300,SLC/SEE,Ok
+1461,Nawalparasi,32,Male,14800,SLC/SEE,Ok
+1462,Nawalparasi,37,Female,11300,SLC/SEE,Ok
+1463,Nawalparasi,54,Male,12000,SLC/SEE,Very Good
+1464,Nawalparasi,26,Female,11800,SLC/SEE,Ok
+1465,Nawalparasi,21,Male,11400,Bachelor,Ok
+1466,Nawalparasi,48,Female,14100,Below SLC/SEE,Good
+1467,Nawalparasi,24,Female,11400,SLC/SEE,Ok
+1468,Nawalparasi,42,Female,14300,Below SLC/SEE,Ok
+1469,Nawalparasi,46,Female,11100,SLC/SEE,Ok
+1470,Nawalparasi,36,Female,11300,SLC/SEE,Good
+1471,Nawalparasi,36,Female,11200,Inter/+2,Very Good
+1472,Nawalparasi,47,Female,10600,SLC/SEE,Ok
+1473,Nawalparasi,54,Male,14400,SLC/SEE,Good
+1474,Nawalparasi,20,Female,14100,SLC/SEE,Good
+1475,Nawalparasi,20,Female,14000,Bachelor,Good
+1476,Nawalparasi,28,Female,13600,Masters and above,Good
+1477,Nawalparasi,26,Male,14900,SLC/SEE,Ok
+1478,Nawalparasi,53,Female,10300,Below SLC/SEE,Ok
+1479,Nawalparasi,32,Female,13300,SLC/SEE,Ok
+1480,Nawalparasi,20,Male,14200,Bachelor,Good
+1481,Nawalparasi,23,Male,11300,SLC/SEE,Good
+1482,Nawalparasi,55,Male,12500,Inter/+2,Ok
+1483,Nawalparasi,22,Female,12300,Bachelor,Good
+1484,Nawalparasi,76,Male,6000,Below SLC/SEE,Good
+1485,Nawalparasi,25,Male,10500,Inter/+2,Ok
+1486,Nawalparasi,66,Male,4000,SLC/SEE,Ok
+1487,Nawalparasi,44,Male,10800,Below SLC/SEE,Ok
+1488,Nawalparasi,22,Male,12500,Inter/+2,Ok
+1489,Nawalparasi,25,Male,11400,Bachelor,Ok
+1490,Nawalparasi, ,Male,11300,SLC/SEE,Good
+1491,Nawalparasi,43,Male,14600,SLC/SEE,Ok
+1492,Nawalparasi,50,Male,13700,SLC/SEE,Bad
+1493,Nawalparasi,46,Male,14400,SLC/SEE,Ok
+1494,Nawalparasi,46,Female,13000,Below SLC/SEE,Ok
+1495,Nawalparasi,59,Male,11200,SLC/SEE,Ok
+1496,Nawalparasi,37,Female,13100,Below SLC/SEE,Ok
+1497,Nawalparasi,30,Female,10300,SLC/SEE,Ok
+1498,Nawalparasi,52,Male,11300,SLC/SEE,Good
+1499,Nawalparasi,38,Female,11300,Below SLC/SEE,Ok
+1500,Nawalparasi,17,Female,13700,SLC/SEE,Ok
+1501,Nawalparasi,25,Female,14100,SLC/SEE,Ok
+1502,Nawalparasi,38,Male,11400,Bachelor,Ok
+1503,Nawalparasi,20,Male,14200,Bachelor,Very Good
+1504,Nawalparasi,24,Male,13700,SLC/SEE,Ok
+1505,Nawalparasi,25,Female,11400,Below SLC/SEE,Ok
+1506,Nawalparasi,71,Female,5900,Below SLC/SEE,Good
+1507,Nawalparasi,23,Male,14400,SLC/SEE,Ok
+1508,Nawalparasi,50,Female,10800,SLC/SEE,Very Good
+1509,Nawalparasi,21,Female,13300,Inter/+2,Ok
+1510,Nawalparasi,19,Female,14300,Below SLC/SEE,Ok
+1511,Nawalparasi,15,Female,11400,SLC/SEE,Good
+1512,Nawalparasi,40,Male,12100,SLC/SEE,Very Good
+1513,Nawalparasi,22,Female,10900,Bachelor,Good
+1514,Nawalparasi,16,Female,12700,SLC/SEE,Very Good
+1515,Nawalparasi,41,Male,10000,SLC/SEE,Ok
+1516,Nawalparasi,53,Male,13100,SLC/SEE,Good
+1517,Nawalparasi,25,Female,12800,SLC/SEE,Good
+1518,Nawalparasi,22,Female,14500,SLC/SEE,Good
+1519,Nawalparasi,18,Female,14400,SLC/SEE,Good
+1520,Nawalparasi,24,Female,10000,SLC/SEE,Good
+1521,Nawalparasi,61,Male,6400,SLC/SEE,Good
+1522,Nawalparasi,70,Female,3100,Below SLC/SEE,Good
+1523,Nawalparasi,26,Male,13200,Masters and above,Good
+1524,Nawalparasi,52,Female,14700,Below SLC/SEE,Good
+1525,Nawalparasi,21,Female,11700,Bachelor,Good
+1526,Nawalparasi,34,Female,10800,SLC/SEE,Good
+1527,Nawalparasi,21,Female,13800,Bachelor,Good
+1528,Nawalparasi,45,Female,10600,SLC/SEE,Bad
+1529,Nawalparasi,31,Female,10300,Below SLC/SEE,Good
+1530,Nawalparasi,20,Female,15000,Inter/+2,Good
+1531,Nawalparasi,69,Female,6800,Below SLC/SEE,Good
+1532,Nawalparasi,32,Male,14200,SLC/SEE,Good
+1533,Nawalparasi,43,Female,12200,Below SLC/SEE,Ok
+1534,Nawalparasi,48,Male,11000,SLC/SEE,Ok
+1535,Nawalparasi,46,Male,14100,SLC/SEE,Ok
+1536,Nawalparasi,24,Female,12000,Masters and above,Good
+1537,Nawalparasi,31,Female,10500,Below SLC/SEE,Good
+1538,Nawalparasi,54,Female,12900,SLC/SEE,Good
+1539,Nawalparasi,53,Male,10100,Inter/+2,Good
+1540,Nawalparasi,55,Female,13700,Below SLC/SEE,Good
+1541,Nawalparasi,19,Male,14400,SLC/SEE,Good
+1542,Nawalparasi,29,Female,11700,SLC/SEE,Good
+1543,Nawalparasi,37,Female,11900,SLC/SEE,Good
+1544,Nawalparasi,53,Male,13800,Below SLC/SEE,Good
+1545,Nawalparasi,57,Male,12400,SLC/SEE,Good
+1546,Nawalparasi,56,Male,13000,SLC/SEE,Good
+1547,Nawalparasi,42,Female,13200,Inter/+2,Very Good
+1548,Nawalparasi,51,Female,11500,Below SLC/SEE,Very Good
+1549,Nawalparasi,37,Female,14200,SLC/SEE,Good
+1550,Nawalparasi,24,Female,12800,Masters and above,Very Good
+1551,Nawalparasi,42,Female,10900,SLC/SEE,Good
+1552,Nawalparasi,19,Female,13400,SLC/SEE,Good
+1553,Nawalparasi,42,Female,11200,SLC/SEE,Good
+1554,Nawalparasi,36,Male,13000,Inter/+2,Good
+1555,Nawalparasi,19,Female,13700,Inter/+2,Good
+1556,Nawalparasi,25,Female,13200,Bachelor,Good
+1557,Nawalparasi,23,Female,12500,SLC/SEE,Bad
+1558,Nawalparasi,42,Male,14300,SLC/SEE,Good
+1559,Nawalparasi,24,Male,13200,Inter/+2,Good
+1560,Nawalparasi,40,Male,11000,Inter/+2,Good
+1561,Nawalparasi,75,Female,6600,SLC/SEE,Ok
+1562,Nawalparasi,47,Male,12200,Inter/+2,Ok
+1563,Nawalparasi,23,Female,11700,SLC/SEE,Ok
+1564,Nawalparasi,32,Male,11400,SLC/SEE,Ok
+1565,Nawalparasi,29,Male,10400,Inter/+2,Ok
+1566,Nawalparasi,21,Female,11700,Inter/+2,Good
+1567,Nawalparasi,50,Female,11300,Inter/+2,Very Good
+1568,Nawalparasi,30,Male,13000,Inter/+2,Very Good
+1569,Nawalparasi,25,Male,13600,SLC/SEE,Good
+1570,Nawalparasi,51,Male,10500,SLC/SEE,Ok
+1571,Nawalparasi,45,Male,14400,Bachelor,Ok
+1572,Nawalparasi,24,Male,10600,Below SLC/SEE,Very Good
+1573,Nawalparasi,19,Female,10600,SLC/SEE,Good
+1574,Nawalparasi,49,Male,11000,SLC/SEE,Very Good
+1575,Nawalparasi,45,Female,13400,Below SLC/SEE,Good
+1576,Nawalparasi,45,Female,13000,Below SLC/SEE,Ok
+1577,Nawalparasi,19,Male,13500,Inter/+2,Good
+1578,Nawalparasi,20,Female,14400,Inter/+2,Good
+1579,Nawalparasi,40,Male,14900,SLC/SEE,Ok
+1580,Nawalparasi,25,Male,12900,Below SLC/SEE,Ok
+1581,Nawalparasi,60,Male,3300,SLC/SEE,Good
+1582,Nawalparasi,45,Male,13700,SLC/SEE,Ok
+1583,Nawalparasi,23,Male,11700,Masters and above,Ok
+1584,Nawalparasi,82,Male,4300,SLC/SEE,Ok
+1585,Nawalparasi,28,Female,10900,Inter/+2,Ok
+1586,Nawalparasi,50,Male,12900,SLC/SEE,Good
+1587,Nawalparasi,62,Male,5600,Below SLC/SEE,Ok
+1588,Nawalparasi,50,Male,11200,Below SLC/SEE,Ok
+1589,Nawalparasi,19,Female,13500,Bachelor,Ok
+1590,Nawalparasi,46,Female,13000,Below SLC/SEE,Good
+1591,Nawalparasi,25,Female,10500,Bachelor,Good
+1592,Nawalparasi,30,Female,11100,SLC/SEE,Good
+1593,Nawalparasi,35,Female,14100,Below SLC/SEE,Bad
+1594,Nawalparasi,45,Female,14400,Below SLC/SEE,Good
+1595,Nawalparasi,55,Male,12500,SLC/SEE,Good
+1596,Nawalparasi,60,Male,3900,SLC/SEE,Ok
+1597,Nawalparasi,69,Male,2900,Below SLC/SEE,Ok
+1598,Nawalparasi,40,Female,10600,Below SLC/SEE,Good
+1599,Nawalparasi,28,Male,10200,SLC/SEE,Ok
+1600,Nawalparasi,51,Male,10100,SLC/SEE,Good
+1601,Nawalparasi,65,Male,6000,Below SLC/SEE,Ok
+1602,Nawalparasi,28,Female,12800,SLC/SEE,Good
+1603,Nawalparasi,45,Female,10000,Below SLC/SEE,Good
+1604,Nawalparasi,40,Female,12500,Below SLC/SEE,Good
+1605,Nawalparasi, ,Male,11500,SLC/SEE,Ok
+1606,Nawalparasi, ,Female,13600,Below SLC/SEE,Good
+1607,Nawalparasi,53,Male,11300,Inter/+2,Good
+1608,Nawalparasi,40,Female,10600,Below SLC/SEE,Good
+1609,Nawalparasi,17,Female,13800,SLC/SEE,Good
+1610,Nawalparasi,45,Female,11500,Below SLC/SEE,Good
+1611,Nawalparasi,16,Female,11000,SLC/SEE,Good
+1612,Nawalparasi,17,Female,11600,Inter/+2,Good
+1613,Nawalparasi,51,Female,12600,Below SLC/SEE,Very Good
+1614,Nawalparasi,34,Female,14000,SLC/SEE,Good
+1615,Nawalparasi,37,Female,11600,Below SLC/SEE,Good
+1616,Nawalparasi,20,Male,11900,SLC/SEE,Good
+1617,Nawalparasi,30,Male,14600,SLC/SEE,Good
+1618,Nawalparasi,39,Male,14800,SLC/SEE,Good
+1619,Nawalparasi,28,Female,13800,Inter/+2,Good
+1620,Nawalparasi,32,Male,12400,SLC/SEE,Good
+1621,Nawalparasi,32,Male,14700,SLC/SEE,Good
+1622,Nawalparasi,62,Male,5000,SLC/SEE,Ok
+1623,Nawalparasi,34,Male,11300,SLC/SEE,Ok
+1624,Nawalparasi,32,Male,11300,SLC/SEE,Good
+1625,Nawalparasi,60,Male,6100,Bachelor,Ok
+1626,Nawalparasi,46,Female,13100,Below SLC/SEE,Ok
+1627,Nawalparasi,40,Male,14500,Below SLC/SEE,Good
+1628,Nawalparasi,42,Female,14100,Below SLC/SEE,Ok
+1629,Nawalparasi,44,Female,11400,Below SLC/SEE,Ok
+1630,Nawalparasi,62,Male,5800,Inter/+2,Ok
+1631,Nawalparasi,63,Male,3600,SLC/SEE,Ok
+1632,Nawalparasi,51,Male,13400,SLC/SEE,Ok
+1633,Nawalparasi,21,Female,12800,Masters and above,Good
+1634,Nawalparasi,36,Male,14300,SLC/SEE,Ok
+1635,Nawalparasi,40,Male,11300,Inter/+2,Ok
+1636,Nawalparasi,48,Male,12700,SLC/SEE,Ok
+1637,Nawalparasi,16,Female,13800,Inter/+2,Good
+1638,Nawalparasi,60,Male,5500,Below SLC/SEE,Ok
+1639,Nawalparasi,80,Female,3500,Below SLC/SEE,Ok
+1640,Nawalparasi,19,Male,10500,Inter/+2,Ok
+1641,Nawalparasi,60,Male,4800,Below SLC/SEE,Bad
+1642,Nawalparasi,34,Male,10500,SLC/SEE,Good
+1643,Nawalparasi,67,Female,6400,Below SLC/SEE,Ok
+1644,Nawalparasi,34,Male,12400,Below SLC/SEE,Ok
+1645,Nawalparasi,50,Male,13500,Below SLC/SEE,Good
+1646,Nawalparasi,40,Male,11800,Below SLC/SEE,Ok
+1647,Nawalparasi,43,Male,12500,Bachelor,Ok
+1648,Nawalparasi,38,Male,12100,SLC/SEE,Ok
+1649,Nawalparasi,50,Male,11500,SLC/SEE,Bad
+1650,Nawalparasi,75,Male,3300,SLC/SEE,Ok
+1651,Nawalparasi,24,Male,14500,SLC/SEE,Bad
+1652,Nawalparasi,30,Male,10800,Bachelor,Good
+1653,Nawalparasi,45,Female,14800,Below SLC/SEE,Ok
+1654,Nawalparasi,41,Female,10000,SLC/SEE,Good
+1655,Nawalparasi,50,Male,10300,Bachelor,Ok
+1656,Nawalparasi,28,Male,12600,Below SLC/SEE,Ok
+1657,Nawalparasi,22,Male,12800,SLC/SEE,Ok
+1658,Nawalparasi,45,Female,12000,Below SLC/SEE,Ok
+1659,Nawalparasi,80,Male,3500,Below SLC/SEE,Ok
+1660,Nawalparasi,55,Male,14300,Inter/+2,Ok
+1661,Nawalparasi,28,Male,13400,Inter/+2,Ok
+1662,Nawalparasi, ,Female,14000,Bachelor,Ok
+1663,Nawalparasi,60,Male,3500,Below SLC/SEE,Ok
+1664,Nawalparasi,32,Male,14200,Bachelor,Ok
+1665,Nawalparasi,70,Male,6300,SLC/SEE,Ok
+1666,Nawalparasi,60,Male,4600,SLC/SEE,Ok
+1667,Nawalparasi,60,Male,6000,SLC/SEE,Ok
+1668,Nawalparasi,46,Female,11900,Below SLC/SEE,Ok
+1669,Nawalparasi,55,Female,12900,Below SLC/SEE,Very Bad
+1670,Nawalparasi,38,Male,14700,Below SLC/SEE,Ok
+1671,Nawalparasi,55,Male,13000,SLC/SEE,Ok
+1672,Nawalparasi,50,Male,10400,SLC/SEE,Ok
+1673,Nawalparasi,24,Male,10500,SLC/SEE,Ok
+1674,Nawalparasi,65,Female,6600,Below SLC/SEE,Ok
+1675,Nawalparasi,41,Male,13500,SLC/SEE,Ok
+1676,Nawalparasi,19,Female,12300,Inter/+2,Ok
+1677,Nawalparasi,41,Male,13100,Below SLC/SEE,Ok
+1678,Nawalparasi,59,Male,12200,SLC/SEE,Ok
+1679,Nawalparasi,22,Female,12000,Bachelor,Ok
+1680,Nawalparasi,42,Male,11300,SLC/SEE,Ok

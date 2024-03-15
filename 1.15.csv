@@ -1,0 +1,412 @@
+﻿Q4Age,Q3Income,Q5Gender,Q4Marital,Q7Religion,Q8Caste,Q9FamilyNo,Q10Readwrite,Q11Qualificatio,Q12Occupatio,Q13.1Incomesour,Q14Electricity,Q14.2IfNot,Q15.1toilet,Q15.2toilet,Q19Land,Q22.1Loan,Satisfaction_from_service
+31,24432,Male,Married,Hindu,H Dalit,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+40,3552,Male,Married,Hindu,T Janajati,6,Both Not Read & Write,Illiterate,Wage,No,Yes, ,No, ,No land,No,Little satisfaction
+30,9978,Female,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Little satisfaction
+30,9225,Female,Married,Hindu,T Dalit,5,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,No land,No,Fully satisfaction
+38,5369,Male,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,No land,No,Little satisfaction
+39,9431,Female,Married,Hindu,Madheshi,4,Both Not Read & Write,Illiterate,Wage,No,Yes, ,No, ,No land,No,Little satisfaction
+47,5229,Female,Married,Hindu,T Dalit,7,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Not satisfaction
+55,6291,Female,Married,Hindu,T Dalit,3,Both Read & Write,Literate,Agriculture,No,No,Tuki,Yes,Kachchi,No land,No,Little satisfaction
+53,5111,Male,Married,Hindu,T Dalit,8,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,No land,No,Not satisfaction
+40,23582,Male,Married,Hindu,T Dalit,7,Both Read & Write,Literate,Wage,No,Yes, ,No, ,No land,No,Not satisfaction
+59,23092,Female,Married,Hindu,T Janajati,2,Both Read & Write,Literate,Wage,No,Yes, ,No, ,No land,No,Not satisfaction
+49,18892,Female,Married,Hindu,T Dalit,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,No land,No,Little satisfaction
+58,18856,Male,Married,Hindu,T Janajati,4,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Not satisfaction
+20,1931,Male,Unmarried,Hindu,T Janajati,6,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,>1 ha,No,Satisfaction
+63,8341,Male,Married,Hindu,Madheshi,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+41,9914,Male,Married,Hindu,Madheshi,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Not satisfaction
+45,8884,Male,Married,Hindu,Khas Aryan,8,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+31,6835,Male,Married,Hindu,T Janajati,3,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+48,5593,Female,Married,Hindu,T Dalit,6,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,1 ha,No,Not satisfaction
+44,6634,Female,Married,Hindu,T Dalit,8,Both Read & Write,Literate,Agriculture,No,Yes, ,No, ,1 ha,No,Not satisfaction
+40,17615,Female,Married,Hindu,Madheshi,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+20,24815,Male,Unmarried,Hindu,T Janajati,7,Both Read & Write,School Level,Others,No,Yes, ,Yes,Kachchi,1 ha,No,Little satisfaction
+34,21029,Male,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Pakki,1 ha,No,Not satisfaction
+26,16725,Male,Married,Hindu,Madheshi,8,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Little satisfaction
+35,25967,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,Plus Two,Private Job,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+36,7707,Female,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+43,19772,Male,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Little satisfaction
+36,5580,Female,Married,Hindu,Madheshi,1,Both Read & Write,Bachelor,Wage,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+34,17953,Female,Married,Hindu,Madheshi,3,Both Not Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+36,8878,Male,Married,Hindu,H Dalit,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+68,5353,Male,Married,Hindu,T Janajati,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+33,10623,Male,Married,Hindu,Khas Aryan,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Fully satisfaction
+40,36866,Male,Married,Buddhist,H Jananati,8,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+56,32152,Male,Married,Hindu,Khas Aryan,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+23,7103,Male,Married,Hindu,T Janajati,7,Both Read & Write,Bachelor,Private Job,Yes,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+55,10606,Female,Married,Hindu,T Dalit,7,Both Read & Write,Literate,Households,No,Yes, ,Yes,Kachchi,1 ha,No,Little satisfaction
+36,31241,Male,Married,Buddhist,H Jananati,8,Both Read & Write,Master or above,Agriculture,Yes,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+41,8636,Male,Married,Buddhist,H Jananati,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+24,21782,Male,Unmarried,Hindu,Khas Aryan,5,Both Read & Write,Plus Two,Business,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+20,12628,Female,Unmarried,Hindu,Khas Aryan,6,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+59,16523,Male,Married,Hindu,Khas Aryan,11,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+50,9741,Male,Married,Hindu,T Dalit,7,Both Not Read & Write,Illiterate,Wage,No,No,Solar,No, ,No land,No,Satisfaction
+45,1469,Female,Married,Hindu,T Dalit,2,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+46,3595,Female,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+24,1010,Female,Married,Hindu,Madheshi,4,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+20,2010,Female,Married,Hindu,T Dalit,1,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+39,1072,Female,Married,Hindu,Madheshi,5,Both Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+35,1757,Female,Married,Hindu,Madheshi,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,No land,No,Fully satisfaction
+75,2095,Female,Widowed,Hindu,Madheshi,6,Both Not Read & Write,Illiterate,Wage,No,Yes, ,No, ,No land,No,Fully satisfaction
+60,3556,Female,Widowed,Hindu,T Janajati,8,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+50,3115,Male,Married,Hindu,Madheshi,6,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Little satisfaction
+39,3666,Male,Married,Hindu,Madheshi,4,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+43,4972,Male,Married,Hindu,T Dalit,4,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Little satisfaction
+30,4016,Male,Married,Hindu,T Dalit,3,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+45,4156,Male,Married,Hindu,T Janajati,3,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+45,4106,Female,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,No land,No,Little satisfaction
+37,3802,Female,Married,Hindu,Madheshi,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,No land,No,Little satisfaction
+45,3788,Female,Married,Hindu,T Dalit,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+36,3863,Male,Married,Hindu,Madheshi,6,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+65,1964,Female,Married,Hindu,Madheshi,4,Both Not Read & Write,Illiterate,Wage,No,Yes, ,No, ,No land,No,Not satisfaction
+36,7560,Female,Widowed,Muslim,Muslim,9,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+40,9531,Female,Married,Hindu,T Dalit,4,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+25,7579,Female,Married,Hindu,Madheshi,3,Both Read & Write,Plus Two,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+40,5208,Female,Married,Hindu,T Dalit,4,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Pakki,No land,No,Satisfaction
+35,6878,Male,Married,Hindu,T Dalit,7,Both Read & Write,Literate,Business,No,Yes, ,Yes,Kachchi,No land,No,Little satisfaction
+25,8153,Female,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Wage,No,No,Tuki,No, ,No land,No,Satisfaction
+38,5687,Male,Married,Hindu,Madheshi,6,Both Not Read & Write,Illiterate,Wage,No,Yes, ,No, ,No land,No,Fully satisfaction
+55,9923,Female,Married,Hindu,T Janajati,7,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+30,9235,Female,Married,Hindu,T Janajati,3,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+45,9279,Male,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Wage,No,Yes, ,No, ,No land,No,Satisfaction
+44,9656,Male,Married,Hindu,T Dalit,5,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Not satisfaction
+48,5490,Male,Married,Hindu,T Dalit,6,Both Not Read & Write,Illiterate,Wage,No,No,Tuki,Yes,Kachchi,No land,No,Satisfaction
+66,6487,Male,Married,Hindu,T Dalit,2,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+49,7725,Female,Married,Hindu,T Janajati,6,Both Not Read & Write,Literate,Wage,Yes,Yes, ,Yes,Pakki,No land,No,Satisfaction
+61,8601,Female,Married,Hindu,T Dalit,13,Both Not Read & Write,Illiterate,Wage,No,No,Tuki,No, ,No land,No,Satisfaction
+52,6904,Male,Married,Hindu,T Janajati,6,Both Not Read & Write,Illiterate,Wage,No,Yes, ,No, ,No land,No,Satisfaction
+60,9434,Male,Married,Hindu,T Janajati,5,Both Not Read & Write,Illiterate,Wage,No,No,Solar,No, ,No land,No,Satisfaction
+78,5688,Male,Married,Hindu,Madheshi,2,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+47,8634,Male,Married,Hindu,T Dalit,6,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Not satisfaction
+60,5450,Female,Married,Hindu,Madheshi,3,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+36,8364,Female,Married,Hindu,T Dalit,5,Both Not Read & Write,Illiterate,Government Job,Yes,No,Tuki,Yes,Pakki,No land,No,Satisfaction
+65,17585,Female,Married,Hindu,T Dalit,1,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+30,11183,Female,Married,Hindu,Madheshi,4,Both Read & Write,Literate,Wage,No,Yes, ,No, ,No land,No,Fully satisfaction
+39,24782,Female,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,No land,No,Little satisfaction
+32,11232,Male,Married,Hindu,T Dalit,7,Both Read & Write,Plus Two,Government Job,Yes,Yes, ,Yes,Pakki,No land,No,Satisfaction
+51,24781,Male,Married,Hindu,Madheshi,5,Both Not Read & Write,Illiterate,Wage,No,Yes, ,No, ,No land,No,Satisfaction
+22,22703,Male,Married,Hindu,T Dalit,8,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Pakki,No land,No,Satisfaction
+35,24201,Male,Married,Hindu,T Dalit,6,Both Read & Write,School Level,Wage,No,Yes, ,No, ,No land,No,Satisfaction
+63,11541,Male,Married,Hindu,T Dalit,7,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Pakki,No land,No,Satisfaction
+49,18564,Male,Married,Hindu,T Dalit,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,No land,No,Little satisfaction
+35,10805,Male,Married,Hindu,Madheshi,5,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Kachchi,No land,No,Not satisfaction
+35,14232,Male,Married,Hindu,T Dalit,5,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Not satisfaction
+40,23563,Male,Married,Hindu,Madheshi,6,Both Read & Write,School Level,Wage,No,No,Tuki,Yes,Kachchi,No land,No,Little satisfaction
+60,24833,Male,Married,Hindu,T Dalit,7,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Pakki,No land,No,Not satisfaction
+39,18799,Male,Married,Hindu,Madheshi,6,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Pakki,No land,No,Satisfaction
+45,12026,Female,Seperated,Hindu,Madheshi,1,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Not satisfaction
+21,11277,Male,Unmarried,Hindu,T Dalit,4,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,No land,No,Little satisfaction
+60,17834,Male,Married,Hindu,T Dalit,2,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Not satisfaction
+61,10313,Male,Married,Hindu,T Dalit,3,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+63,16948,Male,Married,Hindu,T Dalit,1,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Kachchi,No land,No,Not satisfaction
+55,13047,Female,Married,Hindu,T Dalit,6,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+25,23376,Male,Married,Hindu,T Dalit,4,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+53,11833,Male,Married,Hindu,Madheshi,2,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+53,11414,Male,Married,Hindu,T Dalit,3,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,No land,No,Satisfaction
+33,16361,Male,Married,Hindu,T Dalit,7,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Pakki,No land,No,Satisfaction
+36,14327,Female,Married,Hindu,T Dalit,7,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Pakki,No land,No,Satisfaction
+44,10382,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Pakki,No land,No,Satisfaction
+37,19542,Female,Married,Hindu,T Dalit,6,Both Read & Write,Literate,Wage,No,Yes, ,No, ,No land,No,Not satisfaction
+50,10807,Female,Married,Hindu,T Janajati,3,Both Read & Write,Literate,Wage,No,Yes, ,No, ,No land,No,Satisfaction
+40,24032,Female,Married,Hindu,T Janajati,3,Both Not Read & Write,Illiterate,Wage,No,Yes, ,No, ,No land,No,Satisfaction
+24,19277,Male,Married,Hindu,T Dalit,6,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,No land,Yes,Satisfaction
+27,14507,Male,Married,Hindu,Madheshi,4,Both Read & Write,Literate,Wage,No,Yes, ,Yes, ,No land,Yes,Satisfaction
+28,34182,Male,Married,Hindu,T Dalit,3,Only Read,Literate,Business,No,Yes, ,Yes,Kachchi,No land,No,Fully satisfaction
+36,9087,Male,Married,Hindu,T Dalit,5,Both Read & Write,Literate,Government Job,Yes,Yes, ,Yes,Pakki,No land,No,Satisfaction
+30,17430,Female,Married,Hindu,T Janajati,4,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,No land,No,Satisfaction
+38,32275,Female,Married,Hindu,Khas Aryan,5,Both Read & Write,Bachelor,Government Job,Yes,Yes, ,Yes,Pakki,No land,No,Satisfaction
+40,6043,Female,Married,Hindu,T Janajati,6,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+33,5787,Female,Married,Hindu,Madheshi,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+40,20868,Female,Married,Hindu,Madheshi,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,>1 ha,No,Little satisfaction
+21,9633,Male,Married,Hindu,T Janajati,6,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+25,8482,Male,Unmarried,Hindu,T Janajati,6,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+47,6920,Male,Married,Hindu,Madheshi,5,Both Read & Write,Bachelor,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+30,7054,Male,Married,Hindu,Khas Aryan,8,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+24,7038,Male,Married,Hindu,Khas Aryan,8,Both Read & Write,Plus Two,Private Job,No,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+80,7281,Male,Married,Hindu,Khas Aryan,6,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+29,7612,Male,Unmarried,Hindu,Madheshi,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+29,5594,Female,Married,Hindu,Madheshi,4,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+43,6637,Female,Married,Hindu,Madheshi,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,>1 ha,No,Not satisfaction
+45,9645,Male,Married,Hindu,Madheshi,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+45,5357,Male,Married,Hindu,Madheshi,5,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+51,11818,Male,Married,Hindu,Khas Aryan,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+42,12973,Male,Married,Hindu,T Dalit,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+29,21550,Male,Married,Hindu,T Dalit,8,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+48,13218,Male,Married,Hindu,Madheshi,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Fully satisfaction
+45,18510,Male,Married,Hindu,Madheshi,4,Both Read & Write,School Level,Business,No,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+45,21136,Male,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+20,18313,Female,Unmarried,Hindu,T Janajati,1,Only Read,Literate,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+47,20512,Female,Married,Hindu,T Janajati,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+55,20313,Male,Married,Hindu,T Janajati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+41,29201,Male,Married,Hindu,Madheshi,4,Both Read & Write,Plus Two,Government Job,Yes,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+60,29559,Male,Married,Hindu,Madheshi,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+20,27921,Male,Unmarried,Hindu,T Janajati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,>1 ha,No,Satisfaction
+39,30024,Male,Married,Hindu,T Dalit,7,Both Read & Write,Master or above,Government Job,Yes,Yes, ,Yes,Pakki,>1 ha,No,Fully satisfaction
+49,27461,Male,Married,Buddhist,H Jananati,9,Both Read & Write,Bachelor,Government Job,Yes,Yes, ,Yes,Pakki,>1 ha,No,Little satisfaction
+20,1629,Female,Married,Hindu,Madheshi,3,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+50,2321,Female,Widowed,Hindu,Madheshi,3,Both Not Read & Write,Illiterate,Wage,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+25,2904,Male,Married,Hindu,Madheshi,7,Both Read & Write,Bachelor,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Little satisfaction
+47,5606,Female,Married,Hindu,Madheshi,7,Both Read & Write,School Level,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+31,7036,Female,Unmarried,Hindu,H Jananati,6,Both Read & Write,Plus Two,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+37,9224,Female,Married,Hindu,H Dalit,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+30,5489,Male,Married,Hindu,Khas Aryan,10,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+54,8016,Male,Married,Buddhist,H Jananati,10,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Not satisfaction
+36,7610,Female,Married,Hindu,H Jananati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+20,9886,Male,Unmarried,Buddhist,H Jananati,4,Both Read & Write,Plus Two,Wage,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+49,5777,Male,Married,Hindu,T Janajati,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+28,9261,Male,Married,Buddhist,H Jananati,7,Both Read & Write,Plus Two,Business,No,Yes, ,Yes,Kachchi,1 ha,No,Little satisfaction
+32,5482,Female,Married,Hindu,Newar,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+38,7539,Male,Married,Hindu,Khas Aryan,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+66,9303,Female,Married,Hindu,T Janajati,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+67,7290,Male,Married,Hindu,Madheshi,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+40,9050,Male,Married,Buddhist,H Jananati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+45,7590,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+22,9007,Male,Married,Hindu,Madheshi,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+22,5192,Female,Married,Hindu,T Janajati,5,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+41,8145,Male,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+50,9548,Male,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+24,6276,Female,Married,Hindu,Madheshi,7,Both Read & Write,Literate,Private Job,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+43,5207,Male,Married,Buddhist,H Jananati,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+72,9544,Male,Married,Hindu,T Janajati,2,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+49,7559,Male,Married,Hindu,T Janajati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Not satisfaction
+49,5138,Male,Married,Hindu,T Janajati,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+37,5802,Male,Married,Hindu,T Janajati,4,Both Read & Write,Plus Two,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+50,5676,Female,Widowed,Hindu,Madheshi,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+70,7253,Male,Married,Hindu,Madheshi,11,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+47,5319,Female,Married,Hindu,T Janajati,6,Both Read & Write,Literate,Agriculture,No,Yes, ,No, ,1 ha,No,Little satisfaction
+40,7778,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+55,9901,Male,Married,Hindu,T Janajati,12,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+58,7032,Male,Married,Hindu,Madheshi,8,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+41,8451,Male,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+45,5875,Male,Married,Hindu,T Janajati,10,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+34,5752,Female,Married,Hindu,T Janajati,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+45,21389,Female,Married,Hindu,Madheshi,5,Both Read & Write,Literate,Business,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+23,21434,Female,Married,Hindu,Madheshi,4,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+42,18267,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,School Level,Private Job,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+42,18979,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,School Level,Private Job,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+31,22237,Male,Married,Hindu,T Janajati,4,Both Read & Write,Plus Two,Private Job,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+32,14585,Male,Married,Hindu,T Dalit,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+56,20206,Male,Married,Hindu,Khas Aryan,6,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+57,15723,Female,Married,Hindu,Khas Aryan,5,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+57,23241,Female,Married,Hindu,Khas Aryan,5,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+29,20939,Male,Married,Hindu,T Dalit,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+33,20883,Male,Married,Hindu,Khas Aryan,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+32,22999,Male,Married,Buddhist,H Jananati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+32,11287,Male,Married,Buddhist,H Jananati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+26,23155,Female,Married,Hindu,Khas Aryan,5,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+31,19283,Male,Married,Hindu,T Janajati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+42,21269,Female,Married,Hindu,T Dalit,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+25,19879,Male,Married,Hindu,Madheshi,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+30,12705,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+39,15678,Female,Married,Hindu,T Dalit,8,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+45,10127,Female,Married,Hindu,Madheshi,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+44,15644,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+39,18838,Male,Married,Hindu,T Dalit,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Little satisfaction
+40,20415,Male,Married,Hindu,Madheshi,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+39,22170,Male,Married,Hindu,Madheshi,5,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,1 ha,No,Little satisfaction
+49,15402,Male,Married,Hindu,Madheshi,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Not satisfaction
+56,12246,Female,Married,Hindu,Madheshi,3,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+57,16280,Male,Married,Buddhist,H Jananati,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+38,19488,Female,Married,Hindu,T Janajati,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Not satisfaction
+36,11824,Male,Married,Hindu,T Janajati,4,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Not satisfaction
+27,22611,Male,Married,Hindu,T Janajati,7,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,1 ha,No,Not satisfaction
+32,21250,Female,Married,Hindu,Khas Aryan,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+51,13318,Male,Married,Hindu,Khas Aryan,10,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+59,13647,Male,Married,Hindu,Khas Aryan,6,Both Read & Write,School Level,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+50,10302,Male,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+51,19485,Female,Married,Hindu,T Dalit,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+60,14221,Male,Married,Hindu,T Dalit,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+60,18738,Female,Married,Hindu,Khas Aryan,7,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+61,12226,Female,Married,Hindu,T Dalit,5,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+22,13540,Male,Unmarried,Hindu,T Janajati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+38,10427,Male,Married,Buddhist,H Jananati,4,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+25,17774,Male,Married,Hindu,T Janajati,6,Both Read & Write,Plus Two,Others,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+33,14917,Male,Married,Hindu,Madheshi,5,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+67,15796,Male,Married,Hindu,Madheshi,9,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+65,10581,Male,Married,Hindu,Madheshi,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+30,20205,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Little satisfaction
+68,21475,Male,Married,Hindu,Madheshi,11,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+56,10961,Male,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Little satisfaction
+58,12933,Male,Married,Hindu,T Janajati,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+39,22756,Male,Married,Hindu,Madheshi,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+47,18043,Male,Married,Hindu,T Janajati,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+42,19874,Male,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+47,22712,Male,Married,Hindu,T Janajati,4,Both Read & Write,School Level,Agriculture,No,No,Tuki,Yes,Kachchi,1 ha,Yes,Satisfaction
+22,10673,Male,Married,Hindu,T Janajati,3,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+28,14408,Male,Married,Hindu,T Janajati,4,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+24,11486,Male,Married,Hindu,T Dalit,3,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+40,15608,Male,Married,Buddhist,H Jananati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Little satisfaction
+22,23673,Female,Married,Hindu,H Dalit,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+36,18382,Male,Married,Hindu,T Dalit,5,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+59,21599,Male,Married,Hindu,T Dalit,10,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+39,19624,Female,Married,Buddhist,H Jananati,8,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+48,13115,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,School Level,Agriculture,Yes,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+57,20545,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Little satisfaction
+30,39300,Male,Married,Hindu,Khas Aryan,8,Both Read & Write,School Level,Agriculture,No,No,Tuki,Yes,Pakki,1 ha,No,Satisfaction
+33,36503,Male,Married,Hindu,Khas Aryan,8,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+24,37328,Male,Married,Hindu,Newar,6,Both Read & Write,School Level,Private Job,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+46,38526,Male,Married,Hindu,T Janajati,12,Both Read & Write,Plus Two,Government Job,Yes,No,Tuki,Yes,Pakki,1 ha,No,Satisfaction
+32,35286,Male,Married,Buddhist,H Jananati,6,Both Read & Write,Plus Two,Business,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+24,39000,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+31,36028,Male,Married,Buddhist,H Jananati,4,Both Read & Write,Plus Two,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+42,28967,Female,Married,Hindu,Khas Aryan,8,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+21,33649,Female,Unmarried,Hindu,Khas Aryan,7,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+53,27862,Male,Married,Hindu,Khas Aryan,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Little satisfaction
+38,37383,Male,Married,Buddhist,H Jananati,6,Both Read & Write,Plus Two,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+41,9308,Male,Married,Hindu,Madheshi,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Not satisfaction
+28,7660,Female,Married,Hindu,H Dalit,10,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Not satisfaction
+28,6893,Female,Married,Hindu,H Dalit,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+27,6154,Female,Married,Buddhist,H Jananati,6,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Not satisfaction
+47,6459,Male,Married,Hindu,T Janajati,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+28,8313,Male,Unmarried,Hindu,T Dalit,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+53,8719,Male,Married,Hindu,Madheshi,5,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+32,7932,Male,Married,Hindu,T Janajati,3,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+40,7065,Male,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+34,6537,Male,Married,Hindu,Madheshi,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+25,7001,Male,Unmarried,Hindu,T Janajati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Not satisfaction
+42,9995,Male,Married,Hindu,Madheshi,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+37,5666,Male,Married,Hindu,T Janajati,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+38,7946,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+32,8159,Male,Married,Hindu,T Dalit,5,Both Read & Write,Literate,Agriculture,No,Yes, ,No, ,1 ha,No,Satisfaction
+25,7170,Male,Married,Hindu,Madheshi,4,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Little satisfaction
+26,5690,Male,Unmarried,Hindu,T Dalit,5,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+33,8372,Male,Married,Buddhist,H Jananati,6,Both Read & Write,School Level,Agriculture,Yes,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+50,9798,Female,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+20,7272,Male,Unmarried,Hindu,T Dalit,9,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+28,7441,Male,Unmarried,Hindu,T Dalit,8,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+22,6612,Male,Unmarried,Hindu,Madheshi,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+41,7007,Male,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+21,5923,Male,Unmarried,Hindu,Madheshi,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+21,6567,Male,Unmarried,Hindu,Khas Aryan,4,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+52,7103,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,Literate,Business,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+36,9997,Male,Married,Hindu,Madheshi,4,Both Read & Write,School Level,Business,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+35,5177,Male,Married,Hindu,T Dalit,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+54,7777,Male,Married,Hindu,T Dalit,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+43,6934,Male,Married,Hindu,Newar,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Little satisfaction
+62,6464,Male,Married,Hindu,Khas Aryan,7,Both Read & Write,Plus Two,Government Job,Yes,Yes, ,Yes,Kachchi,1 ha,No,Fully satisfaction
+58,7097,Male,Married,Hindu,Khas Aryan,8,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+56,5943,Male,Married,Hindu,Madheshi,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+57,5984,Male,Married,Hindu,Khas Aryan,6,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+42,9553,Male,Married,Buddhist,H Jananati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+55,6097,Male,Married,Hindu,Madheshi,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Not satisfaction
+35,5284,Male,Married,Hindu,Madheshi,4,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+30,8269,Female,Married,Hindu,T Janajati,3,Both Read & Write,Plus Two,Government Job,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+38,8116,Male,Married,Hindu,T Janajati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+65,7499,Male,Married,Hindu,T Janajati,10,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+58,8317,Male,Married,Hindu,T Janajati,15,Both Read & Write,Plus Two,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+47,7908,Male,Married,Hindu,T Janajati,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+54,9553,Male,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+37,15723,Female,Married,Hindu,T Janajati,5,Both Read & Write,Plus Two,Government Job,Yes,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+20,19554,Male,Unmarried,Hindu,T Janajati,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+48,22970,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+52,15795,Male,Married,Hindu,T Dalit,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+20,21262,Female,Married,Hindu,T Janajati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+27,14955,Male,Married,Hindu,T Dalit,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+62,10519,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+26,20791,Male,Unmarried,Hindu,T Dalit,4,Both Read & Write,Bachelor,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+27,22805,Male,Married,Hindu,Madheshi,4,Both Read & Write,Bachelor,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+28,24186,Male,Married,Hindu,T Dalit,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+22,12372,Male,Married,Hindu,T Dalit,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+49,16380,Male,Married,Hindu,T Dalit,8,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+35,24307,Male,Married,Buddhist,H Jananati,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Not satisfaction
+38,11923,Male,Married,Hindu,T Dalit,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+27,10602,Male,Married,Hindu,T Janajati,6,Both Read & Write,Plus Two,Government Job,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+38,19804,Female,Married,Hindu,Khas Aryan,5,Both Read & Write,Literate,Business,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+23,20321,Male,Unmarried,Hindu,Madheshi,4,Both Read & Write,School Level,Private Job,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+26,15712,Male,Married,Hindu,Madheshi,5,Both Read & Write,School Level,Private Job,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+24,18076,Male,Married,Buddhist,H Jananati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+34,11176,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+43,24053,Male,Married,Hindu,Madheshi,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+32,18600,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+20,22259,Male,Unmarried,Hindu,T Janajati,6,Both Read & Write,School Level,Others,No,No,Tuki,Yes,Kachchi,1 ha,No,Not satisfaction
+87,23485,Male,Married,Hindu,T Janajati,4,Both Not Read & Write,Illiterate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+40,19475,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+38,15675,Male,Married,Hindu,T Janajati,3,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+28,23082,Female,Married,Buddhist,H Jananati,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+21,24342,Female,Married,Hindu,T Dalit,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+21,24024,Male,Unmarried,Hindu,T Janajati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+36,22332,Male,Married,Hindu,T Janajati,6,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+49,17728,Male,Married,Hindu,T Janajati,4,Both Read & Write,Literate,Households,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+42,13674,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Fully satisfaction
+31,12461,Female,Married,Hindu,Khas Aryan,8,Both Read & Write,Bachelor,Others,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+37,22014,Male,Married,Hindu,T Janajati,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+50,22044,Male,Married,Hindu,Madheshi,9,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+36,14152,Male,Married,Hindu,Khas Aryan,8,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Little satisfaction
+41,21596,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+22,34371,Male,Unmarried,Hindu,T Dalit,4,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Pakki,1 ha,No,Fully satisfaction
+27,28086,Male,Unmarried,Hindu,T Dalit,4,Both Read & Write,School Level,Others,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+35,32796,Male,Married,Hindu,T Janajati,7,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+20,34334,Female,Married,Hindu,T Janajati,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Fully satisfaction
+21,25288,Male,Married,Hindu,T Dalit,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+28,38590,Male,Unmarried,Hindu,T Dalit,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+20,30103,Male,Unmarried,Hindu,T Janajati,4,Only Read,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+50,27490,Female,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+20,27458,Male,Unmarried,Hindu,T Dalit,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Little satisfaction
+27,29799,Male,Unmarried,Hindu,T Dalit,6,Both Read & Write,Plus Two,Private Job,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+26,35901,Male,Unmarried,Hindu,T Dalit,2,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+24,39002,Male,Unmarried,Hindu,T Dalit,7,Both Read & Write,School Level,Others,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+26,37862,Male,Married,Buddhist,H Jananati,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+34,34675,Male,Married,Buddhist,H Jananati,11,Both Read & Write,Bachelor,Private Job,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+48,31974,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,Bachelor,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+39,28411,Female,Married,Buddhist,H Jananati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+37,26844,Female,Married,Buddhist,H Jananati,14,Both Read & Write,School Level,Business,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+41,30924,Male,Married,Hindu,Khas Aryan,6,Both Read & Write,School Level,Business,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+45,31333,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,School Level,Business,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+20,30426,Female,Unmarried,Hindu,Khas Aryan,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+42,34870,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,Bachelor,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,Yes,Little satisfaction
+42,27686,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,Bachelor,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,Yes,Little satisfaction
+33,35802,Male,Married,Buddhist,H Jananati,15,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Not satisfaction
+67,30950,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,School Level,Business,No,Yes, ,Yes,Pakki,1 ha,Yes,Little satisfaction
+22,4336,Female,Married,Hindu,Madheshi,3,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+25,4696,Female,Married,Hindu,T Janajati,6,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+25,9025,Male,Married,Hindu,Madheshi,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+41,9167,Female,Married,Hindu,Madheshi,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+26,6840,Female,Married,Hindu,Madheshi,4,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+30,5807,Male,Married,Hindu,Madheshi,7,Both Read & Write,Literate,Agriculture,No,Yes, ,No, ,1 ha,No,Satisfaction
+25,16719,Male,Married,Hindu,T Janajati,3,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+33,16832,Male,Married,Hindu,T Dalit,8,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+29,19942,Female,Married,Hindu,Madheshi,4,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,No,Satisfaction
+38,21290,Male,Married,Hindu,Madheshi,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+56,11687,Male,Married,Hindu,T Dalit,4,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Kachchi,1 ha,Yes,Little satisfaction
+43,17553,Male,Married,Hindu,Madheshi,4,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,1 ha,Yes,Little satisfaction
+57,20156,Male,Married,Hindu,Madheshi,12,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+38,19616,Female,Married,Hindu,T Janajati,4,Both Read & Write,School Level,Wage,No,Yes, ,Yes,Kachchi,1 ha,Yes,Satisfaction
+50,16532,Male,Married,Hindu,T Dalit,5,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Not satisfaction
+69,15221,Male,Married,Hindu,T Dalit,6,Both Read & Write,Literate,Wage,No,Yes, ,Yes,Pakki,1 ha,No,Not satisfaction
+27,5129,Male,Married,Hindu,Khas Aryan,7,Both Read & Write,Bachelor,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+50,8441,Male,Married,Buddhist,H Jananati,9,Both Read & Write,Bachelor,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+57,14835,Male,Married,Buddhist,H Jananati,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+40,8810,Male,Married,Buddhist,H Jananati,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+44,4019,Male,Married,Buddhist,Khas Aryan,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,<1 ha,No,Not satisfaction
+45,19291,Female,Married,Hindu,Newar,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+52,39750,Male,Married,Hindu,Khas Aryan,9,Both Read & Write,Plus Two,Agriculture,No,No,Tuki,Yes,Pakki,1 ha,No,Satisfaction
+37,35266,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+42,29702,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+36,32287,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,Bachelor,Agriculture,Yes,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+24,36690,Male,Married,Hindu,Khas Aryan,3,Both Read & Write,Bachelor,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+70,28632,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+21,7616,Male,Unmarried,Hindu,Khas Aryan,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+53,9826,Male,Married,Hindu,Newar,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+20,23369,Male,Unmarried,Hindu,Khas Aryan,6,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+63,14630,Male,Married,Hindu,Khas Aryan,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Fully satisfaction
+45,18714,Male,Married,Buddhist,H Jananati,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+35,30286,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+63,32634,Male,Married,Hindu,Khas Aryan,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+25,32834,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,Bachelor,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+32,32591,Male,Married,Hindu,Khas Aryan,6,Both Read & Write,Bachelor,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+38,38847,Male,Married,Buddhist,H Jananati,5,Both Read & Write,School Level,Government Job,Yes,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+56,36847,Male,Married,Hindu,Khas Aryan,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+56,31673,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,Bachelor,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+58,33404,Male,Married,Hindu,Khas Aryan,5,Both Read & Write,Literate,Agriculture,Yes,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+58,27903,Male,Married,Hindu,Khas Aryan,7,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Fully satisfaction
+38,7972,Male,Married,Hindu,Khas Aryan,8,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Fully satisfaction
+21,8078,Male,Unmarried,Hindu,Khas Aryan,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+25,19619,Male,Married,Hindu,Khas Aryan,6,Both Read & Write,Plus Two,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+43,17609,Male,Married,Hindu,Khas Aryan,6,Both Read & Write,School Level,Business,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction
+25,16109,Male,Unmarried,Hindu,T Janajati,5,Both Read & Write,School Level,Others,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+35,13531,Female,Married,Hindu,Khas Aryan,5,Both Read & Write,School Level,Agriculture,Yes,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+53,23813,Male,Married,Hindu,Newar,6,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+61,12474,Male,Married,Hindu,Khas Aryan,7,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,Yes,Satisfaction
+35,29042,Male,Married,Hindu,Khas Aryan,7,Both Read & Write,Plus Two,Government Job,Yes,No,Tuki,Yes,Pakki,1 ha,No,Fully satisfaction
+31,30263,Male,Married,Hindu,Khas Aryan,4,Both Read & Write,School Level,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Satisfaction
+38,37929,Male,Married,Buddhist,H Jananati,6,Both Read & Write,Literate,Agriculture,No,Yes, ,Yes,Pakki,1 ha,No,Little satisfaction

@@ -1,0 +1,465 @@
+﻿id,gender,age,Education,Marital,jtype,salary
+312,female,37,Master's,never married,Upper Management,34104.16
+282,female,55,Master's,currently married,Upper Management,27033.07
+460,male,51,PhD or higher,never married,Upper Management,28381
+281,female,46,Master's,currently married,Upper Management,27005.49
+336,male,51,Master's,currently married,Upper Management,28396
+219,female,35,Bachelor's,never married,Upper Management,24747.49
+464,male,55,PhD or higher,currently married,Upper Management,25809.25
+412,female,57,Master's,currently married,Upper Management,25126
+315,male,47,Bachelor's,currently married,Upper Management,22920
+75,male,24,Master's,never married,Middle Management,19711.67
+167,male,34,Bachelor's,currently married,Upper Management,21641
+228,female,55,Bachelor's,divorced,Sales,887
+11,male,37,Master's,currently married,Middle Management,18370
+453,female,65,Bachelor's,divorced,Sales,1194.25
+177,female,50,Bachelor's,divorced,Middle Management,16840
+356,male,56,Master's,widowed,Middle Management,17401.71
+19,female,21,Bachelor's,never married,Sales,1511.33
+6,male,21,PhD or higher,currently married,Marketing,3556.53
+194,female,44,Master's,never married,Middle Management,10441
+106,female,67,Bachelor's,widowed,Marketing,3884.97
+396,female,50,Bachelor's,never married,Middle Management,16950.62
+414,female,48,Bachelor's,never married,Middle Management,17368.6
+80,male,55,Master's,divorced,Middle Management,16944.25
+364,male,58,Undergraduate,divorced,IT,5517.86
+457,female,56,Master's,never married,Middle Management,15709.12
+279,female,54,High school,widowed,Sales,1159
+294,female,57,Undergraduate,currently married,Sales,1181
+404,male,55,Undergraduate,currently married,Sales,6147
+84,female,39,Undergraduate,currently married,Sales,1094.43
+302,male,51,PhD or higher,widowed,Middle Management,12630.25
+239,female,22,High school,currently married,Sales,1283.05
+317,male,39,Master's,never married,Marketing,2711.2
+58,male,33,Undergraduate,never married,IT,6519.31
+415,male,61,Bachelor's,never married,IT,5935.85
+434,male,64,Undergraduate,divorced,Sales,1820
+340,female,35,PhD or higher,never married,Sales,1067
+61,female,33,Master's,currently married,Middle Management,13401.06
+200,female,64,Undergraduate,widowed,IT,4900
+124,female,54,Master's,currently married,Marketing,2024.88
+451,female,63,Master's,widowed,IT,3935.47
+157,male,41,Master's,currently married,Upper Management,15440.64
+199,male,47,PhD or higher,currently married,Middle Management,15545.22
+347,male,55,Bachelor's,widowed,Sales,1240.37
+128,female,53,Master's,divorced,Marketing,2135
+393,male,46,Bachelor's,currently married,Middle Management,15810
+26,female,24,Undergraduate,divorced,Sales,1264.16
+324,male,50,Master's,currently married,Middle Management,15022.64
+12,male,25,Bachelor's,never married,IT,7045.52
+452,female,62,Bachelor's,currently married,Marketing,3022
+463,female,62,Bachelor's,divorced,IT,6289
+408,male,53,Bachelor's,divorced,IT,8094.83
+206,female,61,Undergraduate,never married,Marketing,2368
+307,female,63,PhD or higher,currently married,IT,4163.14
+63,male,31,PhD or higher,divorced,IT,3578
+420,male,49,PhD or higher,currently married,IT,5526
+47,female,28,Master's,currently married,IT,5058
+386,female,52,Bachelor's,divorced,Marketing,3416
+256,male,54,Bachelor's,divorced,IT,5021.26
+445,female,55,Master's,widowed,Sales,1430.38
+329,male,62,Bachelor's,currently married,IT,5397
+13,female,25,Undergraduate,never married,IT,9628.9
+86,female,51,Bachelor's,divorced,Sales,1410.64
+343,male,60,Master's,never married,Marketing,2446
+48,female,33,Bachelor's,never married,Marketing,4215.13
+405,female,55,PhD or higher,divorced,Middle Management,10877.54
+164,male,48,Bachelor's,divorced,Middle Management,13467.86
+74,female,21,Undergraduate,divorced,Sales,1376
+426,female,55,Bachelor's,currently married,Sales,1531
+186,male,21,Master's,never married,Sales,1875.25
+382,female,56,High school,currently married,Marketing,2136.56
+323,female,48,Undergraduate,widowed,Sales,1336
+359,female,48,Undergraduate,divorced,Middle Management,12454
+149,male,39,Bachelor's,divorced,Middle Management,13367.54
+303,male,43,Master's,never married,IT,5782
+433,female,25,Master's,currently married,IT,5873.77
+53,female,28,High school,never married,Sales,1317.89
+234,female,59,High school,currently married,Marketing,2306.38
+391,male,58,Master's,widowed,IT,4610.53
+266,female,61,Master's,currently married,IT,5277.71
+252,male,36,Bachelor's,divorced,IT,7736.78
+348,female,59,Bachelor's,divorced,IT,4911
+129,male,24,Master's,divorced,Marketing,2311
+182,female,22,Undergraduate,never married,Sales,1474
+296,male,55,Master's,widowed,IT,3823
+176,female,34,Bachelor's,divorced,Marketing,1585.38
+89,female,23,Undergraduate,never married,Sales,1408.38
+370,female,52,Bachelor's,never married,Sales,1473.71
+248,female,53,Bachelor's,divorced,Middle Management,12543
+231,female,26,PhD or higher,currently married,Marketing,1759
+397,male,58,PhD or higher,divorced,Sales,2068
+335,female,50,Master's,widowed,Middle Management,11373.17
+293,female,58,Bachelor's,never married,Marketing,2379
+188,male,39,PhD or higher,currently married,Marketing,3207
+107,male,21,Bachelor's,never married,Sales,1975
+57,female,21,Undergraduate,currently married,Sales,1662.74
+24,female,58,PhD or higher,divorced,IT,5849.41
+158,male,28,Bachelor's,never married,Marketing,3699
+446,female,54,Bachelor's,divorced,Marketing,1600
+259,female,27,Bachelor's,never married,Sales,1450.43
+235,male,51,Master's,never married,Sales,1316.1
+56,female,32,Master's,never married,Sales,1332
+150,male,22,Bachelor's,currently married,Marketing,1835.25
+283,male,56,Master's,currently married,Marketing,3027.33
+22,female,21,Undergraduate,never married,Sales,2031.12
+274,female,38,Bachelor's,currently married,Marketing,1846.95
+38,male,21,Bachelor's,never married,Marketing,3531.51
+254,female,22,High school,never married,Sales,2158.41
+285,female,21,Bachelor's,never married,Marketing,2762
+443,female,50,Bachelor's,divorced,Middle Management,13025.64
+94,female,21,Undergraduate,currently married,Marketing,3629.47
+384,female,57,Undergraduate,currently married,Middle Management,10080.7
+166,female,21,Master's,currently married,Marketing,2067.91
+217,male,56,Master's,widowed,IT,8097
+291,female,29,Undergraduate,currently married,Sales,1224.68
+50,male,21,Master's,currently married,Sales,1888.07
+148,male,21,Bachelor's,never married,Sales,1908
+430,female,44,Undergraduate,never married,Sales,1328.34
+169,female,21,Bachelor's,never married,Sales,2137
+109,male,30,Bachelor's,currently married,Sales,1512.71
+175,male,49,Bachelor's,currently married,Marketing,4455.34
+284,female,39,Master's,never married,Sales,2107.66
+10,male,22,Undergraduate,divorced,Sales,1645.93
+320,female,55,Undergraduate,divorced,Sales,1659.01
+133,female,36,Undergraduate,currently married,Sales,1414
+185,male,43,Master's,divorced,IT,6304.67
+114,female,46,Undergraduate,never married,Marketing,12828
+350,female,53,High school,currently married,Marketing,1875.75
+352,male,22,Undergraduate,never married,Sales,1771.63
+113,female,57,Bachelor's,currently married,Middle Management,10010.38
+41,male,22,Bachelor's,divorced,Sales,1510.8
+313,female,57,Bachelor's,currently married,IT,5234
+276,female,35,Bachelor's,never married,Middle Management,10557.82
+236,female,30,Bachelor's,never married,IT,8246.63
+388,male,53,Undergraduate,divorced,Sales,1593
+46,female,26,Bachelor's,currently married,Sales,1490.78
+135,male,31,PhD or higher,never married,Marketing,3875
+258,male,30,Master's,never married,Marketing,2679
+102,female,23,Undergraduate,never married,Marketing,3690.74
+32,female,37,Bachelor's,never married,Sales,1332
+319,female,22,Undergraduate,currently married,Sales,2015
+262,male,23,Master's,currently married,Sales,2081.94
+35,female,40,Master's,currently married,Sales,1437
+211,female,33,Undergraduate,never married,Sales,1845
+260,female,39,Undergraduate,never married,Sales,1540
+273,female,54,PhD or higher,divorced,IT,5152
+400,male,57,PhD or higher,currently married,Middle Management,9160.49
+1,male,23,Bachelor's,currently married,Sales,1653.09
+212,male,32,Master's,widowed,IT,5090.38
+110,male,45,PhD or higher,currently married,IT,7388.03
+79,female,38,PhD or higher,divorced,IT,6078.78
+115,female,50,High school,currently married,Sales,1616.36
+88,female,30,Bachelor's,currently married,Sales,1507
+20,female,25,Bachelor's,divorced,Sales,1417
+183,female,23,Bachelor's,divorced,Sales,2062
+385,female,55,PhD or higher,divorced,IT,5631.1
+218,female,56,Bachelor's,widowed,IT,4149.47
+238,female,37,Master's,currently married,IT,11235
+365,female,57,Undergraduate,divorced,IT,7271.29
+191,female,31,Bachelor's,currently married,Sales,1621.2
+151,female,45,Bachelor's,currently married,Sales,1601.35
+3,female,31,Master's,currently married,Sales,1513
+455,male,52,Bachelor's,currently married,IT,5291
+16,male,24,Bachelor's,currently married,Sales,2087
+327,male,43,Bachelor's,divorced,IT,9971
+441,female,48,Master's,currently married,Sales,1682.39
+237,female,28,PhD or higher,currently married,IT,5839.85
+144,male,25,Bachelor's,divorced,Sales,1774.5
+145,female,35,Middle school or lower,currently married,Sales,1578
+309,female,41,Master's,currently married,IT,8068.34
+119,male,32,Bachelor's,never married,Marketing,3240.8
+121,male,33,Master's,never married,Sales,2125
+229,female,48,Master's,never married,Middle Management,10123
+392,female,43,Master's,currently married,Sales,1512.86
+173,female,26,Middle school or lower,never married,Sales,1571.9
+85,male,26,Bachelor's,never married,Sales,1932
+76,male,40,Master's,never married,IT,8167.47
+64,male,24,Master's,never married,Sales,1710.19
+37,male,28,Master's,currently married,Sales,2102.98
+390,female,54,PhD or higher,divorced,IT,6269
+454,female,54,Master's,currently married,Marketing,2330.1
+62,female,43,Bachelor's,currently married,Marketing,2065
+215,female,25,Bachelor's,never married,Marketing,2512
+271,male,25,Master's,currently married,Marketing,2571.06
+193,male,26,Bachelor's,never married,Sales,2102.8
+220,female,40,Bachelor's,divorced,Marketing,1921
+184,female,29,Bachelor's,never married,Sales,1469
+354,male,51,Bachelor's,currently married,IT,6648.11
+399,male,53,Master's,currently married,Marketing,2323
+353,male,42,Master's,divorced,Marketing,3709.98
+263,male,29,Undergraduate,never married,Sales,2188.76
+152,male,26,Master's,never married,Marketing,2863.37
+422,male,47,Master's,widowed,Marketing,2357.02
+280,male,48,Middle school or lower,divorced,Sales,1384
+91,female,27,Bachelor's,divorced,Sales,1704.21
+87,female,31,Master's,never married,Sales,1579.49
+318,female,41,Undergraduate,currently married,Sales,1587
+181,female,34,Bachelor's,divorced,Sales,1530.46
+155,female,41,High school,currently married,Sales,1526.43
+243,male,44,Bachelor's,currently married,IT,6000.53
+27,female,25,Bachelor's,currently married,Sales,2239.02
+60,male,28,Bachelor's,never married,IT,4987.6
+427,female,53,Master's,widowed,Marketing,2870.82
+140,female,53,PhD or higher,widowed,Sales,2063.47
+301,male,45,Bachelor's,divorced,Middle Management,10765.5
+29,female,28,Undergraduate,never married,Sales,1596.62
+459,male,55,PhD or higher,widowed,IT,4943.87
+90,female,26,Master's,divorced,Marketing,3446
+325,female,54,Bachelor's,divorced,IT,6177
+417,female,55,Master's,divorced,IT,5449
+201,female,41,Master's,widowed,Sales,1500
+339,female,53,Master's,never married,Marketing,2318.43
+18,female,26,Bachelor's,never married,Marketing,4432.8
+338,male,54,Bachelor's,currently married,Marketing,3167
+371,male,31,Bachelor's,currently married,Marketing,2054
+190,female,26,Bachelor's,never married,Marketing,3177.03
+295,male,28,Master's,divorced,Marketing,2265
+299,female,26,Master's,currently married,Marketing,3970.02
+204,female,47,Undergraduate,currently married,Sales,1805
+449,male,52,Master's,divorced,Sales,1964
+39,female,27,Bachelor's,never married,Sales,2188.78
+117,male,28,Bachelor's,currently married,Marketing,2062.88
+197,male,30,Bachelor's,currently married,Marketing,3147.51
+72,male,54,Master's,divorced,IT,3719.74
+401,female,40,Master's,currently married,Marketing,3851.93
+226,male,39,Master's,currently married,Marketing,3004.69
+380,female,40,Bachelor's,currently married,Sales,2583.35
+435,female,48,Bachelor's,divorced,IT,8426
+439,male,47,Bachelor's,currently married,Sales,1615.07
+52,female,49,Master's,divorced,Marketing,3125
+300,male,33,Undergraduate,currently married,Sales,1442.12
+142,female,28,Master's,never married,IT,5717.78
+138,male,40,High school,never married,Sales,1440.76
+316,female,52,Master's,divorced,Sales,3753.71
+68,female,27,Bachelor's,never married,Sales,2168
+314,female,50,Bachelor's,divorced,IT,6081
+108,female,32,Undergraduate,currently married,Marketing,2669
+103,male,28,Bachelor's,never married,Sales,2121.91
+372,female,42,Master's,divorced,Marketing,3802.3
+331,male,48,PhD or higher,never married,Sales,3909.35
+4,female,28,Middle school or lower,currently married,Sales,1967.01
+425,female,49,Bachelor's,widowed,Sales,1757.75
+245,male,51,Bachelor's,currently married,Marketing,2002.9
+351,female,54,Bachelor's,currently married,IT,6078
+387,female,50,Master's,currently married,Marketing,2434
+55,male,27,Bachelor's,never married,Sales,1693
+8,male,33,Bachelor's,currently married,IT,8204
+171,female,32,Bachelor's,never married,Sales,1610.87
+209,female,29,Bachelor's,never married,IT,6197
+270,female,32,Master's,never married,Marketing,1971.85
+394,female,51,Bachelor's,currently married,IT,6743
+162,female,27,Undergraduate,never married,Marketing,2622
+161,male,48,Undergraduate,currently married,Sales,1571
+448,male,44,Master's,widowed,Sales,2163.22
+180,male,28,Master's,never married,Marketing,2948
+424,male,46,Master's,currently married,Sales,2255.87
+15,female,28,High school,never married,Marketing,3015.38
+98,female,37,PhD or higher,currently married,IT,5764.59
+104,female,29,Master's,divorced,Marketing,3342
+395,male,38,Undergraduate,currently married,Marketing,2683
+21,female,29,Undergraduate,divorced,Sales,1846.65
+442,female,50,PhD or higher,currently married,IT,4282
+31,male,39,Undergraduate,divorced,Marketing,3661
+127,female,35,Bachelor's,never married,Sales,1525.2
+447,male,50,Undergraduate,divorced,Marketing,2255
+7,female,28,High school,currently married,Sales,1749
+431,female,45,PhD or higher,never married,IT,5080.01
+378,male,28,Master's,currently married,Marketing,3814.91
+456,female,49,Master's,never married,IT,2467.72
+277,female,47,Undergraduate,currently married,Sales,1845
+116,female,51,Master's,currently married,Sales,3052.7
+139,female,33,Undergraduate,never married,Sales,2382
+213,female,33,High school,never married,Sales,1613.97
+374,male,32,Master's,divorced,Sales,1528.88
+147,female,32,Bachelor's,never married,Sales,6486.08
+198,female,33,High school,never married,Sales,1518.32
+153,female,32,Undergraduate,currently married,Sales,1841.26
+432,female,52,Undergraduate,currently married,Marketing,3553
+328,male,32,Bachelor's,never married,Marketing,2062
+112,female,28,Bachelor's,never married,Marketing,2463
+333,female,48,Master's,divorced,Marketing,1757
+125,male,33,Master's,never married,Sales,1899.61
+402,male,50,Master's,never married,Sales,2065.28
+251,male,30,High school,currently married,IT,5942
+71,female,45,Bachelor's,currently married,IT,4198
+322,male,39,PhD or higher,divorced,Marketing,3818.62
+369,male,43,Master's,divorced,Marketing,3483.81
+208,male,45,Bachelor's,currently married,Sales,1543
+222,female,34,Bachelor's,currently married,Sales,1697
+342,male,51,Master's,divorced,IT,3532
+132,male,31,High school,never married,Sales,2013
+17,female,30,Bachelor's,never married,Marketing,2658.71
+410,male,49,PhD or higher,divorced,IT,5804.48
+355,male,47,PhD or higher,currently married,Sales,1723.8
+146,female,47,Bachelor's,widowed,Middle Management,8900.76
+398,male,44,Bachelor's,currently married,Sales,1640
+363,female,50,Master's,currently married,Middle Management,7101
+375,female,35,Bachelor's,never married,Marketing,2821
+54,male,38,Bachelor's,widowed,Sales,2420.86
+221,male,48,Bachelor's,never married,Marketing,2629
+421,female,42,Master's,never married,Sales,1799.64
+45,female,49,Undergraduate,currently married,Sales,1867.21
+81,female,41,Undergraduate,widowed,Sales,1607.29
+381,female,29,Undergraduate,never married,Sales,1938
+346,female,38,Bachelor's,currently married,Marketing,2849.06
+411,female,52,Bachelor's,currently married,IT,5247.64
+195,female,29,Master's,never married,IT,2994.08
+326,female,50,Master's,currently married,Marketing,2750.08
+70,male,37,Undergraduate,divorced,Sales,1477
+203,male,29,Bachelor's,currently married,Marketing,3005
+272,female,44,Bachelor's,currently married,Sales,1662
+120,female,47,Undergraduate,never married,Sales,1865.25
+429,female,50,Master's,widowed,Marketing,3111.55
+288,female,49,Bachelor's,divorced,Marketing,3034
+97,female,38,Bachelor's,never married,Sales,1765
+49,male,30,High school,never married,Sales,1827
+310,male,32,Undergraduate,divorced,Sales,2051.16
+409,male,44,Master's,never married,IT,5330.39
+267,female,49,Bachelor's,divorced,Marketing,3780.85
+458,female,41,Master's,currently married,Marketing,2796
+205,female,47,Bachelor's,currently married,IT,5888.3
+345,male,48,Master's,widowed,Marketing,2735.62
+67,female,32,Master's,never married,Marketing,3136
+34,male,30,Undergraduate,currently married,Sales,2028
+179,male,30,Bachelor's,currently married,Sales,1984.92
+286,female,50,PhD or higher,divorced,Marketing,3312
+178,male,30,Bachelor's,never married,Marketing,2135
+14,male,31,Bachelor's,never married,IT,3159.93
+366,male,49,Undergraduate,divorced,Marketing,2728.05
+202,female,49,Bachelor's,currently married,Marketing,2823.28
+96,male,40,Master's,divorced,Marketing,2939
+187,male,36,Master's,currently married,IT,6049
+51,female,39,Undergraduate,currently married,Sales,1611
+379,male,50,PhD or higher,currently married,Marketing,3881.32
+126,female,43,Bachelor's,currently married,Sales,1818.76
+450,female,41,Bachelor's,divorced,Sales,2502.94
+241,female,31,Bachelor's,currently married,Marketing,3014
+437,male,49,Master's,divorced,Marketing,3246.13
+297,male,41,Bachelor's,divorced,Marketing,3671
+36,male,31,Master's,never married,Sales,1764.34
+361,male,47,PhD or higher,currently married,Sales,2010.82
+77,male,31,Bachelor's,divorced,Sales,1846
+278,male,50,Master's,currently married,Sales,5322
+123,female,31,Undergraduate,currently married,Sales,1927.09
+290,female,48,PhD or higher,divorced,Marketing,2767.34
+305,female,35,High school,widowed,Marketing,3733.13
+92,male,42,Master's,divorced,IT,6100.88
+264,female,31,Bachelor's,never married,Sales,2169.36
+436,male,46,Master's,currently married,IT,5263.07
+357,male,45,PhD or higher,widowed,Marketing,2615.66
+137,male,34,Bachelor's,never married,Sales,1879
+344,female,46,Master's,widowed,Marketing,2686
+332,female,48,Bachelor's,widowed,Sales,7327
+389,female,33,Undergraduate,currently married,Marketing,2900.51
+289,female,41,Undergraduate,currently married,Sales,1801
+330,female,38,Undergraduate,divorced,Sales,1721
+349,female,48,Undergraduate,never married,IT,5264
+440,female,42,Master's,currently married,Marketing,2617.26
+287,male,42,Master's,widowed,Marketing,2290
+368,female,45,Master's,divorced,Sales,2129.38
+376,female,32,Bachelor's,never married,Marketing,1991.72
+233,male,38,Master's,currently married,Marketing,4018.08
+224,male,40,Bachelor's,divorced,Sales,1682.02
+304,female,44,Master's,divorced,IT,7018
+165,female,49,Bachelor's,never married,IT,5830.72
+170,female,46,Master's,currently married,Marketing,2191
+40,male,35,Bachelor's,divorced,Marketing,2335.04
+207,male,34,Master's,divorced,Sales,2098.65
+249,male,45,Master's,never married,Sales,1885
+416,female,36,High school,never married,Sales,1715.46
+383,male,42,Bachelor's,currently married,IT,5505.77
+423,male,43,Master's,never married,IT,5549
+247,female,45,Bachelor's,divorced,Sales,1925.93
+246,male,42,Master's,currently married,IT,6734.9
+25,male,45,Master's,widowed,IT,3726.26
+403,male,39,Master's,widowed,Sales,1731.67
+100,male,34,Undergraduate,never married,Sales,1795.06
+244,male,45,PhD or higher,currently married,IT,7774.21
+269,female,44,Bachelor's,never married,Marketing,1802.38
+223,male,42,High school,never married,Sales,1959
+42,male,35,Master's,never married,Sales,1534.6
+78,female,34,Undergraduate,currently married,Sales,1845.82
+136,female,44,Bachelor's,divorced,Marketing,2174.5
+172,female,35,PhD or higher,currently married,Sales,1705
+232,female,41,Master's,never married,Marketing,3171.91
+298,male,44,Bachelor's,divorced,Marketing,2614
+275,female,43,Bachelor's,divorced,Marketing,3450.97
+311,female,44,Bachelor's,never married,IT,5438.82
+265,male,37,Master's,divorced,Sales,2323.21
+230,female,37,Undergraduate,never married,Sales,1771
+367,male,34,High school,never married,Sales,1822.66
+159,female,35,Master's,currently married,Sales,3434
+95,female,44,Master's,divorced,IT,4977.71
+242,female,41,Bachelor's,currently married,IT,7102.85
+362,female,47,Bachelor's,currently married,IT,6356
+196,female,45,Bachelor's,divorced,Marketing,3239
+174,female,38,Bachelor's,currently married,Marketing,3856.79
+28,male,36,Undergraduate,divorced,Sales,1997.71
+66,female,39,Master's,widowed,Marketing,3838.39
+143,male,35,Bachelor's,divorced,Sales,1840
+225,male,37,Master's,never married,Sales,2255.61
+261,male,42,Master's,currently married,IT,3940.53
+163,male,37,Master's,widowed,Sales,1726.19
+240,male,40,Master's,currently married,Marketing,3040
+73,female,47,Bachelor's,currently married,IT,4821.91
+189,female,41,Undergraduate,currently married,Sales,2106.69
+160,female,37,PhD or higher,currently married,Marketing,2400.01
+321,male,42,PhD or higher,never married,IT,4801.35
+308,male,46,PhD or higher,divorced,IT,4128
+101,female,46,Master's,currently married,IT,4282
+419,female,42,PhD or higher,never married,Sales,1838.6
+413,female,43,Bachelor's,divorced,Marketing,2234
+334,female,39,Undergraduate,currently married,Marketing,2080.58
+83,male,38,High school,currently married,Sales,2155
+257,female,36,Bachelor's,never married,Sales,1888
+30,female,41,Bachelor's,currently married,Sales,1954.25
+337,female,38,Bachelor's,currently married,Marketing,2905
+23,male,36,Master's,currently married,Marketing,3051
+227,female,37,Master's,currently married,Marketing,2624.08
+253,female,44,Master's,divorced,Marketing,3204
+65,female,36,Undergraduate,currently married,Sales,2030.32
+131,female,37,Bachelor's,divorced,Sales,1729.27
+216,female,38,Undergraduate,widowed,Sales,1884.97
+141,male,36,Undergraduate,never married,Sales,2263
+418,male,41,PhD or higher,currently married,Sales,1887.05
+360,female,39,Undergraduate,widowed,IT,4069.84
+358,male,37,Undergraduate,currently married,Sales,2015
+111,female,38,Bachelor's,currently married,Sales,1855
+214,female,39,Bachelor's,currently married,Sales,1776
+105,male,44,PhD or higher,never married,Marketing,3275.69
+118,female,37,Bachelor's,currently married,Sales,2014.66
+428,female,38,Undergraduate,divorced,Sales,1842.2
+438,male,42,Bachelor's,divorced,Marketing,2581
+268,male,38,Master's,never married,Sales,1847
+59,female,37,Undergraduate,divorced,Sales,2045.91
+43,male,38,Master's,currently married,Marketing,3190.69
+69,female,39,Undergraduate,currently married,Sales,1997
+407,male,39,Master's,currently married,Sales,1977.72
+192,female,40,Undergraduate,divorced,Marketing,2070
+210,male,43,Master's,never married,Marketing,2680
+44,male,37,Master's,widowed,Marketing,3972
+462,male,43,PhD or higher,widowed,Marketing,2914.29
+377,female,38,Undergraduate,never married,Marketing,2883
+406,female,38,Undergraduate,divorced,Marketing,2705
+373,female,37,Bachelor's,divorced,Marketing,3816
+33,female,42,Undergraduate,divorced,Marketing,2995.24
+82,male,37,Bachelor's,never married,Marketing,3581.37
+154,female,38,Undergraduate,currently married,Marketing,3657
+99,male,40,Master's,never married,Marketing,2848
+255,female,39,Bachelor's,divorced,Sales,2939.02
+461,female,53,PhD or higher,divorced,Sales,12170
+93,female,37,Undergraduate,never married,Sales,1775.83
+5,male,21,Undergraduate,currently married,Sales,1312.77
+130,female,33,Bachelor's,currently married,Sales,1460.06
+306,male,32,Bachelor's,never married,Sales, 
+2,male,20,Bachelor's,never married,Sales,1734.43
+250,male,36,Bachelor's,currently married,Sales,1800
+122,female,49,High school,currently married,Marketing, 
+156,male,31,Bachelor's,currently married,Marketing, 
+9,female,35,Undergraduate,never married,IT, 
+444,female,35,Bachelor's,currently married,IT, 
+134,male,24,Bachelor's,never married,IT, 
+292,female,53,Master's,divorced,IT, 
+168,female,43,Undergraduate,currently married,Middle Management,18080.34
+341,male,48,PhD or higher,divorced,Upper Management, 

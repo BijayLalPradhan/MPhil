@@ -1,0 +1,166 @@
+﻿SN,age,maritalstatus,ethnicity,Familytype,religion,education,experience,attitude_score
+1,48,unmarried,Madhesi,extended,islamic,masters,4,3
+2,49,widow,brahmin/ chhetri,nuclear,others,masters,2,4
+3,27,widow,Janajati,extended,islamic,bachelor,4,5
+4,48,married,brahmin/ chhetri,extended,islamic,masters,1,1
+5,18,married,Janajati,joint,hinduism,masters,5,1
+6,32,divorced,Muslim,extended,christianity,bachelor,10,5
+7,24,married,Dalit,extended,christianity,masters,2,5
+8,33,widow,Dalit,joint,christianity,masters,4,3
+9,37,married,Muslim,nuclear,hinduism,masters,7,5
+10,28,widow,Madhesi,extended,islamic,bachelor,7,3
+11,36,divorced,Muslim,joint,hinduism,bachelor,1,3
+12,45,unmarried,others,extended,buddhism,bachelor,4,2
+13,26,divorced,brahmin/ chhetri,nuclear,islamic,masters,3,4
+14,25,unmarried,Madhesi,joint,buddhism,bachelor,8,1
+15,50,unmarried,Muslim,nuclear,christianity,bachelor,2,2
+16,27,divorced,Madhesi,nuclear,hinduism,masters,1,4
+17,24,widow,others,nuclear,others,masters,10,3
+18,40,divorced,Muslim,nuclear,christianity,masters,7,4
+19,49,married,Madhesi,joint,hinduism,masters,5,1
+20,19,unmarried,Muslim,extended,buddhism,bachelor,6,1
+21,24,widow,others,joint,buddhism,masters,5,2
+22,49,unmarried,Muslim,nuclear,others,masters,6,5
+23,36,married,Janajati,joint,buddhism,masters,10,2
+24,45,divorced,Madhesi,joint,hinduism,bachelor,7,3
+25,27,widow,brahmin/ chhetri,joint,christianity,masters,1,1
+26,30,divorced,Madhesi,nuclear,christianity,bachelor,4,3
+27,39,divorced,Madhesi,joint,others,bachelor,9,2
+28,37,married,brahmin/ chhetri,joint,islamic,masters,6,4
+29,29,widow,brahmin/ chhetri,extended,christianity,bachelor,5,3
+30,21,unmarried,Dalit,joint,hinduism,masters,2,5
+31,34,divorced,Madhesi,joint,christianity,masters,8,1
+32,41,divorced,Janajati,joint,buddhism,bachelor,9,2
+33,23,widow,Dalit,joint,buddhism,bachelor,9,3
+34,45,widow,others,nuclear,others,masters,1,1
+35,40,divorced,Dalit,joint,hinduism,masters,1,3
+36,34,divorced,brahmin/ chhetri,nuclear,buddhism,bachelor,3,4
+37,45,unmarried,Dalit,joint,christianity,bachelor,4,2
+38,47,unmarried,Janajati,extended,hinduism,masters,1,4
+39,31,married,Dalit,nuclear,hinduism,bachelor,3,5
+40,31,married,Madhesi,joint,islamic,bachelor,5,1
+41,46,divorced,others,extended,christianity,bachelor,6,3
+42,45,divorced,others,nuclear,buddhism,masters,1,5
+43,21,married,Dalit,joint,christianity,bachelor,10,4
+44,39,unmarried,Muslim,joint,buddhism,bachelor,9,3
+45,41,married,Muslim,nuclear,islamic,masters,7,4
+46,30,married,Janajati,nuclear,islamic,bachelor,8,4
+47,44,divorced,brahmin/ chhetri,nuclear,others,masters,1,1
+48,43,married,Madhesi,joint,islamic,bachelor,6,3
+49,21,divorced,Madhesi,nuclear,buddhism,masters,2,2
+50,25,married,Madhesi,nuclear,islamic,masters,6,1
+51,18,divorced,Madhesi,nuclear,islamic,masters,10,1
+52,19,unmarried,Muslim,joint,others,masters,3,1
+53,49,divorced,Dalit,extended,christianity,bachelor,3,3
+54,43,divorced,Dalit,nuclear,buddhism,masters,8,3
+55,24,widow,brahmin/ chhetri,nuclear,buddhism,masters,2,2
+56,35,married,brahmin/ chhetri,nuclear,hinduism,bachelor,2,5
+57,42,widow,Dalit,extended,christianity,masters,3,2
+58,27,widow,brahmin/ chhetri,extended,buddhism,masters,6,2
+59,36,widow,brahmin/ chhetri,joint,buddhism,masters,3,5
+60,49,unmarried,Muslim,nuclear,islamic,bachelor,10,1
+61,26,unmarried,Madhesi,joint,christianity,bachelor,6,5
+62,37,married,Madhesi,joint,others,bachelor,2,4
+63,41,unmarried,Dalit,extended,others,masters,1,3
+64,27,married,others,nuclear,buddhism,bachelor,6,5
+65,37,widow,Madhesi,joint,islamic,masters,9,2
+66,42,divorced,others,nuclear,christianity,masters,2,2
+67,25,married,brahmin/ chhetri,extended,hinduism,bachelor,1,1
+68,50,divorced,Janajati,joint,buddhism,masters,6,3
+69,43,unmarried,Dalit,extended,buddhism,bachelor,6,2
+70,45,unmarried,Janajati,nuclear,others,bachelor,1,4
+71,32,divorced,Dalit,joint,hinduism,masters,9,5
+72,27,unmarried,brahmin/ chhetri,joint,islamic,bachelor,3,1
+73,34,divorced,Madhesi,joint,hinduism,masters,7,2
+74,24,married,brahmin/ chhetri,extended,islamic,masters,7,2
+75,46,widow,others,nuclear,islamic,masters,5,3
+76,38,widow,Muslim,nuclear,others,masters,5,1
+77,20,divorced,Madhesi,joint,others,bachelor,1,5
+78,31,widow,Madhesi,joint,islamic,bachelor,3,5
+79,39,divorced,others,joint,hinduism,masters,1,4
+80,47,widow,Madhesi,extended,buddhism,masters,7,3
+81,50,married,brahmin/ chhetri,nuclear,christianity,bachelor,8,3
+82,44,divorced,others,extended,others,masters,7,2
+83,45,unmarried,Madhesi,nuclear,buddhism,masters,6,3
+84,26,divorced,brahmin/ chhetri,joint,others,masters,1,3
+85,30,unmarried,Janajati,nuclear,buddhism,masters,9,2
+86,21,divorced,others,nuclear,buddhism,bachelor,10,5
+87,47,married,Dalit,nuclear,hinduism,masters,4,1
+88,29,unmarried,Muslim,joint,christianity,bachelor,1,3
+89,21,divorced,Muslim,extended,buddhism,bachelor,10,1
+90,32,married,Janajati,joint,christianity,masters,4,5
+91,50,divorced,Muslim,extended,christianity,bachelor,9,2
+92,31,widow,Janajati,joint,christianity,masters,10,5
+93,35,married,Dalit,nuclear,islamic,masters,10,1
+94,25,unmarried,Dalit,nuclear,islamic,bachelor,1,5
+95,28,divorced,Muslim,nuclear,others,bachelor,5,4
+96,47,unmarried,others,nuclear,buddhism,masters,8,5
+97,43,divorced,Dalit,nuclear,hinduism,bachelor,10,3
+98,44,widow,Muslim,extended,others,masters,4,3
+99,25,unmarried,others,extended,others,masters,7,3
+100,22,unmarried,brahmin/ chhetri,extended,others,bachelor,8,3
+101,49,widow,others,extended,christianity,masters,6,4
+102,29,widow,brahmin/ chhetri,extended,islamic,bachelor,1,5
+103,39,divorced,others,nuclear,others,bachelor,9,4
+104,50,widow,Dalit,extended,others,masters,9,2
+105,24,widow,Dalit,nuclear,hinduism,masters,7,4
+106,29,unmarried,brahmin/ chhetri,nuclear,christianity,masters,1,3
+107,21,unmarried,Dalit,joint,islamic,masters,8,5
+108,34,unmarried,Janajati,joint,buddhism,bachelor,2,1
+109,34,widow,Muslim,nuclear,buddhism,masters,6,4
+110,33,unmarried,others,joint,buddhism,bachelor,4,1
+111,18,married,Janajati,joint,islamic,masters,2,5
+112,23,married,Dalit,joint,hinduism,masters,6,2
+113,41,widow,others,extended,buddhism,bachelor,5,5
+114,19,widow,Madhesi,extended,christianity,bachelor,2,1
+115,33,divorced,others,joint,buddhism,bachelor,9,2
+116,31,divorced,Muslim,extended,hinduism,masters,10,5
+117,45,divorced,Muslim,nuclear,hinduism,bachelor,10,5
+118,32,divorced,Dalit,joint,buddhism,masters,3,2
+119,33,divorced,others,joint,hinduism,masters,9,5
+120,46,married,brahmin/ chhetri,joint,buddhism,bachelor,6,1
+121,44,widow,Dalit,joint,buddhism,masters,4,4
+122,43,married,Madhesi,extended,buddhism,masters,3,3
+123,18,unmarried,Madhesi,extended,islamic,masters,6,2
+124,29,divorced,others,joint,islamic,masters,6,4
+125,44,unmarried,Madhesi,extended,buddhism,bachelor,5,3
+126,30,widow,others,nuclear,islamic,bachelor,7,3
+127,25,divorced,Dalit,joint,others,masters,6,5
+128,34,unmarried,Muslim,extended,islamic,masters,1,1
+129,23,divorced,Muslim,nuclear,hinduism,bachelor,3,3
+130,45,unmarried,Dalit,joint,islamic,bachelor,9,4
+131,48,widow,Dalit,nuclear,buddhism,masters,6,4
+132,30,divorced,Muslim,extended,buddhism,masters,3,4
+133,36,divorced,Janajati,joint,others,bachelor,4,3
+134,37,widow,Janajati,joint,islamic,masters,3,1
+135,19,widow,Dalit,extended,islamic,bachelor,10,4
+136,18,widow,Muslim,extended,hinduism,bachelor,9,4
+137,50,unmarried,others,joint,islamic,bachelor,3,5
+138,22,married,Dalit,joint,buddhism,masters,2,3
+139,27,unmarried,Janajati,joint,christianity,masters,10,4
+140,38,divorced,others,nuclear,christianity,masters,2,5
+141,22,divorced,others,nuclear,others,bachelor,10,5
+142,48,widow,Muslim,nuclear,others,masters,9,5
+143,40,married,Janajati,extended,christianity,bachelor,9,5
+144,45,divorced,Dalit,nuclear,islamic,bachelor,6,5
+145,42,widow,Madhesi,extended,islamic,masters,4,3
+146,30,widow,Madhesi,extended,hinduism,masters,7,5
+147,26,widow,Dalit,joint,others,bachelor,7,3
+148,34,married,Muslim,extended,islamic,bachelor,8,1
+149,22,divorced,Dalit,extended,christianity,masters,2,1
+150,18,divorced,brahmin/ chhetri,nuclear,hinduism,bachelor,10,3
+151,26,unmarried,Madhesi,joint,hinduism,bachelor,7,1
+152,23,divorced,Dalit,joint,hinduism,bachelor,1,3
+153,40,divorced,Dalit,nuclear,islamic,bachelor,2,2
+154,26,divorced,Madhesi,nuclear,hinduism,masters,5,4
+155,25,divorced,brahmin/ chhetri,nuclear,others,masters,10,5
+156,36,unmarried,Madhesi,nuclear,others,bachelor,10,4
+157,49,divorced,others,nuclear,buddhism,masters,8,2
+158,35,divorced,brahmin/ chhetri,joint,christianity,bachelor,8,4
+159,42,widow,Janajati,nuclear,hinduism,bachelor,1,1
+160,34,widow,others,joint,islamic,bachelor,6,3
+161,44,divorced,Madhesi,nuclear,christianity,masters,10,4
+162,20,unmarried,Muslim,extended,others,masters,9,2
+163,23,unmarried,Dalit,joint,hinduism,bachelor,10,2
+164,36,divorced,brahmin/ chhetri,nuclear,christianity,bachelor,1,4
+165,38,married,Muslim,joint,buddhism,bachelor,2,3

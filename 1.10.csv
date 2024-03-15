@@ -1,0 +1,68 @@
+﻿SN,No_employee,Worked_when,Position,When,Age,Performance_Score
+1,269,10,"Assistant Manager, QA",10,32,5
+2,395,8,Executive Secretary,17,38,4
+3,250,7,Manager,5,32,5
+4,350,10,GM,3,40,4
+5,22,15,Senior Manager,3,41,4
+6,50,15,GM,8,55,4
+7,2000,2,Executive officer,2,27,4
+8,356,15,Management Representative,4,45,4
+9,170,5,Manager,5,46,4
+10,252,18,GM,2,27,4
+11,434,14,Exercutive officer,8,44,4
+12,291,15,Quality Manager,10,33,4
+13,45,10,Technician,12,40,3
+14,300,6,QA technician,2,31,4
+15,18,2,Management,7,25,3
+16,200,2,QC officer,2,27,4
+17,1150,22,QC officer,8,45,4
+18,32,3,Chairman,3,41,4
+19,419,10,Manager,5,43,5
+20,259,10,Manager,3,28,4
+21,397,15,QC officer,6,39,5
+22,454,19,Executive officer,5,32,4
+23,453,14,MR,10,45,4
+24,465,2,Assistant Manager,4,44,4
+25,328,6,Manager,6,35,4
+26,95,6,QC Manager,6,30,4
+27,295,18,Management,3,35,5
+28,221,13,QC Manager,6,27,4
+29,137,17,QC Assistant,2,29,4
+30,227,16,Manager,6,39,3
+31,269,7,QC Officer,3,33,3
+32,229,17,QC Manager,4,34,4
+33,481,5,Technical Assistant,5,30,3
+34,397,7,MR,7,31,4
+35,397,5,GM,9,46,4
+36,415,6,QC Manager,7,35,4
+37,455,15,MR,3,30,5
+38,76,20,Executive officer,3,43,4
+39,277,2,Manager,2,42,5
+40,424,20,Management,10,32,4
+41,229,20,QC officer,10,42,4
+42,205,12,QC officer,10,41,4
+43,365,4,Chairman,8,29,4
+44,203,9,Manager,2,41,4
+45,79,12,Manager,5,29,4
+46,304,9,QC officer,8,40,4
+47,312,11,Executive officer,8,30,4
+48,82,2,Manager,4,41,3
+49,341,15,Executive Director,8,35,3
+50,101,9,Manager,3,33,5
+51,205,14,MR,9,44,4
+52,77,9,Technical Dicrector,3,35,4
+53,165,13,QA officer,8,46,4
+54,137,3,Assistant Manager,8,46,4
+55,95,8,Technican,10,38,4
+56,209,10,QC Technician,6,41,4
+57,294,9,Manager,10,35,4
+58,72,7,General Manager,3,47,5
+59,236,4,Executive,10,37,4
+60,83,20,MR,6,40,4
+61,394,11,QC officer,5,46,3
+62,427,9,Manager,10,35,3
+63,463,8,GM,9,40,4
+64,250,18,Assistant Manager,2,27,3
+65,169,18,GM,5,29,4
+66,321,10,Manager,6,38,4
+67,154,7,Manager,6,40,4

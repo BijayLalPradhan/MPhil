@@ -1,0 +1,203 @@
+﻿gender,Age,Account,Profession,Edu_Qual,Mar_sta,Address,Confidance Score (1-20)
+female,34,NABIL,Service,Bachelor,Married,Valley,16
+male,24,Rastriya Banijya bank,Social Work,Bachelor,Married,Out of Valley,13
+male,61,Rastriya Banijya bank,Service,Bachelor,Married,Out of Valley,20
+male,58,Rastriya Banijya bank,Retired service,Bachelor,Married,Out of Valley,8
+male,24,Rastriya Banijya bank,Social Work,Degree,Unmarried,Out of Valley,15
+male,24,Rastriya Banijya bank,Social Work,Bachelor,Unmarried,Out of Valley,15
+male,26,Rastriya Banijya bank,Social Work,Ten plus two or Intermediate,Unmarried,Out of Valley,13
+male,29,Rastriya Banijya bank,Social Work,Ten plus two or Intermediate,Unmarried,Out of Valley,10
+male,37,Rastriya Banijya bank,Service,Bachelor,Married,Out of Valley,15
+male,45,Rastriya Banijya bank,Service,Bachelor,Married,Valley,12
+male,37,Nepal bank Limited,Retired service,SLC or Below,Married,Out of Valley,16
+male,29,Nepal bank Limited,Retired service,Degree,Unmarried,Out of Valley,16
+male,30,Nepal bank Limited,Retired service,Bachelor,Married,Out of Valley,19
+male,56,Nepal bank Limited,Retired service,Bachelor,Married,Out of Valley,15
+male,23,Nepal bank Limited,Social Work,Bachelor,Unmarried,Valley,16
+male,52,Nepal bank Limited,Retired service,Degree,Married,Valley,19
+female,40,Nepal bank Limited,Retired service,SLC or Below,Married,Valley,20
+female,39,Nepal bank Limited,Retired service,Bachelor,Married,Out of Valley,18
+male,36,Nepal bank Limited,Retired service,Degree,Unmarried,Out of Valley,16
+male,47,Rastriya Banijya bank,Retired service,Degree,Married, ,14
+male,28,Rastriya Banijya bank,Retired service,Bachelor,Unmarried,Valley,19
+female,48,Rastriya Banijya bank,Business,Degree,Married,Out of Valley,13
+male,25,Rastriya Banijya bank, ,Ten plus two or Intermediate,Unmarried,Out of Valley,9
+male,42,Rastriya Banijya bank,Retired service,SLC or Below,Married,Valley,17
+male,31,Rastriya Banijya bank,Retired service,SLC or Below,Married,Out of Valley,16
+male,21,Nepal Investment Bank,Service,Ten plus two or Intermediate,Unmarried,Out of Valley,10
+male,49,Rastriya Banijya bank,Retired service,SLC or Below, ,Valley,12
+male,24,Nepal bank Limited,Social Work,Bachelor,Unmarried,Out of Valley,16
+male,50,Nepal bank Limited,Service,Ten plus two or Intermediate,Married,Valley,20
+female,25,Nepal bank Limited,Social Work,Bachelor,Unmarried,Valley,14
+female,29,Nepal bank Limited,Retired service,Degree,Unmarried,Valley,11
+female,27,Rastriya Banijya bank,Retired service,Bachelor,Unmarried,Out of Valley,12
+female,28,Nepal bank Limited,Social Work,Degree,Unmarried,Out of Valley,19
+male,22,Rastriya Banijya bank,Retired service,Degree,Married,Out of Valley,15
+male,20,Rastriya Banijya bank,Social Work,Bachelor,Unmarried,Out of Valley,11
+male,36,Siddhartha Bank Limited,Retired service,Bachelor,Married,Out of Valley,8
+male,25,Nepal Investment Bank,Social Work,Bachelor,Unmarried,Out of Valley,16
+male,21,Rastriya Banijya bank,Social Work,Bachelor,Unmarried,Out of Valley,8
+female,37,Kumari Bank,Retired service,Degree,Married,Out of Valley,14
+male,49,NABIL,Retired service,Degree,Married,Out of Valley,13
+female,47,NABIL, ,Ten plus two or Intermediate,Married,Out of Valley,12
+female,29,Nepal Investment Bank,Social Work,Bachelor,Unmarried,Valley,13
+male,24,Siddhartha Bank Limited,Social Work,Bachelor,Unmarried,Out of Valley,9
+male,23,NABIL,Social Work,Degree,Unmarried,Out of Valley,13
+male,29,Nepal Investment Bank,Retired service,Bachelor,Unmarried,Out of Valley,13
+male,26,Rastriya Banijya bank,Social Work,Bachelor,Married,Out of Valley,10
+male,51,Nepal bank Limited,Retired service,Degree,Married,Valley,14
+male,31,Standard Chartered bank,Service,Ten plus two or Intermediate,Unmarried,Valley,16
+female,23,Bank of Kathmandu,Retired service,Bachelor,Unmarried,Out of Valley,9
+female,48,Siddhartha Bank Limited,Retired service,Bachelor,Married,Valley,14
+female,22,Nepal Investment Bank,Retired service,Bachelor,Married,Out of Valley,16
+male,65,NABIL,Retired service, ,Married,Out of Valley,16
+ ,54,NIC Bank, , , ,Out of Valley,7
+female,32,Siddhartha Bank Limited,Housewife,Ten plus two or Intermediate,Married,Out of Valley,16
+male,39,Bank of Kathmandu,Service,Bachelor,Married,Out of Valley,16
+male,36,Bank of Kathmandu,Business,Degree,Married,Out of Valley,15
+female,25,Nepal Investment Bank,Students,SLC or Below,Unmarried,Valley,15
+male,27,Rastriya Banijya bank,Social Work,Degree,Married,Valley,10
+male,53,Standard Chartered bank,Service,Bachelor,Married,Valley, 
+female,26,Nepal Investment Bank,Students,Bachelor,Unmarried,Out of Valley,16
+male,34,Nepal Investment Bank,Service,Degree,Married,Valley,18
+male,53,Nepal bank Limited,Retired service,Bachelor,Married,Valley,11
+male,47,Nepal Investment Bank,Service,Degree,Married,Out of Valley,18
+female,30,Bank of Kathmandu,Service,Ten plus two or Intermediate,Unmarried,Valley,16
+female,29,Nepal Investment Bank,Service,Ten plus two or Intermediate,Unmarried,Valley, 
+female,30,Bank of Kathmandu,Service,Bachelor,Married,Out of Valley,17
+male,32,Nepal bank Limited,Service,Bachelor,Unmarried,Valley,14
+female,29,Rastriya Banijya bank,Retired service,Ten plus two or Intermediate,Unmarried,Out of Valley,17
+female,38,Nepal Investment Bank,Service,SLC or Below,Unmarried,Out of Valley,14
+female,61,Nepal bank Limited,Service,Bachelor,Married,Out of Valley,12
+male,34,Nepal Investment Bank,Service,Bachelor,Married,Valley,14
+male,50,Bank of Kathmandu,Service,Degree,Married,Out of Valley,18
+female,24,NABIL,Students,Bachelor,Unmarried,Out of Valley,9
+male,32,Nepal Investment Bank,Service,Ten plus two or Intermediate,Unmarried,Out of Valley,11
+female,57,NABIL,Housewife,SLC or Below,Married,Out of Valley,11
+male,40,Nepal bank Limited,Service,Bachelor, ,Out of Valley,19
+male,26,NABIL,Business,Bachelor,Unmarried,Valley,17
+male,21,Nepal Investment Bank, ,Bachelor,Unmarried,Out of Valley,13
+male,33,Bank of Kathmandu,Service,Degree,Unmarried,Valley,11
+male,31,Bank of Kathmandu,Service,Degree,Married,Out of Valley,10
+female,29,Nepal bank Limited,Service,Degree,Married,Out of Valley,9
+male,47,Bank of Kathmandu,Service,Degree,Married,Valley,14
+male,21,Nepal Investment Bank,Housewife,Degree,Unmarried,Out of Valley,16
+male,29,Nepal Investment Bank,Students,Bachelor,Unmarried,Valley,12
+male,25,Rastriya Banijya bank,Students,Bachelor,Unmarried,Out of Valley,15
+female,29,Standard Chartered bank,Students,Bachelor,Unmarried,Out of Valley,16
+male,24,Rastriya Banijya bank,Students,Degree,Unmarried,Out of Valley,11
+male,33,Bank of Kathmandu,Service,Degree,Married,Valley,14
+male,23,Bank of Kathmandu,Service,Degree,Unmarried,Out of Valley,17
+female,23,Bank of Kathmandu,Service,Degree, ,Valley,20
+male,27,Nepal bank Limited,Students,Degree,Unmarried,Out of Valley,14
+male,26,Nepal Investment Bank,Business,Ten plus two or Intermediate,Unmarried,Out of Valley, 
+female,27,Siddhartha Bank Limited,Students,Degree,Unmarried,Valley,16
+female,22,NABIL,Students,Degree,Unmarried,Out of Valley,13
+female,25,Nepal Investment Bank,Students,Degree,Unmarried,Out of Valley,11
+male,64,Nepal Investment Bank,Students,Degree,Unmarried,Out of Valley,15
+female,25,Rastriya Banijya bank,Service,Bachelor,Unmarried,Out of Valley,9
+male,27,Nepal Investment Bank,Service,Bachelor,Unmarried,Out of Valley,16
+male,23,Nepal Investment Bank,Business,Bachelor,Unmarried,Out of Valley,12
+female,24,NIC Bank,Students,Bachelor,Married,Out of Valley,19
+female,29,NABIL,Students,Bachelor,Unmarried,Out of Valley,15
+female,26,Bank of Kathmandu,Students,Bachelor,Married,Valley,14
+male,27,NABIL,Students,Bachelor,Unmarried,Out of Valley,14
+male,49,Lumbini bank,Service,Degree,Married,Out of Valley,10
+male,27,Rastriya Banijya bank,Service,Bachelor,Married,Out of Valley,19
+female,38,Rastriya Banijya bank, ,SLC or Below, ,Out of Valley,13
+female,24,Siddhartha Bank Limited,Service,Ten plus two or Intermediate,Married,Out of Valley,17
+male,25,NABIL,Students,Bachelor,Unmarried,Out of Valley,20
+male,30,Bank of Kathmandu,Business,SLC or Below,Married,Out of Valley,12
+male,23,Nepal Investment Bank,Service,Degree,Unmarried,Out of Valley,15
+male,32,Bank of Kathmandu,Service,Bachelor,Married,Out of Valley,11
+male,34,Nepal Investment Bank, ,Bachelor,Married,Valley,16
+male,21,Nepal Investment Bank,Service,Degree,Married,Out of Valley,19
+male,23,Nepal Investment Bank,Service,Degree,Unmarried,Out of Valley,17
+male,27,Nepal Investment Bank,Students,Bachelor,Unmarried,Out of Valley,14
+male,21,Nepal Investment Bank,Students,Bachelor,Unmarried,Out of Valley,18
+female,20,Nepal Investment Bank,Service,Bachelor,Married,Out of Valley,15
+male,58,Nepal bank Limited,Service,Ten plus two or Intermediate, ,Valley,14
+male,42,Nepal bank Limited,Service,Ten plus two or Intermediate,Married,Out of Valley,13
+female,50,Nepal bank Limited,Service,Bachelor,Married,Valley,15
+male,58,Nepal bank Limited,Service,Ten plus two or Intermediate,Married,Valley,14
+male,56,Nepal bank Limited,Service,Bachelor,Married,Out of Valley,16
+female,31,Nepal bank Limited,Service,Bachelor,Married,Valley,15
+female,60,Nepal bank Limited,Service,Bachelor,Married,Valley,4
+female,55,Standard Chartered bank,Service,Bachelor,Married,Valley,18
+female,51,Standard Chartered bank,Service,Degree,Married,Valley,18
+female,64,Standard Chartered bank,Service,SLC or Below,Married,Valley,14
+male,55,Standard Chartered bank,Service,Bachelor,Married,Valley, 
+male,40,Standard Chartered bank,Service,Degree,Married,Valley,16
+female,55,Standard Chartered bank,Service,Bachelor,Married,Valley,19
+female,59,Standard Chartered bank,Service,Ten plus two or Intermediate,Unmarried,Valley,20
+male,48,Standard Chartered bank,Service,Ten plus two or Intermediate,Married,Valley,16
+female,40,Standard Chartered bank,Service,Degree,Married,Valley,18
+male,49,Rastriya Banijya bank,Service,Ten plus two or Intermediate,Married,Valley,15
+male,52,Bank of Kathmandu,Service,Degree,Married,Out of Valley,12
+male,26,NABIL,Service,Bachelor,Unmarried,Valley, 
+female,29,Nepal Investment Bank,Service,Bachelor,Unmarried,Out of Valley,13
+female,33,Rastriya Banijya bank, ,Degree,Married,Valley,14
+male,37,NABIL, ,Degree,Married,Valley,13
+male,28,Nepal Investment Bank,Business,Bachelor,Unmarried,Out of Valley,15
+male,21,Nepal Investment Bank,Students,Degree,Unmarried,Out of Valley,16
+male,23,Nepal Investment Bank,Business,Degree,Married,Out of Valley, 
+male,32,Bank of Kathmandu,Business,Degree,Married,Out of Valley,8
+female,48,Bank of Kathmandu,Service,Degree,Married,Valley,16
+male,47,Kumari Bank,Service,Degree,Married,Valley,13
+female,23,Nepal bank Limited,Service,Ten plus two or Intermediate,Unmarried,Valley,15
+male,51,Rastriya Banijya bank,Service,Bachelor,Married,Valley,16
+male,35,Siddhartha Bank Limited,Service,Degree,Married,Out of Valley,17
+female,30,Nepal Investment Bank,Service,Bachelor,Married,Valley,18
+female,36,Standard Chartered bank,Service,SLC or Below,Married,Out of Valley,18
+male,44,Standard Chartered bank,Service,Degree,Married,Out of Valley,14
+male,49,Nepal bank Limited,Service,Bachelor,Married,Valley,15
+female,35,Rastriya Banijya bank,Service,Ten plus two or Intermediate,Married,Valley,18
+male,30,NIC Bank,Service,Degree,Married,Out of Valley,12
+male,51,Kumari Bank,Students,Ten plus two or Intermediate,Unmarried,Valley,13
+male,23,Bank of Kathmandu,Students,Degree,Unmarried,Out of Valley,11
+male,45,Rastriya Banijya bank,Business,Ten plus two or Intermediate,Married,Valley,12
+female,22,Rastriya Banijya bank,Students,Bachelor,Unmarried,Out of Valley,10
+female,39,Nepal bank Limited,Housewife,Bachelor,Married,Valley,12
+male,29,NABIL, ,Ten plus two or Intermediate,Unmarried,Valley,12
+male,45,Nepal bank Limited, ,Bachelor,Married,Out of Valley,15
+female,23,Nepal Investment Bank,Service,Degree,Unmarried,Valley,18
+male,21,Bank of Kathmandu,Students,Bachelor,Unmarried,Valley,12
+female,23,NABIL,Students,Degree,Unmarried,Out of Valley,15
+male,40,Nepal bank Limited,Service,Ph D,Married,Out of Valley,11
+male,27,Kumari Bank,Students,Degree,Unmarried,Out of Valley,13
+male,21,Nepal Investment Bank,Service,Degree,Unmarried,Out of Valley,14
+male,27,Nepal Investment Bank,Service,Degree,Married,Out of Valley,13
+male,24,NIC Bank,Service,Bachelor,Unmarried,Out of Valley,12
+male,25,NABIL,Service,Ten plus two or Intermediate,Married,Valley,18
+male,28,NABIL,Students,Degree, ,Valley,13
+male,49,NABIL,Service,M Phil,Married,Valley,17
+female,40,NABIL,Students,Degree,Unmarried,Out of Valley,16
+male,51,NABIL, ,Ten plus two or Intermediate,Married,Out of Valley,12
+male,25,NABIL,Service,Degree,Unmarried,Out of Valley,14
+male,42,NABIL, , ,Unmarried,Out of Valley,14
+male,30,Siddhartha Bank Limited,Service,Degree,Unmarried,Valley,10
+male,21,Nepal Investment Bank,Students,Degree,Unmarried,Valley,10
+male,21,NABIL,Business,Degree,Married,Valley,15
+male,43,Nepal Investment Bank,Service,Degree,Married, ,14
+male,20,Rastriya Banijya bank,Students,Bachelor,Unmarried,Out of Valley,17
+male,29,Rastriya Banijya bank,Students,Bachelor,Unmarried,Out of Valley,14
+male,21,Rastriya Banijya bank,Students,Degree,Unmarried,Out of Valley,11
+male,22,Kumari Bank,Students,Bachelor,Unmarried,Out of Valley,15
+male,49,Nepal Investment Bank,Service,M Phil,Married,Out of Valley,14
+male,43,Nepal bank Limited,Service,Bachelor,Married,Valley,12
+male,36,NABIL,Service,M Phil,Married,Out of Valley,16
+female,35,NABIL,Service,Bachelor,Married,Valley,14
+male,20,Kumari Bank,Students,Bachelor,Unmarried,Out of Valley,16
+male,24,Siddhartha Bank Limited,Students,Bachelor,Unmarried,Out of Valley, 
+male,25,Standard Chartered bank,Service,Degree,Unmarried,Out of Valley,20
+male,39,Rastriya Banijya bank,Service,Degree,Married,Out of Valley,16
+male,28,Kumari Bank,Students,Bachelor,Unmarried,Out of Valley,17
+female,36,Rastriya Banijya bank,Service,Bachelor,Married,Out of Valley,12
+female,27,Bank of Kathmandu,Service,Bachelor,Married,Out of Valley,16
+male,34,Rastriya Banijya bank,Service,Bachelor,Married,Out of Valley,12
+female,20,Nepal bank Limited,Service,Degree, ,Out of Valley,16
+male,32,NIC Bank,Service,Degree,Married,Out of Valley,17
+male,27,Rastriya Banijya bank,Students,Bachelor,Unmarried,Out of Valley,15
+male,23,Nepal Investment Bank,Service,Degree,Unmarried,Out of Valley,16
+male,20,Rastriya Banijya bank,Service,Degree,Unmarried,Out of Valley,13
+male,38,NIC Bank,Business,Bachelor,Married,Valley,11

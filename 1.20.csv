@@ -1,0 +1,108 @@
+﻿Codeno,Age,Religion,Ethnicity,Educational_level,Family_type,Marital_status,Children,Children_no,assotypeoffmly,assoexperiencework,assongtduty,Stress_level
+1,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,unmarried,no,0,Nuclear,1-10years,4-6 days,53
+2,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,married,yes,two,others,1-10years,4-6 days,62
+3,31-40 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,married,yes,two,others,1-10years,8 and more than 8 days,64
+4,20-30 years,hindu,Brahmin/ Chettri,PCL,joint,married,yes,two,others,1-10years,8 and more than 8 days,64
+5,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,58
+6,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,married,no,0,others,1-10years,4-6 days,68
+7,31-40 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,yes,two,others,1-10years,4-6 days,54
+8,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,36
+9,31-40 years,hindu,Janajati,Bachelor in Nursing,joint,married,yes,one,others,above 10years,4-6 days,62
+10,20-30 years,hindu,Janajati,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,40
+11,20-30 years,hindu,Dalit,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,51
+12,20-30 years,hindu,Madhesi,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,above 10years,4-6 days,48
+13,20-30 years,hindu,Janajati,Bachelor in Nursing,joint,unmarried,no,0,Nuclear,1-10years,4-6 days,57
+14,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,married,no,0,others,1-10years,4-6 days,39
+15,31-40 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,yes,two,others,1-10years,8 and more than 8 days,59
+16,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,69
+17,20-30 years,hindu,Janajati,Bachelor in Nursing,joint,unmarried,no,0,Nuclear,1-10years,4-6 days,63
+18,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,yes,one,others,1-10years,8 and more than 8 days,58
+19,31-40 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,married,yes,two,others,above 10years,4-6 days,58
+20,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,47
+21,31-40 years,hindu,Brahmin/ Chettri,PCL,nuclear,married,yes,two,others,above 10years,8 and more than 8 days,49
+22,20-30 years,hindu,Brahmin/ Chettri,PCL,nuclear,married,no,0,others,1-10years,8 and more than 8 days,48
+23,20-30 years,hindu,Janajati,Bachelor in Nursing,joint,married,yes,one,others,above 10years,8 and more than 8 days,45
+24,20-30 years,hindu,Brahmin/ Chettri,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,59
+25,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,married,yes,one,others,1-10years,8 and more than 8 days,50
+26,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,72
+27,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,married,no,0,others,1-10years,8 and more than 8 days,57
+28,31-40 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,yes,one,others,above 10years,8 and more than 8 days,52
+29,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,56
+30,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,48
+31,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,47
+32,20-30 years,hindu,Brahmin/ Chettri,PCL,nuclear,married,no,0,others,1-10years,8 and more than 8 days,51
+33,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,47
+34,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,80
+35,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,no,0,others,1-10years,8 and more than 8 days,58
+36,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,54
+37,20-30 years,hindu,Janajati,PCL,nuclear,married,no,0,others,1-10years,8 and more than 8 days,61
+38,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,extended,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,74
+39,20-30 years,buddhism,Janajati,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,above 10years,4-6 days,49
+40,20-30 years,hindu,Brahmin/ Chettri,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,66
+41,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,70
+42,20-30 years,hindu,Brahmin/ Chettri,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,57
+43,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,married,no,0,others,1-10years,8 and more than 8 days,59
+44,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,62
+45,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,yes,one,Nuclear,1-10years,8 and more than 8 days,52
+46,20-30 years,hindu,Janajati,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,57
+47,20-30 years,hindu,Brahmin/ Chettri,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,62
+48,20-30 years,hindu,Janajati,Bachelor in Nursing,joint,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,62
+49,20-30 years,buddhism,Janajati,PCL,joint,unmarried,no,0,Nuclear,above 10years,8 and more than 8 days,44
+50,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,59
+51,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,married,no,0,others,1-10years,8 and more than 8 days,65
+52,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,no,0,others,1-10years,4-6 days,58
+53,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,67
+54,20-30 years,hindu,Brahmin/ Chettri,PCL,joint,married,yes,one,others,1-10years,8 and more than 8 days,61
+55,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,63
+56,31-40 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,no,0,others,1-10years,4-6 days,46
+57,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,64
+58,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,65
+59,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,79
+60,41-50 years,buddhism,Janajati,Bachelor in Nursing,joint,married,yes,two,others,above 10years,4-6 days,75
+61,31-40 years,hindu,Janajati,Bachelor in Nursing,nuclear,married,yes,two,others,1-10years,4-6 days,49
+62,31-40 years,hindu,Brahmin/ Chettri,PCL,nuclear,married,yes,two,others,above 10years,8 and more than 8 days,54
+63,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,no,0,others,1-10years,8 and more than 8 days,52
+64,20-30 years,buddhism,Janajati,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,66
+65,31-40 years,hindu,Janajati,Bachelor in Nursing,nuclear,married,yes,one,others,above 10years,4-6 days,67
+66,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,67
+67,31-40 years,buddhism,Janajati,Bachelor in Nursing,extended,married,yes,one,others,1-10years,8 and more than 8 days,78
+68,20-30 years,hindu,Brahmin/ Chettri,PCL,nuclear,married,no,0,others,1-10years,8 and more than 8 days,63
+69,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,71
+70,20-30 years,hindu,Brahmin/ Chettri,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,56
+71,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,married,no,0,others,1-10years,8 and more than 8 days,53
+72,20-30 years,hindu,Janajati,Bachelor in Nursing,joint,married,no,0,others,1-10years,4-6 days,70
+73,31-40 years,hindu,Janajati,Bachelor in Nursing,nuclear,married,yes,one,others,1-10years,4-6 days,66
+74,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,49
+75,20-30 years,hindu,Brahmin/ Chettri,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,60
+76,20-30 years,hindu,Madhesi,Bachelor in Nursing,joint,married,no,0,others,1-10years,4-6 days,57
+77,20-30 years,hindu,Janajati,PCL,nuclear,married,no,0,others,1-10years,8 and more than 8 days,54
+78,31-40 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,married,yes,one,others,1-10years,4-6 days,55
+79,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,63
+80,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,married,no,0,others,1-10years,8 and more than 8 days,76
+81,31-40 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,married,no,0,others,1-10years,8 and more than 8 days,52
+82,20-30 years,christian,Janajati,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,43
+83,31-40 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,yes,two,others,1-10years,4-6 days,56
+84,20-30 years,hindu,Janajati,Bachelor in Nursing,joint,married,yes,one,others,1-10years,8 and more than 8 days,69
+85,31-40 years,buddhism,Janajati,Bachelor in Nursing,nuclear,married,yes,one,others,1-10years,8 and more than 8 days,51
+86,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,no,0,others,1-10years,8 and more than 8 days,65
+87,31-40 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,yes,two,others,1-10years,8 and more than 8 days,51
+88,20-30 years,hindu,Janajati,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,55
+89,20-30 years,hindu,Janajati,Bachelor in Nursing,joint,married,no,0,others,1-10years,8 and more than 8 days,59
+90,20-30 years,hindu,Dalit,Bachelor in Nursing,joint,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,54
+91,20-30 years,hindu,Madhesi,Bachelor in Nursing,nuclear,married,no,0,others,1-10years,8 and more than 8 days,49
+92,20-30 years,hindu,Janajati,Bachelor in Nursing,joint,married,yes,one,others,1-10years,8 and more than 8 days,70
+93,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,married,yes,one,others,1-10years,8 and more than 8 days,58
+94,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,55
+95,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,married,yes,one,others,1-10years,8 and more than 8 days,60
+96,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,yes,one,others,1-10years,8 and more than 8 days,56
+97,31-40 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,married,yes,one,others,1-10years,4-6 days,64
+98,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,joint,married,yes,one,others,1-10years,4-6 days,48
+99,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,57
+100,20-30 years,hindu,Brahmin/ Chettri,PCL,nuclear,married,no,0,others,1-10years,8 and more than 8 days,54
+101,20-30 years,hindu,Janajati,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,57
+102,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,68
+103,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,46
+104,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,married,no,0,others,1-10years,8 and more than 8 days,55
+105,20-30 years,hindu,Brahmin/ Chettri,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,48
+106,20-30 years,hindu,Dalit,Bachelor in Nursing,nuclear,unmarried,no,0,Nuclear,1-10years,4-6 days,56
+107,20-30 years,hindu,Janajati,PCL,nuclear,unmarried,no,0,Nuclear,1-10years,8 and more than 8 days,40
