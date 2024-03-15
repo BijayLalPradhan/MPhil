@@ -1,0 +1,430 @@
+﻿SN,Age,gender,Qualificaiton,academic field,year in profession,marital,adm_role,time in social media,Training in Emotional Intelligence?
+1,26,Male,Bachelor degree ,Nursing,0-5,Unmarried,No,3-4,No
+2,34,Female,Bachelor degree ,Nursing,6-10,Married,No,1-2,No
+3,31,Female,Master Degree,Humanities,11-20,Unmarried,No,3-4,Yes
+4,38,Male,M.Phil,Management,11-20,Unmarried,Yes,1-2,No
+5,49,Male,Bachelor degree ,Management,11-20,Married,Yes,3-4,No
+6,39,Male,Master Degree,Management,0-5,Unmarried,No,3-4,No
+7,50,Male,Master Degree,Management,31-40,Married,Yes,1-2,Yes
+8,70,Male,Master Degree,Science and Technology,31-40,Married,Yes,7  or above,No
+9,44,Female,Master Degree,Management,11-20,Unmarried,Yes,5-6,No
+10,24,Female,Master Degree,Nursing,0-5,Unmarried,No,1-2,No
+11,29,Male,Master Degree,Management,6-10,Unmarried,Yes,3-4,No
+12,44,Male,Ph.D,Humanities,11-20,Married,Yes,1-2,No
+13,23,Male,Bachelor degree ,Engineering,6-10,Married,Yes,5-6,No
+14,40,Female,Master Degree,Nursing,6-10,Married,Yes,1-2,No
+15,53,Male,Master Degree,Science and Technology,11-20,Married,No,1-2,No
+16,25,Male,Bachelor degree ,Management,0-5,Unmarried,No,1-2,No
+17,57,Male,Ph.D,Humanities,11-20,Married,No,1-2,No
+18,63,Male,Bachelor degree ,Management,31-40,Married,Yes,1-2,No
+19,57,Male,Master Degree,Science and Technology,21-30,Married,Yes,1-2,No
+20,30,Male,Ph.D,Science and Technology,6-10,Married,No,1-2,No
+21,30,Male,Master Degree,Science and Technology,11-20,Married,No,1-2,No
+22,47,Female,Master Degree,Humanities,11-20,Married,No,1-2,No
+23,37,Male,Bachelor degree ,Humanities,6-10,Unmarried,Yes,3-4,No
+24,59,Female,Master Degree,Nursing,11-20,Married,No,3-4,No
+25,53,Male,Master Degree,Science and Technology,31-40,Married,No,1-2,No
+26,68,Male,Ph.D,Engineering,31-40,Married,Yes,1-2,No
+27,45,Male,Bachelor degree ,Management,11-20,Married,Yes,1-2,No
+28,48,Male,Bachelor degree ,Management,11-20,Married,Yes,1-2,No
+29,43,Male,Bachelor degree ,Management,11-20,Married,Yes,1-2,Yes
+30,42,Male,Bachelor degree ,Management,11-20,Married,Yes,1-2,No
+31,34,Male,Ph.D,Science and Technology,11-20,Married,Yes,1-2,Yes
+32,74,Female,Bachelor degree ,Science and Technology,31-40,Married,No,1-2,Yes
+33,31,Male,Master Degree,Management,6-10,Unmarried,Yes,5-6,Yes
+34,60,Male,Bachelor degree ,Engineering,31-40,Married,Yes,1-2,No
+35,42,Female,Ph.D,Humanities,11-20,Married,Yes,3-4,Yes
+36,35,Male,Master Degree,Humanities,11-20,Married,Yes,1-2,No
+37,60,Male,Master Degree,Humanities,21-30,Married,Yes,1-2,No
+38,38,Male,Ph.D,Humanities,6-10,Married,Yes,1-2,No
+39,37,Female,Ph.D,Humanities,11-20,Married,No,1-2,No
+40,41,Male,Master Degree,Management,21-30,Married,Yes,1-2,No
+41,43,Female,Master Degree,Management,11-20,Married,Yes,5-6,No
+42,28,Female,Master Degree,Management,6-10,Unmarried,Yes,1-2,Yes
+43,43,Male,Master Degree,Science and Technology,21-30,Married,Yes,1-2,Yes
+44,60,Female,Ph.D,Nursing,21-30,Married,No,1-2,Yes
+45,60,Female,Ph.D,Nursing,21-30,Married,No,5-6,No
+46,36,Male,Bachelor degree ,Engineering,6-10,Unmarried,No,7  or above,No
+47,60,Male,Ph.D,Humanities,31-40,Unmarried,Yes,3-4,No
+48,31,Female,Master Degree,Management,11-20,Unmarried,Yes,5-6,No
+49,33,Male,Master Degree,Science and Technology,6-10,Married,No,1-2,Yes
+50,45,Male,M.Phil,Science and Technology,11-20,Unmarried,Yes,1-2,Yes
+51,40,Male,Master Degree,Humanities,11-20,Unmarried,Yes,3-4,No
+52,58,Male,Master Degree,Engineering,31-40,Married,No,7  or above,No
+53,60,Male,Ph.D,Science and Technology,21-30,Married,Yes,1-2,No
+54,62,Male,M.Phil,Management,31-40,Married,No,1-2,No
+55,50,Male,Master Degree,Humanities,11-20,Married,Yes,3-4,Yes
+56,33,Male,Master Degree,Management,11-20,Married,Yes,3-4,Yes
+57,34,Male,Ph.D,Science and Technology,6-10,Married,Yes,5-6,No
+58,21,Female,Master Degree,Management,0-5,Unmarried,No,5-6,No
+59,49,Male,Master Degree,Management,11-20,Married,Yes,1-2,No
+60,66,Male,Ph.D,Science and Technology,31-40,Married,Yes,1-2,Yes
+61,50,Male,Ph.D,Humanities,11-20,Married,Yes,1-2,No
+62,43,Male,Master Degree,Management,21-30,Married,No,3-4,No
+63,20,Male,Master Degree,Management,6-10,Married,No,1-2,No
+64,58,Male,Master Degree,Humanities,31-40,Married,Yes,1-2,No
+65,56,Male,Ph.D,Engineering,21-30,Married,Yes,1-2,No
+66,53,Male,Ph.D,Engineering,21-30,Married,Yes,1-2,No
+67,50,Male,Ph.D,Engineering,21-30,Married,Yes,1-2,No
+68,40,Male,Master Degree,Humanities,21-30,Married,Yes,5-6,No
+69,31,Male,Master Degree,Engineering,6-10,Married,No,1-2,No
+70,50,Male,Master Degree,Management,11-20,Married,Yes,3-4,No
+71,46,Male,Master Degree,Humanities,11-20,Married,Yes,1-2,No
+72,50,Female,Ph.D,Nursing,31-40,Unmarried,No,3-4,Yes
+73,49,Male,Ph.D,Management,11-20,Married,Yes,1-2,No
+74,26,Female,Ph.D,Humanities,6-10,Married,Yes,1-2,Yes
+75,58,Male,Master Degree,Humanities,11-20,Married,Yes,1-2,Yes
+76,50,Male,Ph.D,Science and Technology,11-20,Married,No,1-2,No
+77,69,Female,Master Degree,Nursing,31-40,Unmarried,Yes,3-4,Yes
+78,30,Male,Bachelor degree ,Nursing,0-5,Unmarried,No,1-2,Yes
+79,43,Male,M.Phil,Humanities,21-30,Married,No,3-4,No
+80,56,Male,Master Degree,Humanities,11-20,Married,No,1-2,No
+81,40,Female,Master Degree,Nursing,21-30,Married,Yes,5-6,Yes
+82,57,Male,Ph.D,Humanities,21-30,Married,Yes,1-2,No
+83,72,Female,Ph.D,Science and Technology,31-40,Married,Yes,1-2,No
+84,63,Female,Ph.D,Management,21-30,Married,No,3-4,No
+85,41,Male,Master Degree,Management,11-20,Married,Yes,7  or above,No
+86,69,Male,Master Degree,Engineering,31-40,Unmarried,Yes,3-4,No
+87,69,Male,Bachelor degree ,Engineering,31-40,Married,No,5-6,No
+88,47,Male,Bachelor degree ,Management,31-40,Married,Yes,1-2,No
+89,50,Male,Master Degree,Management,21-30,Married,Yes,1-2,Yes
+90,48,Male,Ph.D,Science and Technology,21-30,Married,Yes,1-2,Yes
+91,57,Male,Master Degree,Management,31-40,Married,Yes,1-2,No
+92,46,Female,Master Degree,Nursing,21-30,Unmarried,Yes,1-2,Yes
+93,56,Female,Ph.D,Nursing,31-40,Married,Yes,5-6,Yes
+94,56,Male,Ph.D,Science and Technology,31-40,Married,Yes,5-6,Yes
+95,38,Female,Bachelor degree ,Nursing,6-10,Married,No,3-4,No
+96,47,Male,Master Degree,Engineering,21-30,Married,Yes,3-4,No
+97,43,Female,Bachelor degree ,Nursing,21-30,Married,Yes,3-4,No
+98,57,Female,Bachelor degree ,Management,21-30,Married,No,1-2,No
+99,59,Female,M.Phil,Nursing,21-30,Married,Yes,3-4,No
+100,75,Male,Ph.D,Humanities,31-40,Married,Yes,1-2,No
+101,41,Male,Bachelor degree ,Humanities,21-30,Married,Yes,3-4,Yes
+102,35,Male,Master Degree,Management,11-20,Married,Yes,1-2,No
+103,50,Female,Master Degree,Management,21-30,Married,Yes,1-2,No
+104,31,Female,Master Degree,Nursing,6-10,Married,No,3-4,No
+105,52,Male,Master Degree,Engineering,21-30,Married,Yes,1-2,No
+106,64,Male,Bachelor degree ,Engineering,31-40,Unmarried,Yes,3-4,No
+107,64,Male,Bachelor degree ,Science and Technology,31-40,Married,No,1-2,Yes
+108,46,Male,Master Degree,Nursing,21-30,Married,Yes,1-2,No
+109,58,Male,Master Degree,Management,31-40,Married,Yes,1-2,No
+110,35,Female,M.Phil,Management,11-20,Married,Yes,5-6,Yes
+111,59,Female,Bachelor degree ,Science and Technology,11-20,Married,Yes,5-6,Yes
+112,40,Male,Bachelor degree ,Management,11-20,Married,No,3-4,No
+113,42,Female,Master Degree,Science and Technology,11-20,Married,Yes,1-2,Yes
+114,24,Female,Master Degree,Management,0-5,Unmarried,No,3-4,No
+115,44,Female,Ph.D,Humanities,21-30,Married,No,7  or above,No
+116,43,Male,Master Degree,Engineering,11-20,Married,Yes,1-2,No
+117,40,Male,Master Degree,Humanities,11-20,Married,Yes,1-2,No
+118,39,Female,Master Degree,Nursing,11-20,Married,Yes,1-2,No
+119,39,Female,Master Degree,Management,11-20,Married,No,3-4,No
+120,25,Male,Bachelor degree ,Engineering,0-5,Unmarried,No,3-4,No
+121,26,Female,Ph.D,Management,6-10,Unmarried,No,1-2,No
+122,34,Male,Bachelor degree ,Humanities,11-20,Married,Yes,1-2,Yes
+123,40,Male,Bachelor degree ,Humanities,11-20,Married,Yes,1-2,Yes
+124,60,Male,Bachelor degree ,Management,21-30,Married,Yes,1-2,No
+125,42,Male,Bachelor degree ,Science and Technology,6-10,Unmarried,Yes,1-2,No
+126,43,Male,Master Degree,Nursing,11-20,Married,Yes,3-4,No
+127,36,Male,Master Degree,Nursing,6-10,Married,Yes,3-4,Yes
+128,52,Male,Bachelor degree ,Humanities,6-10,Married,Yes,3-4,No
+129,52,Male,Bachelor degree ,Engineering,31-40,Married,Yes,1-2,No
+130,51,Male,Master Degree,Humanities,11-20,Married,Yes,1-2,No
+131,34,Female,Bachelor degree ,Nursing,11-20,Married,Yes,1-2,Yes
+132,36,Male,Master Degree,Humanities,11-20,Married,Yes,1-2,Yes
+133,56,Male,Master Degree,Engineering,21-30,Married,Yes,1-2,No
+134,43,Female,Master Degree,Nursing,11-20,Married,Yes,3-4,No
+135,41,Male,Ph.D,Science and Technology,31-40,Married,Yes,1-2,No
+136,42,Female,Master Degree,Nursing,11-20,Married,Yes,5-6,Yes
+137,58,Male,Ph.D,Humanities,21-30,Married,Yes,1-2,No
+138,58,Male,Master Degree,Humanities,31-40,Married,Yes,1-2,No
+139,51,Male,Master Degree,Humanities,31-40,Married,Yes,1-2,No
+140,40,Female,Master Degree,Management,21-30,Married,Yes,1-2,No
+141,31,Male,Master Degree,Humanities,11-20,Married,Yes,1-2,No
+142,52,Male,Master Degree,Management,31-40,Married,Yes,3-4,No
+143,40,Male,Master Degree,Management,21-30,Married,Yes,1-2,No
+144,28,Female,Master Degree,Science and Technology,0-5,Unmarried,No,1-2,No
+145,25,Male,Bachelor degree ,Management,6-10,Married,No,1-2,No
+146,50,Male,Master Degree,Engineering,31-40,Married,Yes,1-2,No
+147,45,Male,Master Degree,Humanities,21-30,Married,Yes,1-2,No
+148,32,Female,Master Degree,Nursing,0-5,Married,No,1-2,No
+149,45,Male,Master Degree,Management,21-30,Married,Yes,1-2,No
+150,37,Female,Master Degree,Management,6-10,Married,Yes,1-2,No
+151,40,Male,Master Degree,Management,11-20,Married,No,3-4,No
+152,60,Female,Ph.D,Science and Technology,31-40,Married,Yes,1-2,Yes
+153,49,Male,Master Degree,Humanities,11-20,Unmarried,Yes,3-4,No
+154,30,Female,Bachelor degree ,Management,0-5,Unmarried,Yes,1-2,No
+155,46,Male,Master Degree,Humanities,11-20,Married,Yes,1-2,No
+156,37,Male,Master Degree,Management,11-20,Married,Yes,1-2,No
+157,48,Female,Bachelor degree ,Nursing,21-30,Married,Yes,1-2,No
+158,65,Male,M.Phil,Humanities,31-40,Married,Yes,3-4,No
+159,30,Male,Master Degree,Science and Technology,6-10,Unmarried,No,3-4,No
+160,52,Female,Bachelor degree ,Humanities,0-5,Unmarried,No,5-6,Yes
+161,42,Female,Master Degree,Management,11-20,Married,No,1-2,No
+162,75,Male,Ph.D,Humanities,31-40,Married,Yes,1-2,No
+163,21,Male,Master Degree,Management,6-10,Unmarried,Yes,1-2,No
+164,50,Female,Master Degree,Nursing,11-20,Unmarried,Yes,3-4,Yes
+165,51,Male,Ph.D,Management,21-30,Married,Yes,1-2,No
+166,58,Male,Ph.D,Science and Technology,21-30,Married,Yes,1-2,No
+167,59,Male,Ph.D,Science and Technology,31-40,Married,Yes,1-2,No
+168,56,Male,Bachelor degree ,Management,21-30,Married,Yes,3-4,No
+169,24,Female,Bachelor degree ,Nursing,0-5,Unmarried,Yes,3-4,No
+170,74,Male,Ph.D,Management,31-40,Married,No,1-2,No
+171,64,Male,Ph.D,Management,31-40,Married,Yes,1-2,No
+172,46,Female,Ph.D,Science and Technology,21-30,Married,Yes,1-2,Yes
+173,25,Male,Master Degree,Engineering,0-5,Unmarried,Yes,1-2,No
+174,56,Male,M.Phil,Science and Technology,21-30,Married,Yes,1-2,No
+175,66,Male,Master Degree,Humanities,31-40,Married,Yes,1-2,No
+176,45,Female,Ph.D,Management,11-20,Married,No,3-4,No
+177,31,Male,M.Phil,Humanities,6-10,Married,Yes,1-2,No
+178,26,Male,Master Degree,Humanities,6-10,Unmarried,Yes,1-2,No
+179,34,Male,Bachelor degree ,Management,0-5,Unmarried,Yes,7  or above,No
+180,46,Male,Ph.D,Nursing,11-20,Married,Yes,1-2,No
+181,39,Male,Ph.D,Science and Technology,6-10,Married,Yes,3-4,No
+182,33,Male,Master Degree,Science and Technology,6-10,Married,No,3-4,No
+183,33,Female,Master Degree,Management,11-20,Married,Yes,3-4,Yes
+184,53,Male,Ph.D,Science and Technology,21-30,Married,Yes,1-2,No
+185,54,Male,Ph.D,Management,21-30,Married,Yes,1-2,No
+186,26,Female,Master Degree,Management,0-5,Unmarried,Yes,1-2,No
+187,28,Male,Bachelor degree ,Engineering,0-5,Unmarried,No,1-2,No
+188,51,Male,Master Degree,Science and Technology,21-30,Married,Yes,1-2,Yes
+189,42,Female,Bachelor degree ,Nursing,21-30,Married,No,3-4,Yes
+190,45,Male,Master Degree,Management,21-30,Married,Yes,1-2,No
+191,60,Female,Ph.D,Management,31-40,Married,No,1-2,Yes
+192,44,Male,Master Degree,Management,11-20,Married,Yes,1-2,No
+193,33,Male,Master Degree,Humanities,11-20,Married,Yes,1-2,No
+194,28,Male,Bachelor degree ,Humanities,0-5,Unmarried,Yes,1-2,Yes
+195,40,Male,Master Degree,Humanities,11-20,Married,Yes,3-4,No
+196,62,Female,Master Degree,Management,31-40,Unmarried,No,1-2,Yes
+197,33,Female,Master Degree,Management,11-20,Married,No,5-6,No
+198,22,Female,Bachelor degree ,Management,0-5,Unmarried,Yes,3-4,No
+199,54,Male,Master Degree,Humanities,31-40,Married,Yes,1-2,No
+200,57,Male,Bachelor degree ,Engineering,21-30,Married,Yes,7  or above,No
+201,50,Male,Master Degree,Humanities,31-40,Married,Yes,1-2,No
+202,57,Male,Master Degree,Humanities,31-40,Married,Yes,1-2,No
+203,44,Male,Ph.D,Science and Technology,21-30,Married,Yes,1-2,No
+204,31,Female,Master Degree,Nursing,11-20,Unmarried,No,3-4,No
+205,31,Male,Master Degree,Science and Technology,11-20,Married,Yes,3-4,No
+206,51,Male,Master Degree,Management,31-40,Married,Yes,1-2,No
+207,71,Female,Ph.D,Management,31-40,Unmarried,Yes,1-2,Yes
+208,55,Female,Ph.D,Science and Technology,21-30,Married,Yes,3-4,Yes
+209,47,Female,Ph.D,Humanities,11-20,Married,Yes,1-2,No
+210,49,Male,Ph.D,Management,11-20,Married,Yes,1-2,No
+211,32,Male,Master Degree,Humanities,11-20,Married,Yes,5-6,No
+212,47,Female,Ph.D,Humanities,11-20,Married,Yes,5-6,No
+213,43,Male,Master Degree,Management,11-20,Married,No,7  or above,No
+214,42,Male,Ph.D,Science and Technology,21-30,Married,Yes,1-2,No
+215,29,Male,Bachelor degree ,Science and Technology,0-5,Unmarried,Yes,1-2,No
+216,49,Male,Master Degree,Humanities,21-30,Married,Yes,1-2,No
+217,71,Male,Ph.D,Management,31-40,Married,Yes,1-2,No
+218,34,Female,Bachelor degree ,Humanities,6-10,Married,No,3-4,Yes
+219,26,Male,Master Degree,Management,0-5,Unmarried,Yes,1-2,No
+220,45,Male,Master Degree,Management,11-20,Married,No,5-6,No
+221,39,Male,Master Degree,Science and Technology,6-10,Unmarried,No,3-4,No
+222,55,Male,Ph.D,Humanities,21-30,Married,Yes,1-2,No
+223,27,Male,Master Degree,Management,0-5,Unmarried,Yes,1-2,No
+224,45,Male,Master Degree,Management,11-20,Married,Yes,3-4,No
+225,53,Male,Ph.D,Humanities,21-30,Married,Yes,7  or above,No
+226,55,Male,Ph.D,Humanities,21-30,Married,Yes,1-2,No
+227,60,Male,Master Degree,Management,21-30,Married,No,3-4,Yes
+228,50,Male,Master Degree,Management,11-20,Married,Yes,1-2,Yes
+229,56,Female,Ph.D,Humanities,21-30,Married,Yes,1-2,No
+230,38,Male,Master Degree,Management,11-20,Married,Yes,3-4,No
+231,48,Female,Ph.D,Nursing,11-20,Married,Yes,1-2,No
+232,41,Female,Master Degree,Nursing,21-30,Married,No,1-2,No
+233,52,Female,Master Degree,Nursing,31-40,Married,No,3-4,No
+234,42,Male,Master Degree,Management,11-20,Married,Yes,7  or above,Yes
+235,46,Female,Master Degree,Nursing,11-20,Married,Yes,5-6,No
+236,28,Female,Bachelor degree ,Science and Technology,6-10,Unmarried,No,5-6,No
+237,42,Male,Master Degree,Science and Technology,11-20,Married,Yes,1-2,Yes
+238,44,Male,Master Degree,Science and Technology,11-20,Married,No,1-2,Yes
+239,47,Male,Ph.D,Nursing,11-20,Married,Yes,1-2,No
+240,58,Male,Ph.D,Science and Technology,21-30,Married,No,1-2,No
+241,44,Male,Ph.D,Science and Technology,11-20,Married,Yes,3-4,No
+242,43,Male,Ph.D,Humanities,21-30,Married,Yes,5-6,No
+243,66,Male,Master Degree,Management,21-30,Married,Yes,1-2,No
+244,51,Male,Master Degree,Management,31-40,Married,Yes,3-4,Yes
+245,40,Male,Master Degree,Management,21-30,Married,Yes,1-2,No
+246,41,Male,Master Degree,Management,11-20,Married,No,3-4,No
+247,28,Male,Master Degree,Management,0-5,Unmarried,Yes,1-2,No
+248,40,Female,Bachelor degree ,Humanities,21-30,Unmarried,Yes,3-4,No
+249,52,Male,Ph.D,Science and Technology,31-40,Married,Yes,1-2,Yes
+250,29,Male,Master Degree,Management,6-10,Unmarried,Yes,3-4,No
+251,24,Male,Bachelor degree ,Management,0-5,Unmarried,Yes,1-2,No
+252,34,Female,Ph.D,Management,11-20,Married,Yes,1-2,No
+253,49,Male,Ph.D,Science and Technology,21-30,Married,Yes,1-2,No
+254,40,Male,Ph.D,Humanities,11-20,Married,No,1-2,No
+255,48,Male,Master Degree,Management,21-30,Married,Yes,1-2,No
+256,40,Male,Master Degree,Management,11-20,Married,Yes,3-4,No
+257,30,Male,Master Degree,Humanities,11-20,Married,No,3-4,No
+258,39,Male,Master Degree,Science and Technology,6-10,Married,Yes,1-2,No
+259,53,Male,Bachelor degree ,Management,31-40,Married,Yes,1-2,No
+260,45,Male,Ph.D,Management,11-20,Married,Yes,1-2,Yes
+261,75,Female,Ph.D,Nursing,31-40,Married,Yes,1-2,No
+262,57,Male,Ph.D,Science and Technology,31-40,Married,Yes,1-2,No
+263,58,Male,Ph.D,Humanities,21-30,Married,Yes,1-2,No
+264,58,Male,Master Degree,Humanities,21-30,Married,Yes,1-2,No
+265,53,Female,Master Degree,Nursing,21-30,Married,Yes,5-6,Yes
+266,33,Male,Ph.D,Management,6-10,Married,No,3-4,Yes
+267,44,Female,Bachelor degree ,Humanities,0-5,Married,No,1-2,No
+268,36,Female,Master Degree,Nursing,11-20,Married,No,1-2,No
+269,75,Male,Bachelor degree ,Management,31-40,Married,No,1-2,No
+270,33,Male,Master Degree,Humanities,6-10,Unmarried,Yes,3-4,No
+271,44,Male,Ph.D,Humanities,11-20,Married,Yes,3-4,No
+272,33,Male,Master Degree,Humanities,11-20,Married,No,1-2,No
+273,62,Female,Ph.D,Management,31-40,Married,No,1-2,No
+274,64,Male,Master Degree,Management,31-40,Married,Yes,1-2,No
+275,51,Female,Bachelor degree ,Nursing,21-30,Married,No,1-2,No
+276,21,Male,Master Degree,Science and Technology,0-5,Unmarried,Yes,1-2,No
+277,49,Male,Master Degree,Management,11-20,Married,Yes,1-2,No
+278,60,Male,Ph.D,Management,31-40,Married,Yes,1-2,Yes
+279,27,Male,Bachelor degree ,Nursing,0-5,Unmarried,No,3-4,No
+280,71,Male,Ph.D,Humanities,31-40,Married,Yes,1-2,Yes
+281,51,Male,Ph.D,Engineering,31-40,Married,Yes,1-2,No
+282,37,Male,Bachelor degree ,Humanities,0-5,Married,No,3-4,No
+283,53,Male,Master Degree,Engineering,21-30,Married,Yes,1-2,No
+284,36,Female,Ph.D,Engineering,11-20,Married,Yes,1-2,Yes
+285,53,Male,Master Degree,Engineering,21-30,Married,Yes,1-2,No
+286,30,Male,Master Degree,Engineering,0-5,Unmarried,No,1-2,No
+287,73,Male,Master Degree,Science and Technology,31-40,Married,Yes,1-2,No
+288,59,Male,Master Degree,Management,31-40,Married,Yes,1-2,No
+289,49,Male,Master Degree,Nursing,21-30,Married,No,3-4,No
+290,32,Male,Master Degree,Management,6-10,Married,No,3-4,No
+291,66,Male,Master Degree,Humanities,31-40,Unmarried,No,5-6,No
+292,27,Male,Bachelor degree ,Management,0-5,Unmarried,Yes,1-2,No
+293,36,Male,Master Degree,Management,11-20,Married,No,3-4,No
+294,54,Male,Ph.D,Engineering,31-40,Married,No,3-4,No
+295,67,Female,Ph.D,Management,21-30,Married,No,1-2,No
+296,54,Male,Ph.D,Nursing,21-30,Unmarried,Yes,1-2,Yes
+297,48,Female,Ph.D,Management,21-30,Married,Yes,3-4,Yes
+298,38,Female,Master Degree,Humanities,11-20,Married,Yes,1-2,Yes
+299,65,Male,Ph.D,Humanities,31-40,Married,No,1-2,No
+300,51,Male,Bachelor degree ,Management,31-40,Married,Yes,3-4,No
+301,40,Male,Master Degree,Management,6-10,Unmarried,Yes,3-4,No
+302,50,Male,Ph.D,Science and Technology,21-30,Unmarried,Yes,3-4,No
+303,44,Male,Master Degree,Management,11-20,Married,Yes,3-4,Yes
+304,59,Male,Master Degree,Management,21-30,Married,Yes,1-2,No
+305,35,Male,Ph.D,Engineering,11-20,Married,No,1-2,Yes
+306,37,Male,Master Degree,Humanities,11-20,Married,Yes,3-4,No
+307,53,Male,M.Phil,Humanities,21-30,Married,No,1-2,No
+308,60,Male,Master Degree,Management,21-30,Married,Yes,1-2,No
+309,47,Male,Ph.D,Management,11-20,Married,No,1-2,No
+310,44,Male,Ph.D,Science and Technology,11-20,Married,Yes,1-2,No
+311,21,Male,Master Degree,Humanities,0-5,Unmarried,No,1-2,No
+312,57,Female,Ph.D,Humanities,21-30,Married,Yes,1-2,No
+313,47,Male,Ph.D,Management,11-20,Married,Yes,1-2,No
+314,39,Male,Ph.D,Science and Technology,0-5,Married,No,1-2,No
+315,53,Male,Master Degree,Humanities,21-30,Married,Yes,1-2,No
+316,60,Male,Master Degree,Engineering,31-40,Married,Yes,1-2,No
+317,60,Male,Ph.D,Science and Technology,31-40,Married,No,1-2,No
+318,32,Male,Master Degree,Humanities,11-20,Unmarried,Yes,3-4,No
+319,50,Male,Ph.D,Humanities,31-40,Married,No,1-2,No
+320,43,Female,Ph.D,Science and Technology,11-20,Married,Yes,1-2,No
+321,67,Male,Bachelor degree ,Humanities,31-40,Unmarried,Yes,3-4,Yes
+322,30,Male,Ph.D,Management,11-20,Married,Yes,3-4,No
+323,55,Male,Ph.D,Science and Technology,21-30,Married,Yes,1-2,No
+324,37,Male,Master Degree,Humanities,11-20,Married,Yes,3-4,No
+325,46,Male,Master Degree,Management,21-30,Married,Yes,3-4,No
+326,59,Male,Ph.D,Humanities,31-40,Married,No,1-2,No
+327,53,Male,Ph.D,Humanities,21-30,Married,Yes,3-4,No
+328,56,Female,Master Degree,Humanities,11-20,Unmarried,Yes,1-2,Yes
+329,64,Male,Master Degree,Management,31-40,Married,No,1-2,No
+330,27,Male,Bachelor degree ,Humanities,0-5,Unmarried,No,5-6,No
+331,41,Male,M.Phil,Management,11-20,Married,Yes,1-2,No
+332,40,Male,Ph.D,Science and Technology,21-30,Married,Yes,1-2,No
+333,64,Male,Ph.D,Science and Technology,21-30,Married,Yes,1-2,No
+334,27,Male,Master Degree,Humanities,0-5,Unmarried,No,3-4,No
+335,71,Male,Bachelor degree ,Science and Technology,11-20,Unmarried,Yes,1-2,Yes
+336,59,Male,Master Degree,Management,21-30,Married,Yes,1-2,No
+337,34,Female,Ph.D,Nursing,11-20,Married,Yes,1-2,No
+338,36,Male,Master Degree,Management,6-10,Unmarried,Yes,7  or above,No
+339,54,Female,Master Degree,Management,31-40,Married,Yes,1-2,No
+340,58,Female,Master Degree,Humanities,11-20,Unmarried,No,1-2,Yes
+341,30,Male,Master Degree,Science and Technology,6-10,Married,Yes,3-4,No
+342,32,Male,Master Degree,Science and Technology,6-10,Married,Yes,1-2,No
+343,46,Female,Ph.D,Nursing,11-20,Unmarried,Yes,1-2,No
+344,71,Male,Ph.D,Science and Technology,31-40,Married,Yes,3-4,No
+345,55,Female,Ph.D,Nursing,31-40,Unmarried,Yes,1-2,No
+346,23,Male,Master Degree,Management,6-10,Unmarried,Yes,1-2,No
+347,57,Male,Master Degree,Management,21-30,Married,Yes,1-2,Yes
+348,64,Male,Ph.D,Nursing,31-40,Married,Yes,1-2,No
+349,50,Male,Ph.D,Engineering,21-30,Married,Yes,1-2,No
+350,23,Female,Master Degree,Nursing,0-5,Unmarried,No,1-2,No
+351,40,Male,Master Degree,Nursing,11-20,Married,Yes,5-6,Yes
+352,38,Male,Master Degree,Nursing,11-20,Married,No,5-6,No
+353,33,Female,Master Degree,Humanities,11-20,Married,No,3-4,No
+354,42,Female,Master Degree,Management,21-30,Married,Yes,1-2,Yes
+355,36,Female,Master Degree,Nursing,11-20,Married,Yes,1-2,No
+356,50,Female,Master Degree,Management,11-20,Married,Yes,1-2,No
+357,56,Male,Master Degree,Science and Technology,31-40,Married,Yes,3-4,No
+358,72,Male,Bachelor degree ,Humanities,31-40,Married,Yes,1-2,No
+359,55,Female,Bachelor degree ,Humanities,31-40,Married,Yes,1-2,No
+360,49,Male,Master Degree,Management,11-20,Married,Yes,7  or above,No
+361,70,Male,Bachelor degree ,Science and Technology,31-40,Married,Yes,5-6,No
+362,27,Male,Master Degree,Management,0-5,Unmarried,Yes,1-2,No
+363,29,Male,Bachelor degree ,Management,0-5,Unmarried,Yes,7  or above,No
+364,47,Male,Master Degree,Engineering,0-5,Unmarried,No,3-4,No
+365,41,Female,Master Degree,Humanities,11-20,Married,Yes,1-2,No
+366,71,Male,Master Degree,Management,31-40,Married,Yes,1-2,No
+367,36,Female,Ph.D,Management,11-20,Married,No,5-6,Yes
+368,48,Female,Ph.D,Management,21-30,Married,Yes,1-2,Yes
+369,52,Female,Master Degree,Management,31-40,Married,Yes,1-2,No
+370,42,Male,Ph.D,Humanities,21-30,Married,Yes,7  or above,No
+371,49,Female,Master Degree,Humanities,11-20,Unmarried,Yes,3-4,No
+372,53,Female,Master Degree,Nursing,31-40,Married,No,3-4,Yes
+373,42,Male,Master Degree,Management,11-20,Married,No,1-2,Yes
+374,33,Male,Master Degree,Management,6-10,Married,No,1-2,No
+375,29,Male,Bachelor degree ,Science and Technology,6-10,Unmarried,Yes,1-2,No
+376,40,Male,Master Degree,Humanities,11-20,Married,No,1-2,No
+377,32,Male,Ph.D,Management,6-10,Married,Yes,1-2,Yes
+378,57,Male,Ph.D,Science and Technology,21-30,Married,Yes,5-6,No
+379,26,Male,Bachelor degree ,Management,6-10,Unmarried,Yes,1-2,No
+380,59,Male,Master Degree,Humanities,21-30,Married,No,1-2,Yes
+381,52,Male,Master Degree,Humanities,21-30,Married,No,1-2,Yes
+382,47,Male,Master Degree,Management,11-20,Married,Yes,3-4,No
+383,30,Female,Bachelor degree ,Management,0-5,Unmarried,No,7  or above,No
+384,29,Male,Bachelor degree ,Management,0-5,Unmarried,No,7  or above,No
+385,55,Male,Ph.D,Management,21-30,Married,Yes,1-2,Yes
+386,46,Female,Ph.D,Management,11-20,Married,Yes,1-2,Yes
+387,40,Male,Master Degree,Engineering,11-20,Married,No,1-2,No
+388,24,Male,Bachelor degree ,Engineering,6-10,Married,Yes,3-4,No
+389,49,Male,Master Degree,Management,21-30,Married,Yes,1-2,No
+390,35,Male,Bachelor degree ,Engineering,11-20,Married,No,7  or above,No
+391,50,Female,Bachelor degree ,Management,21-30,Unmarried,No,1-2,Yes
+392,66,Male,Master Degree,Engineering,31-40,Married,Yes,1-2,No
+393,36,Male,Master Degree,Engineering,6-10,Unmarried,Yes,3-4,No
+394,38,Male,Master Degree,Management,6-10,Married,Yes,3-4,No
+395,31,Female,Master Degree,Management,11-20,Married,Yes,1-2,Yes
+396,74,Female,Bachelor degree ,Management,31-40,Married,No,3-4,Yes
+397,50,Male,Master Degree,Management,11-20,Married,Yes,1-2,No
+398,54,Female,Ph.D,Management,11-20,Married,No,1-2,No
+399,40,Male,Master Degree,Humanities,11-20,Married,No,3-4,No
+400,47,Male,Ph.D,Humanities,21-30,Married,No,1-2,Yes
+401,52,Female,Ph.D,Humanities,21-30,Married,No,1-2,No
+402,43,Male,Master Degree,Humanities,11-20,Married,No,1-2,No
+403,40,Female,Ph.D,Management,11-20,Unmarried,Yes,1-2,No
+404,50,Male,Ph.D,Humanities,11-20,Married,Yes,1-2,Yes
+405,50,Male,Bachelor degree ,Management,21-30,Married,Yes,3-4,No
+406,54,Male,Master Degree,Management,31-40,Married,Yes,1-2,Yes
+407,40,Male,Ph.D,Science and Technology,11-20,Married,Yes,1-2,No
+408,30,Male,Bachelor degree ,Humanities,0-5,Unmarried,Yes,3-4,No
+409,59,Male,Bachelor degree ,Management,31-40,Unmarried,No,1-2,Yes
+410,53,Male,Bachelor degree ,Management,31-40,Unmarried,No,1-2,Yes
+411,40,Female,Ph.D,Science and Technology,0-5,Unmarried,Yes,1-2,Yes
+412,32,Male,Master Degree,Science and Technology,6-10,Married,No,3-4,Yes
+413,34,Male,Master Degree,Management,6-10,Married,Yes,1-2,No
+414,30,Female,Bachelor degree ,Science and Technology,0-5,Unmarried,Yes,5-6,No
+415,44,Male,Ph.D,Science and Technology,21-30,Married,Yes,1-2,Yes
+416,44,Male,Master Degree,Management,11-20,Married,Yes,3-4,No
+417,36,Male,Bachelor degree ,Science and Technology,0-5,Married,No,5-6,No
+418,20,Male,Bachelor degree ,Science and Technology,0-5,Unmarried,No,3-4,No
+419,56,Male,Bachelor degree ,Management,31-40,Married,Yes,3-4,Yes
+420,30,Male,Bachelor degree ,Science and Technology,0-5,Unmarried,Yes,3-4,No
+421,20,Male,Bachelor degree ,Science and Technology,0-5,Unmarried,Yes,3-4,No
+422,40,Male,Master Degree,Management,11-20,Married,Yes,1-2,No
+423,47,Male,Bachelor degree ,Science and Technology,21-30,Married,Yes,5-6,No
+424,32,Male,Master Degree,Management,6-10,Married,Yes,3-4,No
+425,31,Male,Ph.D,Humanities,11-20,Unmarried,Yes,3-4,No
+426,55,Male,Ph.D,Engineering,31-40,Married,Yes,1-2,No
+427,43,Female,M.Phil,Humanities,11-20,Married,No,5-6,Yes
+428,46,Male,Master Degree,Humanities,21-30,Married,Yes,3-4,No
+429,28,Female,Master Degree,Science and Technology,6-10,Married,Yes,3-4,No
