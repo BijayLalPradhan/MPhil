@@ -1,0 +1,18 @@
+n=40
+x=1:n
+p=0.5
+prob1 <- round(dbinom(x, n, p), digits = 4)
+mydata1=data.frame(x,prob1)
+print(mydata1)
+plot(mydata1)
+lines(x, prob)
+grid()
+
+m=2
+y=1:30
+prob2<-round(dpois(y,m), digits=4)
+mydata2=data.frame(y,prob2)
+print(mydata2)
+plot(mydata2)
+lines(y,prob2)
+grid()
