@@ -1,0 +1,79 @@
+#### SPU  Exam 2081   ##### Final Examination 2081 ##################
+#####################################################################
+library(moments)
+#Question No 1
+cs=c(7,8,9,6,7,8,7,6,9,8,7,5,8,7,9,7,10,8,6,8,7,8,9,7,5,8,6,7,8,9)
+mean(cs)
+sd(cs)
+sqrt((length(cs)-1)/length(cs))*sd(cs)
+skewness(cs)
+kurtosis(cs)
+####################################################################
+#Question No 2
+mu1=500
+sd1=50
+pnorm(550,mu1,sd1,lower.tail = FALSE)
+1000*(pnorm(500,mu1,sd1)-pnorm(450,mu1,sd1))
+qnorm(0.95,mu1,sd1)
+###################################################################
+#Question No 3 a) 0.6, b)0.2  c) 0.65   d)15/25=0.6
+###################################################################
+#Question No 4
+n1=200
+n2=160
+x1=150
+x2=130
+p1=x1/n1
+p2=x2/n2
+p=(x1+x2)/(n1+n2)
+(p1-p2)/sqrt((p*(1-p))*((1/n1)+(1/n2)))
+#####################################################################
+#Question No 5
+n3=50
+mu2=12.5
+sd2=3.2
+se2=sd2/sqrt(n3)
+z2=1.96
+me2=se2*z2
+mu2-me2 # lower confidance interval
+mu2+me2 # upper confidance interval
+#######################################################################
+# Qs 6 Cluster sampling , conducting consumer preference
+########################################################################
+#Question No 7
+ot=c(2,4,6,8,10,12,14,16,18,20)
+c=c(1,2,2,3,3,4,4,5,6,7)
+lm1=(lm(c~ot))
+0.3333+0.3061*24
+anova(lm1)
+summary(lm1)
+sqrt(0.1485)
+30.9121/(30.9121+1.1879)
+#######################################################################
+#Question No 8
+data1=data.frame(score=c(85,88,90,87,89,92,78,80,83,76,79,81,82,85,88,84,87,90),
+                 type=c("T","T","T","T","T","T","O","O","O","O","O","O","H","H","H","H","H","H"))
+aov1=(aov(score~type,data1))
+summary(aov1)
+######################################################################
+#Question No 9
+before=c(70,65,60,75,80,85,90,92)
+after=c(75,70,65,78,85,90,95,98)
+t.test(before,after,mu=0,paired=TRUE)
+#######################################################################
+#Question No 10
+Input =(
+  "Child          Neffective seffective  veffective
+ under25          100         150        250
+ 25-40            120         180        200
+ Above40          90          130        180
+")
+
+# convert the text string into a table with a header row of labels and a first column of row labels
+myMatrix = as.matrix(read.table(textConnection(Input),
+                                header=TRUE, 
+                                row.names=1))
+myMatrix
+chi1=chisq.test(myMatrix, correct=FALSE)      # don't do continuity correction
+chi1$parameter
+###########################################################################
