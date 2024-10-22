@@ -1,11 +1,19 @@
 #### SPU  Exam 2081   ##### Final Examination 2081 ##################
 #####################################################################
-library(moments)
 #Question No 1
 cs=c(7,8,9,6,7,8,7,6,9,8,7,5,8,7,9,7,10,8,6,8,7,8,9,7,5,8,6,7,8,9)
 mean(cs)
 sd(cs)
 sqrt((length(cs)-1)/length(cs))*sd(cs)
+a=cs-mean(cs)
+mean(a)
+m2=sum(a^2)/length(cs)
+m3=sum(a^3)/length(cs)
+m4=sum(a^4)/length(cs)
+m3/((m2)^1.5) # Moment Coefficient of skewness
+(m4/(m2)^2)-3  # Moment Coefficient of kurtosis
+# Alternatively
+library(moments)
 skewness(cs)
 kurtosis(cs)
 ####################################################################
